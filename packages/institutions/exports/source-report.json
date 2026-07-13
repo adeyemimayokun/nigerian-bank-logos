@@ -1,0 +1,86 @@
+{
+  "snapshot_date": "2026-07-13",
+  "generated_at": "2026-07-13",
+  "totals": {
+    "nigerian": 1676,
+    "foreign_authorized": 58
+  },
+  "category_totals": {
+    "commercial-bank": 26,
+    "microfinance-bank": 10,
+    "fintech": 2,
+    "crypto-vasp": 7,
+    "financial-holding-company": 7,
+    "remittance-imto": 108,
+    "mobile-money-operator": 17,
+    "bureau-de-change": 0,
+    "payment-service-bank": 5,
+    "non-interest-bank": 4,
+    "primary-mortgage-bank": 0,
+    "merchant-bank": 5,
+    "development-finance-institution": 7,
+    "discount-house": 0,
+    "finance-company": 0,
+    "switching-processing": 19,
+    "payment-solution-service-provider": 124,
+    "payment-terminal-service-provider": 47,
+    "super-agent": 61,
+    "payment-service-holding-company": 1,
+    "card-scheme": 8,
+    "clearing-house": 2,
+    "credit-bureau": 0,
+    "digital-lender": 563,
+    "crowdfunding-platform": 3,
+    "robo-adviser": 1,
+    "digital-broker": 4,
+    "investment-manager": 1,
+    "insurer": 75,
+    "reinsurer": 3,
+    "insurance-broker": 675,
+    "pension-fund-administrator": 19,
+    "pension-fund-custodian": 3
+  },
+  "sources": [
+    {
+      "regulator": "CBN",
+      "register": "Payment Service Providers",
+      "status": "imported"
+    },
+    {
+      "regulator": "CBN",
+      "register": "International Money Transfer Operators",
+      "status": "imported"
+    },
+    {
+      "regulator": "SEC",
+      "register": "Registered FinTech Operators",
+      "status": "imported"
+    },
+    {
+      "regulator": "NDIC",
+      "register": "Insured Institutions",
+      "status": "unavailable-as-structured-list",
+      "note": "The public page names institution classes but does not expose institution rows."
+    },
+    {
+      "regulator": "FCCPC",
+      "register": "Digital Money Lenders",
+      "status": "imported"
+    },
+    {
+      "regulator": "NAICOM",
+      "register": "Licensed Insurance Institutions",
+      "status": "imported"
+    },
+    {
+      "regulator": "PenCom",
+      "register": "Licensed Pension Operators",
+      "status": "imported"
+    }
+  ],
+  "known_gaps": [
+    "Current structured regulator lists were not publicly extractable for all MFBs, PMBs, finance companies, DFIs, BDCs, and credit bureaus.",
+    "Foreign IMTO country codes are inferred from the regulator-listed address and use ZZ when the jurisdiction is not identifiable.",
+    "Discount houses remain an explicit zero-record category pending evidence of an active licensee."
+  ]
+}

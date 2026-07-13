@@ -1,0 +1,27 @@
+{
+  "name": "@nigerian-bank-logos/core",
+  "version": "0.1.0",
+  "description": "Typed metadata and multi-format assets for Nigerian bank and fintech logos.",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src/assets",
+    "src/sources",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "zod": "^3.24.1"
+  }
+}

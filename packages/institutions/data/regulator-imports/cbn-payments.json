@@ -1,0 +1,7231 @@
+[
+  {
+    "slug": "3gee-pay",
+    "legal_name": "3gee Pay Limited",
+    "brand_name": "3gee Pay",
+    "aliases": [
+      "3gee Pay Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "3line-card-management",
+    "legal_name": "3Line Card Management",
+    "brand_name": "3Line Card Management",
+    "aliases": [
+      "3Line Card Management Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "card-scheme",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "5554-technologies",
+    "legal_name": "5554 Technologies Limited",
+    "brand_name": "5554 Technologies",
+    "aliases": [
+      "5554 Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "abeg-technologies",
+    "legal_name": "Abeg Technologies Limited",
+    "brand_name": "Abeg Technologies",
+    "aliases": [
+      "Abeg Technologies Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "accelerex-networks",
+    "legal_name": "Accelerex Networks Limited",
+    "brand_name": "Accelerex Networks",
+    "aliases": [
+      "Accelerex Networks Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "accesspower-payments-solutions",
+    "legal_name": "AccessPower Payments Solutions Limited",
+    "brand_name": "AccessPower Payments Solutions",
+    "aliases": [
+      "AccessPower Payments Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "afara-partners",
+    "legal_name": "Afara Partners Limited",
+    "brand_name": "Afara Partners",
+    "aliases": [
+      "Afara Partners Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "africa-mama-atm",
+    "legal_name": "Africa Mama Atm Limited",
+    "brand_name": "Africa Mama Atm",
+    "aliases": [
+      "Africa Mama Atm Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "africave-technologies",
+    "legal_name": "Africave Technologies Limited",
+    "brand_name": "Africave Technologies",
+    "aliases": [
+      "Africave Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "afrigo-financial-services",
+    "legal_name": "Afrigo Financial Services Limited",
+    "brand_name": "Afrigo Financial Services",
+    "aliases": [
+      "Afrigo Financial Services Limited"
+    ],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "airtel-mobile-commerce-nigeria-limited-airtel",
+    "legal_name": "Airtel Mobile Commerce Nigeria Limited (Airtel)",
+    "brand_name": "Airtel Mobile Commerce Nigeria Limited (Airtel)",
+    "aliases": [],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "akupay-services",
+    "legal_name": "Akupay Services Limited",
+    "brand_name": "Akupay Services",
+    "aliases": [
+      "Akupay Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "alaje-technology",
+    "legal_name": "Alaje Technology Limited",
+    "brand_name": "Alaje Technology",
+    "aliases": [
+      "Alaje Technology Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "aliancepay",
+    "legal_name": "Aliancepay Limited",
+    "brand_name": "Aliancepay",
+    "aliases": [
+      "Aliancepay Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "allstream-information-technology-solutions",
+    "legal_name": "Allstream Information Technology Solutions Limited",
+    "brand_name": "Allstream Information Technology Solutions",
+    "aliases": [
+      "Allstream Information Technology Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "american-express-international",
+    "legal_name": "American Express International",
+    "brand_name": "American Express International",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "angala-financial-technologies",
+    "legal_name": "Angala Financial Technologies Limited",
+    "brand_name": "Angala Financial Technologies",
+    "aliases": [
+      "Angala Financial Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "appglobal-technologies",
+    "legal_name": "Appglobal Technologies Limited",
+    "brand_name": "Appglobal Technologies",
+    "aliases": [
+      "Appglobal Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "appmart-integrated",
+    "legal_name": "Appmart Integrated Limited",
+    "brand_name": "Appmart Integrated",
+    "aliases": [
+      "Appmart Integrated Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "arca-payments-company",
+    "legal_name": "Arca Payments Company Limited",
+    "brand_name": "Arca Payments Company",
+    "aliases": [
+      "Arca Payments Company Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "aspapay",
+    "legal_name": "Aspapay Limited",
+    "brand_name": "Aspapay",
+    "aliases": [
+      "Aspapay Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "atn-wayya",
+    "legal_name": "ATN Wayya Limited",
+    "brand_name": "ATN Wayya",
+    "aliases": [
+      "ATN Wayya Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "belema-financial-technology",
+    "legal_name": "Belema Financial Technology Limited",
+    "brand_name": "Belema Financial Technology",
+    "aliases": [
+      "Belema Financial Technology Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bestaff-payment-solutions",
+    "legal_name": "Bestaff Payment Solutions Limited",
+    "brand_name": "Bestaff Payment Solutions",
+    "aliases": [
+      "Bestaff Payment Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "betastack-technology",
+    "legal_name": "Betastack Technology Limited",
+    "brand_name": "Betastack Technology",
+    "aliases": [
+      "Betastack Technology Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "billzone-solutions",
+    "legal_name": "Billzone Solutions Limited",
+    "brand_name": "Billzone Solutions",
+    "aliases": [
+      "Billzone Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bizzdesk-global-solutions",
+    "legal_name": "Bizzdesk Global Solutions Limited",
+    "brand_name": "Bizzdesk Global Solutions",
+    "aliases": [
+      "Bizzdesk Global Solutions Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bluesalt-financial-services",
+    "legal_name": "Bluesalt Financial Services Limited",
+    "brand_name": "Bluesalt Financial Services",
+    "aliases": [
+      "Bluesalt Financial Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "blusalt-financial-services",
+    "legal_name": "Blusalt Financial Services Limited",
+    "brand_name": "Blusalt Financial Services",
+    "aliases": [
+      "Blusalt Financial Services Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bt-payments-services",
+    "legal_name": "BT Payments Services Nigeria Limited",
+    "brand_name": "BT Payments Services",
+    "aliases": [
+      "BT Payments Services Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bud-infrastructure",
+    "legal_name": "Bud Infrastructure Limited",
+    "brand_name": "Bud Infrastructure",
+    "aliases": [
+      "Bud Infrastructure Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bvnk-services",
+    "legal_name": "Bvnk Services Limited",
+    "brand_name": "Bvnk Services",
+    "aliases": [
+      "Bvnk Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "c24",
+    "legal_name": "C24 Limited",
+    "brand_name": "C24",
+    "aliases": [
+      "C24 Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "callphone",
+    "legal_name": "Callphone Limited",
+    "brand_name": "Callphone",
+    "aliases": [
+      "Callphone Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "capricorn-digital",
+    "legal_name": "Capricorn Digital Limited",
+    "brand_name": "Capricorn Digital",
+    "aliases": [
+      "Capricorn Digital Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cbi-technologies",
+    "legal_name": "CBI Technologies Ltd",
+    "brand_name": "CBI Technologies",
+    "aliases": [
+      "CBI Technologies Ltd"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cellulant",
+    "legal_name": "Cellulant Nigeria Limited",
+    "brand_name": "Cellulant",
+    "aliases": [
+      "Cellulant Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "centric-gateway",
+    "legal_name": "Centric Gateway Limited",
+    "brand_name": "Centric Gateway",
+    "aliases": [
+      "Centric Gateway Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "ceviant-payments",
+    "legal_name": "Ceviant Payments Nigeria Limited",
+    "brand_name": "Ceviant Payments",
+    "aliases": [
+      "Ceviant Payments Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chams-mobile",
+    "legal_name": "Chams Mobile",
+    "brand_name": "Chams Mobile",
+    "aliases": [],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chamswitch",
+    "legal_name": "Chamswitch Limited",
+    "brand_name": "Chamswitch",
+    "aliases": [
+      "Chamswitch Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cicoserve-payments",
+    "legal_name": "Cicoserve Payments Limited",
+    "brand_name": "Cicoserve Payments",
+    "aliases": [
+      "Cicoserve Payments Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "citiserve",
+    "legal_name": "Citiserve Limited",
+    "brand_name": "Citiserve",
+    "aliases": [
+      "Citiserve Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "clane-company-nig",
+    "legal_name": "Clane Company Nig. Ltd",
+    "brand_name": "Clane Company Nig.",
+    "aliases": [
+      "Clane Company Nig. Ltd"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "computer-warehouse-group",
+    "legal_name": "Computer Warehouse Group",
+    "brand_name": "Computer Warehouse Group",
+    "aliases": [],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "connectpoint-technology-solutions",
+    "legal_name": "Connectpoint Technology Solutions Limited",
+    "brand_name": "Connectpoint Technology Solutions",
+    "aliases": [
+      "Connectpoint Technology Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "coralpay-technology",
+    "legal_name": "Coralpay Technology Nigeria Limited",
+    "brand_name": "Coralpay Technology",
+    "aliases": [
+      "Coralpay Technology Nigeria Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "crowd-force",
+    "legal_name": "Crowd Force Limited",
+    "brand_name": "Crowd Force",
+    "aliases": [
+      "Crowd Force Limited",
+      "Mobile Forms Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cyberpay",
+    "legal_name": "Cyberpay Limited",
+    "brand_name": "Cyberpay",
+    "aliases": [
+      "Cyberpay Limited",
+      "Cyberspace Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "demerge",
+    "legal_name": "Demerge Nigeria Limited",
+    "brand_name": "Demerge",
+    "aliases": [
+      "Demerge Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "dot-financial-inclusion-technologies",
+    "legal_name": "Dot Financial Inclusion Technologies Limited",
+    "brand_name": "Dot Financial Inclusion Technologies",
+    "aliases": [
+      "Dot Financial Inclusion Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "duplo",
+    "legal_name": "Duplo Limited",
+    "brand_name": "Duplo",
+    "aliases": [
+      "Duplo Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "e-settlement",
+    "legal_name": "E-Settlement Limited",
+    "brand_name": "E-Settlement",
+    "aliases": [
+      "E-Settlement Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "easypay-international-services",
+    "legal_name": "Easypay International Services Limited",
+    "brand_name": "Easypay International Services",
+    "aliases": [
+      "Easypay International Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "echezona-digital-gateway",
+    "legal_name": "Echezona Digital Gateway Limited",
+    "brand_name": "Echezona Digital Gateway",
+    "aliases": [
+      "Echezona Digital Gateway Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "egole-pay",
+    "legal_name": "Egole Pay Limited",
+    "brand_name": "Egole Pay",
+    "aliases": [
+      "Egole Pay Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "elipa-payments",
+    "legal_name": "Elipa Payments Limited",
+    "brand_name": "Elipa Payments",
+    "aliases": [
+      "Elipa Payments Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "end2end-technologies",
+    "legal_name": "End2end Technologies Limited",
+    "brand_name": "End2end Technologies",
+    "aliases": [
+      "End2end Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "epic-payment-technologies",
+    "legal_name": "Epic Payment Technologies Limited",
+    "brand_name": "Epic Payment Technologies",
+    "aliases": [
+      "Epic Payment Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "ercas-integrated-solutions",
+    "legal_name": "Ercas Integrated Solutions Limited",
+    "brand_name": "Ercas Integrated Solutions",
+    "aliases": [
+      "Ercas Integrated Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "errand-p",
+    "legal_name": "Errand P Limited",
+    "brand_name": "Errand P",
+    "aliases": [
+      "Errand P Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "etop",
+    "legal_name": "Etop Nigeria Limited",
+    "brand_name": "Etop",
+    "aliases": [
+      "Etop Nigeria Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "etranzact-international",
+    "legal_name": "eTranzact International Limited",
+    "brand_name": "eTranzact International",
+    "aliases": [
+      "eTranzact International Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "mobile-money-operator",
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator",
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "eyowo-integrated-payments",
+    "legal_name": "Eyowo Integrated Payments Limited",
+    "brand_name": "Eyowo Integrated Payments",
+    "aliases": [
+      "Eyowo Integrated Payments Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fairsure-payments",
+    "legal_name": "Fairsure Payments Limited",
+    "brand_name": "Fairsure Payments",
+    "aliases": [
+      "Fairsure Payments Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fidesic",
+    "legal_name": "Fidesic Nigeria Limited",
+    "brand_name": "Fidesic",
+    "aliases": [
+      "Fidesic Nigeria Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "figours-innovation",
+    "legal_name": "Figours Innovation Limited",
+    "brand_name": "Figours Innovation",
+    "aliases": [
+      "Figours Innovation Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fincra-technologies",
+    "legal_name": "Fincra Technologies Limited",
+    "brand_name": "Fincra Technologies",
+    "aliases": [
+      "Fincra Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "flutterwave-technology-solutions",
+    "legal_name": "Flutterwave Technology Solutions Limited",
+    "brand_name": "Flutterwave Technology Solutions",
+    "aliases": [
+      "Flutterwave Technology Solutions Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fortis-mobile-money",
+    "legal_name": "Fortis Mobile Money Limited",
+    "brand_name": "Fortis Mobile Money",
+    "aliases": [
+      "Fortis Mobile Money Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fountain-payment-systems-solution",
+    "legal_name": "Fountain Payment Systems Solution",
+    "brand_name": "Fountain Payment Systems Solution",
+    "aliases": [],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fucil-datatech",
+    "legal_name": "Fucil Datatech Limited",
+    "brand_name": "Fucil Datatech",
+    "aliases": [
+      "Fucil Datatech Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "funds-and-electronic-transfer-fets",
+    "legal_name": "Funds And Electronic Transfer (FETS) Limited",
+    "brand_name": "Funds And Electronic Transfer (FETS)",
+    "aliases": [
+      "Funds And Electronic Transfer (FETS) Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "funds-konnect-limited-formerly-funds-and-electronic-transfers-fets-limited",
+    "legal_name": "Funds Konnect Limited (Formerly Funds and Electronic Transfers (FETs)Limited)",
+    "brand_name": "Funds Konnect Limited (Formerly Funds and Electronic Transfers (FETs)Limited)",
+    "aliases": [],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "futurepay-tech-solutions",
+    "legal_name": "Futurepay Tech Solutions Nigeria Limited",
+    "brand_name": "Futurepay Tech Solutions",
+    "aliases": [
+      "Futurepay Tech Solutions Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gemspay",
+    "legal_name": "Gemspay Limited",
+    "brand_name": "Gemspay",
+    "aliases": [
+      "Gemspay Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "global-accelerex",
+    "legal_name": "Global Accelerex Limited",
+    "brand_name": "Global Accelerex",
+    "aliases": [
+      "Global Accelerex Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gpay-instant-solution",
+    "legal_name": "Gpay Instant Solution Limited",
+    "brand_name": "Gpay Instant Solution",
+    "aliases": [
+      "Gpay Instant Solution Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gtp-client-services",
+    "legal_name": "GTP Client Services Limited",
+    "brand_name": "GTP Client Services",
+    "aliases": [
+      "GTP Client Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gwills-payments-service",
+    "legal_name": "Gwills Payments Service Limited",
+    "brand_name": "Gwills Payments Service",
+    "aliases": [
+      "Gwills Payments Service Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "habaripay",
+    "legal_name": "Habaripay Limited",
+    "brand_name": "Habaripay",
+    "aliases": [
+      "Habaripay Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "hea-dew-solutions",
+    "legal_name": "Hea-Dew Solutions Nigeria Limited",
+    "brand_name": "Hea-Dew Solutions",
+    "aliases": [
+      "Hea-Dew Solutions Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "hedonmark-management-services",
+    "legal_name": "Hedonmark Management Services Limited",
+    "brand_name": "Hedonmark Management Services",
+    "aliases": [
+      "Hedonmark Management Services Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "hellopay-africa-integrated-service",
+    "legal_name": "Hellopay Africa Integrated Service Ltd",
+    "brand_name": "Hellopay Africa Integrated Service",
+    "aliases": [
+      "Hellopay Africa Integrated Service Ltd"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "horizonpay",
+    "legal_name": "Horizonpay Nigeria Limited",
+    "brand_name": "Horizonpay",
+    "aliases": [
+      "Horizonpay Nigeria Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "huiospay",
+    "legal_name": "Huiospay Limited",
+    "brand_name": "Huiospay",
+    "aliases": [
+      "Huiospay Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "hydrogen-payment-services",
+    "legal_name": "Hydrogen Payment Services Limited",
+    "brand_name": "Hydrogen Payment Services",
+    "aliases": [
+      "Hydrogen Payment Services Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "icad-concord",
+    "legal_name": "ICAD Concord Limited",
+    "brand_name": "ICAD Concord",
+    "aliases": [
+      "ICAD Concord Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "infibranches-technology",
+    "legal_name": "Infibranches Technology Limited",
+    "brand_name": "Infibranches Technology",
+    "aliases": [
+      "Infibranches Technology Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "infiniti-segments",
+    "legal_name": "Infiniti Segments Limited",
+    "brand_name": "Infiniti Segments",
+    "aliases": [
+      "Infiniti Segments Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "integrated-revenue-collection-and-management-solution-ircms",
+    "legal_name": "Integrated Revenue Collection and Management Solution(IRCMS) Limited",
+    "brand_name": "Integrated Revenue Collection and Management Solution(IRCMS)",
+    "aliases": [
+      "Integrated Revenue Collection and Management Solution(IRCMS) Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "intellifin-solution",
+    "legal_name": "Intellifin Solution Limited",
+    "brand_name": "Intellifin Solution",
+    "aliases": [
+      "Intellifin Solution Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "intergrated-revenue-collection-and-management-solution-ircms",
+    "legal_name": "Intergrated Revenue Collection and Management Solution (IRCMS) Limited",
+    "brand_name": "Intergrated Revenue Collection and Management Solution (IRCMS)",
+    "aliases": [
+      "Intergrated Revenue Collection and Management Solution (IRCMS) Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "interswitch",
+    "legal_name": "Interswitch Limited",
+    "brand_name": "Interswitch",
+    "aliases": [
+      "Interswitch Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "interswitch-financial-inclusion-services",
+    "legal_name": "Interswitch Financial Inclusion Services Limited",
+    "brand_name": "Interswitch Financial Inclusion Services",
+    "aliases": [
+      "Interswitch Financial Inclusion Services Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "interswitch-pshc",
+    "legal_name": "Interswitch PSHC Nigeria Limited",
+    "brand_name": "Interswitch PSHC",
+    "aliases": [
+      "Interswitch PSHC Nigeria Limited"
+    ],
+    "primary_category": "payment-service-holding-company",
+    "categories": [
+      "payment-service-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "irecharge-technology-innovations",
+    "legal_name": "Irecharge Technology Innovations Limited",
+    "brand_name": "Irecharge Technology Innovations",
+    "aliases": [
+      "Irecharge Technology Innovations Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "irofit-technologies",
+    "legal_name": "Irofit Technologies Limited",
+    "brand_name": "Irofit Technologies",
+    "aliases": [
+      "Irofit Technologies Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "irofit-technologies-limitedd",
+    "legal_name": "Irofit Technologies LimitedD",
+    "brand_name": "Irofit Technologies LimitedD",
+    "aliases": [],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "itex-integrated-services",
+    "legal_name": "Itex Integrated Services Limited",
+    "brand_name": "Itex Integrated Services",
+    "aliases": [
+      "Itex Integrated Services Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "jupiter-payment-services",
+    "legal_name": "Jupiter Payment Services Limited",
+    "brand_name": "Jupiter Payment Services",
+    "aliases": [
+      "Jupiter Payment Services Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "kadick-integrated",
+    "legal_name": "Kadick Integrated Limited",
+    "brand_name": "Kadick Integrated",
+    "aliases": [
+      "Kadick Integrated Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "karrabo-financial-solutions",
+    "legal_name": "Karrabo Financial Solutions Limited",
+    "brand_name": "Karrabo Financial Solutions",
+    "aliases": [
+      "Karrabo Financial Solutions Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "katsu-network",
+    "legal_name": "Katsu Network Limited",
+    "brand_name": "Katsu Network",
+    "aliases": [
+      "Katsu Network Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "klasha-technologies",
+    "legal_name": "Klasha Technologies Limited",
+    "brand_name": "Klasha Technologies",
+    "aliases": [
+      "Klasha Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "konetpay",
+    "legal_name": "Konetpay Nigeria Limited",
+    "brand_name": "Konetpay",
+    "aliases": [
+      "Konetpay Nigeria Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "kongapay-technologies",
+    "legal_name": "KongaPay Technologies Limited",
+    "brand_name": "KongaPay Technologies",
+    "aliases": [
+      "KongaPay Technologies Limited",
+      "Zinternet Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "kora-payments",
+    "legal_name": "Kora Payments",
+    "brand_name": "Kora Payments",
+    "aliases": [],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "leadremit",
+    "legal_name": "Leadremit Limited",
+    "brand_name": "Leadremit",
+    "aliases": [
+      "Leadremit Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "liberty-pay",
+    "legal_name": "Liberty Pay Limited",
+    "brand_name": "Liberty Pay",
+    "aliases": [
+      "Liberty Pay Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "linq-payment-technology",
+    "legal_name": "Linq Payment Technology Limited",
+    "brand_name": "Linq Payment Technology",
+    "aliases": [
+      "Linq Payment Technology Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "lukeport",
+    "legal_name": "Lukeport Nigeria Limited",
+    "brand_name": "Lukeport",
+    "aliases": [
+      "Lukeport Nigeria Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "mastercard-international",
+    "legal_name": "Mastercard International",
+    "brand_name": "Mastercard International",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "microsystems-investment-and-development",
+    "legal_name": "Microsystems Investment And Development Limited",
+    "brand_name": "Microsystems Investment And Development",
+    "aliases": [
+      "Microsystems Investment And Development Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "mkudi",
+    "legal_name": "Mkudi Limited",
+    "brand_name": "Mkudi",
+    "aliases": [
+      "Mkudi Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moment-nigeria-pay2",
+    "legal_name": "Moment Nigeria Pay2 Ltd",
+    "brand_name": "Moment Nigeria Pay2",
+    "aliases": [
+      "Moment Nigeria Pay2 Ltd"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moneta-technology",
+    "legal_name": "Moneta Technology Limited",
+    "brand_name": "Moneta Technology",
+    "aliases": [
+      "Moneta Technology Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moneymaster",
+    "legal_name": "Moneymaster Limited",
+    "brand_name": "Moneymaster",
+    "aliases": [
+      "Moneymaster Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "montra-technology-solutions",
+    "legal_name": "Montra Technology Solutions Limited",
+    "brand_name": "Montra Technology Solutions",
+    "aliases": [
+      "Artha Fintech Limited",
+      "Montra Technology Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "msia-oculus-technologies",
+    "legal_name": "Msia Oculus Technologies Limited",
+    "brand_name": "Msia Oculus Technologies",
+    "aliases": [
+      "Msia Oculus Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "multigate-payment",
+    "legal_name": "Multigate Payment Limited",
+    "brand_name": "Multigate Payment",
+    "aliases": [
+      "Multigate Payment Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "netapps-technologies",
+    "legal_name": "Netapps Technologies Limited",
+    "brand_name": "Netapps Technologies",
+    "aliases": [
+      "Netapps Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "netop-business-systems",
+    "legal_name": "Netop Business Systems Limited",
+    "brand_name": "Netop Business Systems",
+    "aliases": [
+      "Netop Business Systems Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "netplusdotcom",
+    "legal_name": "Netplusdotcom Nigeria Limited",
+    "brand_name": "Netplusdotcom",
+    "aliases": [
+      "Netplusdotcom Nigeria Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "network-international",
+    "legal_name": "Network International",
+    "brand_name": "Network International",
+    "aliases": [],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigeria-inter-bank-settlement-system",
+    "legal_name": "Nigeria Inter-Bank Settlement System PLC",
+    "brand_name": "Nigeria Inter-Bank Settlement System",
+    "aliases": [
+      "Nigeria Inter-Bank Settlement System PLC"
+    ],
+    "primary_category": "clearing-house",
+    "categories": [
+      "clearing-house"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment terminal service aggregator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigerian-postal-service-nipost",
+    "legal_name": "Nigerian Postal Service (NIPOST)",
+    "brand_name": "Nigerian Postal Service (NIPOST)",
+    "aliases": [],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nomba-financial-services",
+    "legal_name": "Nomba Financial Services Limited",
+    "brand_name": "Nomba Financial Services",
+    "aliases": [
+      "Cosmic Intelligence Lab Limited",
+      "Nomba Financial Services Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "novac-payment-solutions",
+    "legal_name": "Novac Payment Solutions Limited",
+    "brand_name": "Novac Payment Solutions",
+    "aliases": [
+      "Novac Payment Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nownow-digital-systems",
+    "legal_name": "NowNow Digital Systems Limited",
+    "brand_name": "NowNow Digital Systems",
+    "aliases": [
+      "Contec Global Infotech Limited",
+      "NowNow Digital Systems Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "okra-technologies",
+    "legal_name": "Okra Technologies Limited",
+    "brand_name": "Okra Technologies",
+    "aliases": [
+      "Okra Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "olive-payment-solutions",
+    "legal_name": "Olive Payment Solutions Limited",
+    "brand_name": "Olive Payment Solutions",
+    "aliases": [
+      "Olive Payment Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "olivepeak-international",
+    "legal_name": "Olivepeak International Limited",
+    "brand_name": "Olivepeak International",
+    "aliases": [
+      "Olivepeak International Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "onecard-topup-services",
+    "legal_name": "Onecard Topup Services Limited",
+    "brand_name": "Onecard Topup Services",
+    "aliases": [
+      "Onecard Topup Services Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "onepipe-io-services",
+    "legal_name": "Onepipe.Io Services Ltd",
+    "brand_name": "Onepipe.Io Services",
+    "aliases": [
+      "Onepipe.Io Services Ltd"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "opay-digital-services",
+    "legal_name": "Opay Digital Services Limited",
+    "brand_name": "Opay Digital Services",
+    "aliases": [
+      "Opay Digital Services Limited",
+      "Paycom Nigeria Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pagatech",
+    "legal_name": "Pagatech Limited",
+    "brand_name": "Pagatech",
+    "aliases": [
+      "Pagatech Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "palmpay",
+    "legal_name": "PalmPay Limited",
+    "brand_name": "PalmPay",
+    "aliases": [
+      "PalmPay Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "parkway-projects",
+    "legal_name": "Parkway Projects Limited",
+    "brand_name": "Parkway Projects",
+    "aliases": [
+      "Parkway Projects Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payattitude",
+    "legal_name": "Payattitude",
+    "brand_name": "Payattitude",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payaza-africa",
+    "legal_name": "Payaza Africa Limited",
+    "brand_name": "Payaza Africa",
+    "aliases": [
+      "Payaza Africa Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paycluster-technology",
+    "legal_name": "Paycluster Technology Limited",
+    "brand_name": "Paycluster Technology",
+    "aliases": [
+      "Paycluster Technology Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payfixy",
+    "legal_name": "Payfixy Nigeria Limited",
+    "brand_name": "Payfixy",
+    "aliases": [
+      "Innovate 1 Pay Limited",
+      "Payfixy Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paygo",
+    "legal_name": "Paygo Limited",
+    "brand_name": "Paygo",
+    "aliases": [
+      "Paygo Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payinvert",
+    "legal_name": "Payinvert Limited",
+    "brand_name": "Payinvert",
+    "aliases": [
+      "Payinvert Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paylode-services",
+    "legal_name": "Paylode Services Limited",
+    "brand_name": "Paylode Services",
+    "aliases": [
+      "Paylode Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payment-access-system",
+    "legal_name": "Payment Access System Limited",
+    "brand_name": "Payment Access System",
+    "aliases": [
+      "Payment Access System Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payment-island-services",
+    "legal_name": "Payment Island Services Limited",
+    "brand_name": "Payment Island Services",
+    "aliases": [
+      "Payment Island Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paymi-solutions",
+    "legal_name": "Paymi Solutions Limited",
+    "brand_name": "Paymi Solutions",
+    "aliases": [
+      "Paymi Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paymishtech",
+    "legal_name": "Paymishtech Limited",
+    "brand_name": "Paymishtech",
+    "aliases": [
+      "Paymishtech Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paysharp",
+    "legal_name": "Paysharp Limited",
+    "brand_name": "Paysharp",
+    "aliases": [
+      "Paysharp Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paystack-payment",
+    "legal_name": "Paystack Payment Limited",
+    "brand_name": "Paystack Payment",
+    "aliases": [
+      "Paystack Payment Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paysure-technologies",
+    "legal_name": "Paysure Technologies Limited",
+    "brand_name": "Paysure Technologies",
+    "aliases": [
+      "Paysure Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payu-payments",
+    "legal_name": "Payu Payments Nigeria Limited",
+    "brand_name": "Payu Payments",
+    "aliases": [
+      "Payu Payments Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pethahiah-rehoboth-international",
+    "legal_name": "Pethahiah Rehoboth International Limited",
+    "brand_name": "Pethahiah Rehoboth International",
+    "aliases": [
+      "Pethahiah Rehoboth International Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pixelplay-systems",
+    "legal_name": "Pixelplay Systems Limited",
+    "brand_name": "Pixelplay Systems",
+    "aliases": [
+      "Pixelplay Systems Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "prophius",
+    "legal_name": "Prophius Limited",
+    "brand_name": "Prophius",
+    "aliases": [
+      "Prophius Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "qrios-networks",
+    "legal_name": "Qrios Networks Limited",
+    "brand_name": "Qrios Networks",
+    "aliases": [
+      "Qrios Networks Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "r-lab",
+    "legal_name": "R-Lab Limited",
+    "brand_name": "R-Lab",
+    "aliases": [
+      "R-Lab Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "redtech",
+    "legal_name": "Redtech Limited",
+    "brand_name": "Redtech",
+    "aliases": [
+      "Redtech Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "reedpriceman-technologies",
+    "legal_name": "Reedpriceman Technologies Limited",
+    "brand_name": "Reedpriceman Technologies",
+    "aliases": [
+      "Reedpriceman Technologies Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "remita-payment-service",
+    "legal_name": "Remita Payment Service Limited",
+    "brand_name": "Remita Payment Service",
+    "aliases": [
+      "Remita Payment Service Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "resident-fintech",
+    "legal_name": "Resident Fintech Limited",
+    "brand_name": "Resident Fintech",
+    "aliases": [
+      "Resident Fintech Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "rexel",
+    "legal_name": "Rexel Limited",
+    "brand_name": "Rexel",
+    "aliases": [
+      "Rexel Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "routepay-fintech",
+    "legal_name": "Routepay Fintech Limited",
+    "brand_name": "Routepay Fintech",
+    "aliases": [
+      "Routepay Fintech Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "saanapay-corporate-investments-management-limited-saanacorp",
+    "legal_name": "Saanapay Corporate Investments Management Limited (SAANACORP)",
+    "brand_name": "Saanapay Corporate Investments Management Limited (SAANACORP)",
+    "aliases": [],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "say-switch",
+    "legal_name": "Say Switch Limited",
+    "brand_name": "Say Switch",
+    "aliases": [
+      "Say Switch Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "shago-payments",
+    "legal_name": "Shago Payments Ltd",
+    "brand_name": "Shago Payments",
+    "aliases": [
+      "Shago Payments Ltd",
+      "Shago Payments LTD"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "sid-digital",
+    "legal_name": "SID Digital Limited",
+    "brand_name": "SID Digital",
+    "aliases": [
+      "SID Digital Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "simplify-international-synergy",
+    "legal_name": "Simplify International Synergy Limited",
+    "brand_name": "Simplify International Synergy",
+    "aliases": [
+      "Simplify International Synergy Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "smile-identity",
+    "legal_name": "Smile Identity Nigeria Limited",
+    "brand_name": "Smile Identity",
+    "aliases": [
+      "Smile Identity Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "soft-alliance-and-resources",
+    "legal_name": "Soft Alliance & Resources Limited",
+    "brand_name": "Soft Alliance & Resources",
+    "aliases": [
+      "Soft Alliance & Resources Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "soti-investments",
+    "legal_name": "Soti Investments Limited",
+    "brand_name": "Soti Investments",
+    "aliases": [
+      "Soti Investments Limited"
+    ],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "soti-payment",
+    "legal_name": "Soti Payment Limited",
+    "brand_name": "Soti Payment",
+    "aliases": [
+      "Soti Payment Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "spay-business-solutions",
+    "legal_name": "Spay Business Solutions Limited",
+    "brand_name": "Spay Business Solutions",
+    "aliases": [
+      "Spay Business Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "spout-payment-solutions",
+    "legal_name": "Spout Payment Solutions",
+    "brand_name": "Spout Payment Solutions",
+    "aliases": [],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "supplysmart",
+    "legal_name": "Supplysmart Nigeria Limited",
+    "brand_name": "Supplysmart",
+    "aliases": [
+      "Supplysmart Nigeria Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "swift-link-nz-global-services",
+    "legal_name": "Swift Link-Nz Global Services Ltd",
+    "brand_name": "Swift Link-Nz Global Services",
+    "aliases": [
+      "Swift Link-Nz Global Services Ltd",
+      "Swift Link-NZ Global Services Ltd",
+      "Swift Link-NZ Global Services LTD"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "swift-paygate",
+    "legal_name": "Swift Paygate Limited",
+    "brand_name": "Swift Paygate",
+    "aliases": [
+      "Swift Paygate Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "swwipe-financial-services",
+    "legal_name": "SWWIPE Financial Services Limited",
+    "brand_name": "SWWIPE Financial Services",
+    "aliases": [
+      "Parkway Projects Limited",
+      "SWWIPE Financial Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "teamapt",
+    "legal_name": "Teamapt Limited",
+    "brand_name": "Teamapt",
+    "aliases": [
+      "Teamapt Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "teasy-international-company",
+    "legal_name": "Teasy International Company Ltd",
+    "brand_name": "Teasy International Company",
+    "aliases": [
+      "Teasy International Company Ltd"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "teinnovate-capital",
+    "legal_name": "Teinnovate Capital Limited",
+    "brand_name": "Teinnovate Capital",
+    "aliases": [
+      "Teinnovate Capital Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "terra-switching-and-processing-company",
+    "legal_name": "Terra Switching & Processing Company Limited",
+    "brand_name": "Terra Switching & Processing Company",
+    "aliases": [
+      "Terra Switching & Processing Company Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "tgipay",
+    "legal_name": "Tgipay Limited",
+    "brand_name": "Tgipay",
+    "aliases": [
+      "Tgipay Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "touch-and-pay-technologies",
+    "legal_name": "Touch & Pay Technologies Limited",
+    "brand_name": "Touch & Pay Technologies",
+    "aliases": [
+      "Touch & Pay Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "traction-payments",
+    "legal_name": "Traction Payments Ltd",
+    "brand_name": "Traction Payments",
+    "aliases": [
+      "Traction Payments Limited",
+      "Traction Payments Ltd"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "transactworld-digital-services",
+    "legal_name": "Transactworld Digital Services Limited",
+    "brand_name": "Transactworld Digital Services",
+    "aliases": [
+      "Transactworld Digital Services Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "transbill-solution",
+    "legal_name": "Transbill Solution Limited",
+    "brand_name": "Transbill Solution",
+    "aliases": [
+      "Transbill Solution Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "unified-payment-services",
+    "legal_name": "Unified Payment Services Limited",
+    "brand_name": "Unified Payment Services",
+    "aliases": [
+      "Unified Payment Services Limited"
+    ],
+    "primary_category": "clearing-house",
+    "categories": [
+      "clearing-house",
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment terminal service aggregator",
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "unionpay-international",
+    "legal_name": "Unionpay International",
+    "brand_name": "Unionpay International",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "uniswitch-technology",
+    "legal_name": "Uniswitch Technology Limited",
+    "brand_name": "Uniswitch Technology",
+    "aliases": [
+      "Uniswitch Technology Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "unlimint",
+    "legal_name": "Unlimint Nigeria Ltd",
+    "brand_name": "Unlimint",
+    "aliases": [
+      "Unlimint Nigeria Ltd"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "upperlink",
+    "legal_name": "Upperlink Limited",
+    "brand_name": "Upperlink",
+    "aliases": [
+      "Upperlink Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "value-payment-solutions",
+    "legal_name": "Value Payment Solutions Limited",
+    "brand_name": "Value Payment Solutions",
+    "aliases": [
+      "Value Payment Solutions Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vas2net-technologies",
+    "legal_name": "Vas2net Technologies Ltd",
+    "brand_name": "Vas2net Technologies",
+    "aliases": [
+      "Vas2net Technologies Ltd"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vatebra-pay",
+    "legal_name": "Vatebra Pay Limited",
+    "brand_name": "Vatebra Pay",
+    "aliases": [
+      "Vatebra Pay Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vendy",
+    "legal_name": "Vendy Limited",
+    "brand_name": "Vendy",
+    "aliases": [
+      "Vendy Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "venture-garden",
+    "legal_name": "Venture Garden Nigeria Limited",
+    "brand_name": "Venture Garden",
+    "aliases": [
+      "Venture Garden Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "verve-international",
+    "legal_name": "Verve International",
+    "brand_name": "Verve International",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vestrapay",
+    "legal_name": "Vestrapay Nigeria Limited",
+    "brand_name": "Vestrapay",
+    "aliases": [
+      "Vestrapay Nigeria Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "visa-international-service-association",
+    "legal_name": "Visa International Service Association",
+    "brand_name": "Visa International Service Association",
+    "aliases": [],
+    "primary_category": "card-scheme",
+    "categories": [
+      "card-scheme"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Card/payment scheme"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "visual-ict",
+    "legal_name": "Visual ICT Limited",
+    "brand_name": "Visual ICT",
+    "aliases": [
+      "Visual ICT Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "voguepay-web-solution",
+    "legal_name": "Voguepay Web Solution Limited",
+    "brand_name": "Voguepay Web Solution",
+    "aliases": [
+      "Voguepay Web Solution Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vtnetwork",
+    "legal_name": "VTNetwork Limited",
+    "brand_name": "VTNetwork",
+    "aliases": [
+      "VTNetwork Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "waxed-mobile",
+    "legal_name": "Waxed Mobile Nigeria Ltd",
+    "brand_name": "Waxed Mobile",
+    "aliases": [
+      "Waxed Mobile Nigeria Ltd",
+      "Waxed Mobile Nigeria LTD"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "payment-solution-service-provider",
+      "payment-terminal-service-provider",
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP",
+      "PTSP",
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "waya-multilinks-technologies",
+    "legal_name": "Waya Multilinks Technologies Limited",
+    "brand_name": "Waya Multilinks Technologies",
+    "aliases": [
+      "Waya Multilinks Technologies Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "wi-pay",
+    "legal_name": "Wi-Pay",
+    "brand_name": "Wi-Pay",
+    "aliases": [],
+    "primary_category": "payment-terminal-service-provider",
+    "categories": [
+      "payment-terminal-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PTSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "wingtip-flow",
+    "legal_name": "Wingtip Flow Limited",
+    "brand_name": "Wingtip Flow",
+    "aliases": [
+      "Wingtip Flow Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "woven-finance",
+    "legal_name": "Woven Finance Limited",
+    "brand_name": "Woven Finance",
+    "aliases": [
+      "Woven Finance Limited"
+    ],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "xchange-box-solutions",
+    "legal_name": "Xchange Box Solutions Limited",
+    "brand_name": "Xchange Box Solutions",
+    "aliases": [
+      "Xchange Box Solutions Limited"
+    ],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "xpress-mts",
+    "legal_name": "Xpress MTS Limited",
+    "brand_name": "Xpress MTS",
+    "aliases": [
+      "Xpress MTS Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "xpress-payments-solution",
+    "legal_name": "Xpress Payments Solution Limited",
+    "brand_name": "Xpress Payments Solution",
+    "aliases": [
+      "Xpress Payments Solution Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "yello-digital-financial-services",
+    "legal_name": "Y'ello Digital Financial Services",
+    "brand_name": "Y'ello Digital Financial Services",
+    "aliases": [],
+    "primary_category": "super-agent",
+    "categories": [
+      "super-agent"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Super-agent"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "zest-payments-limited-stanbic-financial-services-limited",
+    "legal_name": "Zest Payments Limited (Stanbic Financial Services Limited)",
+    "brand_name": "Zest Payments Limited (Stanbic Financial Services Limited)",
+    "aliases": [],
+    "primary_category": "payment-solution-service-provider",
+    "categories": [
+      "payment-solution-service-provider"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "PSSP"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "zone-payment-network",
+    "legal_name": "Zone Payment Network Limited",
+    "brand_name": "Zone Payment Network",
+    "aliases": [
+      "Appzone Limited",
+      "Zone Payment Network Limited"
+    ],
+    "primary_category": "switching-processing",
+    "categories": [
+      "switching-processing"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Switching and processing"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]

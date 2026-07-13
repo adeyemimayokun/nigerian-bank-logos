@@ -1,0 +1,15 @@
+{
+  "name": "@nigerian-bank-logos/institutions",
+  "version": "0.1.0",
+  "description": "Typed directory of Nigerian financial institutions and Nigeria-authorized operators.",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "exports": { ".": { "types": "./dist/src/index.d.ts", "import": "./dist/src/index.js" } },
+  "files": ["dist", "exports", "README.md"],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": { "zod": "^3.24.1" }
+}

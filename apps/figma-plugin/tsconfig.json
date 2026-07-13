@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "types": ["@figma/plugin-typings", "vite/client", "react", "react-dom"],
+    "rootDir": "../.."
+  },
+  "include": [
+    "src",
+    "vite.config.ts",
+    "vite.main.config.ts",
+    "../../packages/logos/src",
+    "../../packages/institutions/src"
+  ]
+}

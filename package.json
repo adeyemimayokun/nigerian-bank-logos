@@ -1,0 +1,40 @@
+{
+  "name": "nigerian-bank-logos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open source Nigerian bank and fintech SVG logos for Figma and developer projects.",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "build": "tsc -p packages/logos/tsconfig.build.json && tsc -p packages/institutions/tsconfig.build.json && vite build --config apps/figma-plugin/vite.config.ts && vite build --config apps/figma-plugin/vite.main.config.ts",
+    "build:plugin": "vite build --config apps/figma-plugin/vite.config.ts && vite build --config apps/figma-plugin/vite.main.config.ts",
+    "dev:plugin": "vite --config apps/figma-plugin/vite.config.ts --host 127.0.0.1",
+    "test": "vitest run",
+    "typecheck": "tsc -b",
+    "validate": "tsx packages/validator/src/validate.ts && pnpm institutions:validate",
+    "institutions:generate": "tsx packages/institutions/scripts/generate.ts",
+    "institutions:refresh": "tsx packages/institutions/scripts/refresh.ts",
+    "institutions:validate": "tsx packages/institutions/scripts/validate.ts",
+    "institutions:check": "tsx packages/institutions/scripts/generate.ts --check",
+    "logos:formats": "tsx packages/logos/scripts/generate-formats.ts",
+    "logos:check-formats": "tsx packages/logos/scripts/generate-formats.ts --check",
+    "logos:source": "tsx packages/logos/scripts/source-logos.ts",
+    "logos:promote": "tsx packages/logos/scripts/promote-candidates.ts && pnpm logos:formats"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.101.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "cheerio": "^1.0.0",
+    "sharp": "^0.34.3",
+    "tsx": "^4.19.2",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8",
+    "xlsx": "^0.18.5",
+    "zod": "^3.24.1"
+  }
+}

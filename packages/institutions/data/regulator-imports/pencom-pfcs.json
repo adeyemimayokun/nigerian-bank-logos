@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "first-pension-custodian",
+    "legal_name": "First Pension Custodian Nigeria Limited",
+    "brand_name": "First Pension Custodian",
+    "aliases": [
+      "First Pension Custodian Nigeria Limited"
+    ],
+    "primary_category": "pension-fund-custodian",
+    "categories": [
+      "pension-fund-custodian"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund custodian"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-custodians/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "uba-pensions-custodian",
+    "legal_name": "UBA Pensions Custodian Limited",
+    "brand_name": "UBA Pensions Custodian",
+    "aliases": [
+      "UBA Pensions Custodian Limited"
+    ],
+    "primary_category": "pension-fund-custodian",
+    "categories": [
+      "pension-fund-custodian"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund custodian"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-custodians/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "zenith-pensions-custodian",
+    "legal_name": "Zenith Pensions Custodian Limited",
+    "brand_name": "Zenith Pensions Custodian",
+    "aliases": [
+      "Zenith Pensions Custodian Limited"
+    ],
+    "primary_category": "pension-fund-custodian",
+    "categories": [
+      "pension-fund-custodian"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund custodian"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-custodians/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]

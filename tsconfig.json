@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./apps/figma-plugin" },
+    { "path": "./packages/logos" },
+    { "path": "./packages/institutions" },
+    { "path": "./packages/validator" }
+  ]
+}

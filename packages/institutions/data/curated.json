@@ -1,0 +1,2104 @@
+[
+  {
+    "slug": "access-bank",
+    "legal_name": "Access Bank Plc",
+    "brand_name": "Access Bank",
+    "aliases": [
+      "Access Bank Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "citibank",
+    "legal_name": "Citibank Nigeria Limited",
+    "brand_name": "Citibank",
+    "aliases": [
+      "Citibank Nigeria Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "ecobank",
+    "legal_name": "Ecobank Nigeria Limited",
+    "brand_name": "Ecobank",
+    "aliases": [
+      "Ecobank Nigeria Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fidelity-bank",
+    "legal_name": "Fidelity Bank Plc",
+    "brand_name": "Fidelity Bank",
+    "aliases": [
+      "Fidelity Bank Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "first-bank-of",
+    "legal_name": "First Bank of Nigeria Limited",
+    "brand_name": "First Bank of",
+    "aliases": [
+      "First Bank of Nigeria Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "first-city-monument-bank",
+    "legal_name": "First City Monument Bank Limited",
+    "brand_name": "First City Monument Bank",
+    "aliases": [
+      "First City Monument Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "globus-bank",
+    "legal_name": "Globus Bank Limited",
+    "brand_name": "Globus Bank",
+    "aliases": [
+      "Globus Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "guaranty-trust-bank",
+    "legal_name": "Guaranty Trust Bank Limited",
+    "brand_name": "Guaranty Trust Bank",
+    "aliases": [
+      "Guaranty Trust Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "keystone-bank",
+    "legal_name": "Keystone Bank Limited",
+    "brand_name": "Keystone Bank",
+    "aliases": [
+      "Keystone Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "optimus-bank",
+    "legal_name": "Optimus Bank Limited",
+    "brand_name": "Optimus Bank",
+    "aliases": [
+      "Optimus Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "parallex-bank",
+    "legal_name": "Parallex Bank Limited",
+    "brand_name": "Parallex Bank",
+    "aliases": [
+      "Parallex Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "polaris-bank",
+    "legal_name": "Polaris Bank Limited",
+    "brand_name": "Polaris Bank",
+    "aliases": [
+      "Polaris Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "premiumtrust-bank",
+    "legal_name": "PremiumTrust Bank Limited",
+    "brand_name": "PremiumTrust Bank",
+    "aliases": [
+      "PremiumTrust Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "providus-bank",
+    "legal_name": "Providus Bank Limited",
+    "brand_name": "Providus Bank",
+    "aliases": [
+      "Providus Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "signature-bank",
+    "legal_name": "Signature Bank Limited",
+    "brand_name": "Signature Bank",
+    "aliases": [
+      "Signature Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "stanbic-ibtc-bank",
+    "legal_name": "Stanbic IBTC Bank Limited",
+    "brand_name": "Stanbic IBTC Bank",
+    "aliases": [
+      "Stanbic IBTC Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "standard-chartered-bank",
+    "legal_name": "Standard Chartered Bank Nigeria Limited",
+    "brand_name": "Standard Chartered Bank",
+    "aliases": [
+      "Standard Chartered Bank Nigeria Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "sterling-bank",
+    "legal_name": "Sterling Bank Limited",
+    "brand_name": "Sterling Bank",
+    "aliases": [
+      "Sterling Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "suntrust-bank",
+    "legal_name": "SunTrust Bank Nigeria Limited",
+    "brand_name": "SunTrust Bank",
+    "aliases": [
+      "SunTrust Bank Nigeria Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "titan-trust-bank",
+    "legal_name": "Titan Trust Bank Limited",
+    "brand_name": "Titan Trust Bank",
+    "aliases": [
+      "Titan Trust Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "union-bank-of",
+    "legal_name": "Union Bank of Nigeria Plc",
+    "brand_name": "Union Bank of",
+    "aliases": [
+      "Union Bank of Nigeria Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "united-bank-for-africa",
+    "legal_name": "United Bank for Africa Plc",
+    "brand_name": "United Bank for Africa",
+    "aliases": [
+      "United Bank for Africa Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "unity-bank",
+    "legal_name": "Unity Bank Plc",
+    "brand_name": "Unity Bank",
+    "aliases": [
+      "Unity Bank Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "wema-bank",
+    "legal_name": "Wema Bank Plc",
+    "brand_name": "Wema Bank",
+    "aliases": [
+      "Wema Bank Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "zenith-bank",
+    "legal_name": "Zenith Bank Plc",
+    "brand_name": "Zenith Bank",
+    "aliases": [
+      "Zenith Bank Plc"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nova-bank",
+    "legal_name": "NOVA Bank Limited",
+    "brand_name": "NOVA Bank",
+    "aliases": [
+      "NOVA Bank Limited"
+    ],
+    "primary_category": "commercial-bank",
+    "categories": [
+      "commercial-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Commercial bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "jaiz-bank",
+    "legal_name": "Jaiz Bank Plc",
+    "brand_name": "Jaiz Bank",
+    "aliases": [
+      "Jaiz Bank Plc"
+    ],
+    "primary_category": "non-interest-bank",
+    "categories": [
+      "non-interest-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Non-interest bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "tajbank",
+    "legal_name": "TAJBank Limited",
+    "brand_name": "TAJBank",
+    "aliases": [
+      "TAJBank Limited"
+    ],
+    "primary_category": "non-interest-bank",
+    "categories": [
+      "non-interest-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Non-interest bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "lotus-bank",
+    "legal_name": "Lotus Bank Limited",
+    "brand_name": "Lotus Bank",
+    "aliases": [
+      "Lotus Bank Limited"
+    ],
+    "primary_category": "non-interest-bank",
+    "categories": [
+      "non-interest-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Non-interest bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "the-alternative-bank",
+    "legal_name": "The Alternative Bank Limited",
+    "brand_name": "The Alternative Bank",
+    "aliases": [
+      "The Alternative Bank Limited"
+    ],
+    "primary_category": "non-interest-bank",
+    "categories": [
+      "non-interest-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Non-interest bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "coronation-merchant-bank",
+    "legal_name": "Coronation Merchant Bank Limited",
+    "brand_name": "Coronation Merchant Bank",
+    "aliases": [
+      "Coronation Merchant Bank Limited"
+    ],
+    "primary_category": "merchant-bank",
+    "categories": [
+      "merchant-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Merchant bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fbnquest-merchant-bank",
+    "legal_name": "FBNQuest Merchant Bank Limited",
+    "brand_name": "FBNQuest Merchant Bank",
+    "aliases": [
+      "FBNQuest Merchant Bank Limited"
+    ],
+    "primary_category": "merchant-bank",
+    "categories": [
+      "merchant-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Merchant bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fsdh-merchant-bank",
+    "legal_name": "FSDH Merchant Bank Limited",
+    "brand_name": "FSDH Merchant Bank",
+    "aliases": [
+      "FSDH Merchant Bank Limited"
+    ],
+    "primary_category": "merchant-bank",
+    "categories": [
+      "merchant-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Merchant bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "greenwich-merchant-bank",
+    "legal_name": "Greenwich Merchant Bank Limited",
+    "brand_name": "Greenwich Merchant Bank",
+    "aliases": [
+      "Greenwich Merchant Bank Limited"
+    ],
+    "primary_category": "merchant-bank",
+    "categories": [
+      "merchant-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Merchant bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "rand-merchant-bank",
+    "legal_name": "Rand Merchant Bank Nigeria Limited",
+    "brand_name": "Rand Merchant Bank",
+    "aliases": [
+      "Rand Merchant Bank Nigeria Limited"
+    ],
+    "primary_category": "merchant-bank",
+    "categories": [
+      "merchant-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Merchant bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "access-holdings",
+    "legal_name": "Access Holdings Plc",
+    "brand_name": "Access Holdings",
+    "aliases": [
+      "Access Holdings Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "first-holdco",
+    "legal_name": "First HoldCo Plc",
+    "brand_name": "First HoldCo",
+    "aliases": [
+      "First HoldCo Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fcmb-group",
+    "legal_name": "FCMB Group Plc",
+    "brand_name": "FCMB Group",
+    "aliases": [
+      "FCMB Group Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fsdh-holding-company",
+    "legal_name": "FSDH Holding Company Limited",
+    "brand_name": "FSDH Holding Company",
+    "aliases": [
+      "FSDH Holding Company Limited"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "guaranty-trust-holding-company",
+    "legal_name": "Guaranty Trust Holding Company Plc",
+    "brand_name": "Guaranty Trust Holding Company",
+    "aliases": [
+      "Guaranty Trust Holding Company Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "stanbic-ibtc-holdings",
+    "legal_name": "Stanbic IBTC Holdings Plc",
+    "brand_name": "Stanbic IBTC Holdings",
+    "aliases": [
+      "Stanbic IBTC Holdings Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "sterling-financial-holdings-company",
+    "legal_name": "Sterling Financial Holdings Company Plc",
+    "brand_name": "Sterling Financial Holdings Company",
+    "aliases": [
+      "Sterling Financial Holdings Company Plc"
+    ],
+    "primary_category": "financial-holding-company",
+    "categories": [
+      "financial-holding-company"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Financial holding company"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "9-payment-service-bank",
+    "legal_name": "9 Payment Service Bank Limited",
+    "brand_name": "9 Payment Service Bank",
+    "aliases": [
+      "9 Payment Service Bank Limited"
+    ],
+    "primary_category": "payment-service-bank",
+    "categories": [
+      "payment-service-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Payment%20Service%20Banks%20as%20at%20December%2031,%202021.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "hope-payment-service-bank",
+    "legal_name": "Hope Payment Service Bank Limited",
+    "brand_name": "Hope Payment Service Bank",
+    "aliases": [
+      "Hope Payment Service Bank Limited"
+    ],
+    "primary_category": "payment-service-bank",
+    "categories": [
+      "payment-service-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Payment%20Service%20Banks%20as%20at%20December%2031,%202021.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "momo-payment-service-bank",
+    "legal_name": "MoMo Payment Service Bank Limited",
+    "brand_name": "MoMo Payment Service Bank",
+    "aliases": [
+      "MoMo Payment Service Bank Limited"
+    ],
+    "primary_category": "payment-service-bank",
+    "categories": [
+      "payment-service-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Payment%20Service%20Banks%20as%20at%20December%2031,%202021.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moneymaster-payment-service-bank",
+    "legal_name": "MoneyMaster Payment Service Bank Limited",
+    "brand_name": "MoneyMaster Payment Service Bank",
+    "aliases": [
+      "MoneyMaster Payment Service Bank Limited"
+    ],
+    "primary_category": "payment-service-bank",
+    "categories": [
+      "payment-service-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Payment%20Service%20Banks%20as%20at%20December%2031,%202021.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "smartcash-payment-service-bank",
+    "legal_name": "SmartCash Payment Service Bank Limited",
+    "brand_name": "SmartCash Payment Service Bank",
+    "aliases": [
+      "SmartCash Payment Service Bank Limited"
+    ],
+    "primary_category": "payment-service-bank",
+    "categories": [
+      "payment-service-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Payment service bank"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2022/FPRD/List%20of%20Payment%20Service%20Banks%20as%20at%20December%2031,%202021.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bank-of-agriculture",
+    "legal_name": "Bank of Agriculture Limited",
+    "brand_name": "Bank of Agriculture",
+    "aliases": [
+      "Bank of Agriculture Limited"
+    ],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "bank-of-industry",
+    "legal_name": "Bank of Industry Limited",
+    "brand_name": "Bank of Industry",
+    "aliases": [
+      "Bank of Industry Limited"
+    ],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "development-bank-of",
+    "legal_name": "Development Bank of Nigeria Plc",
+    "brand_name": "Development Bank of",
+    "aliases": [
+      "Development Bank of Nigeria Plc"
+    ],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "federal-mortgage-bank-of-nigeria",
+    "legal_name": "Federal Mortgage Bank of Nigeria",
+    "brand_name": "Federal Mortgage Bank of Nigeria",
+    "aliases": [],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigeria-export-import-bank",
+    "legal_name": "Nigeria Export-Import Bank",
+    "brand_name": "Nigeria Export-Import Bank",
+    "aliases": [],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigeria-mortgage-refinance-company",
+    "legal_name": "Nigeria Mortgage Refinance Company Plc",
+    "brand_name": "Nigeria Mortgage Refinance Company",
+    "aliases": [
+      "Nigeria Mortgage Refinance Company Plc"
+    ],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "the-infrastructure-bank",
+    "legal_name": "The Infrastructure Bank Plc",
+    "brand_name": "The Infrastructure Bank",
+    "aliases": [
+      "The Infrastructure Bank Plc"
+    ],
+    "primary_category": "development-finance-institution",
+    "categories": [
+      "development-finance-institution"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Development finance institution"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/Out/2025/FPRD/DECEMBER%202024%20FINANCIAL%20STABILITY%20REPORT%20FINAL.pdf",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moniepoint-microfinance-bank",
+    "legal_name": "Moniepoint Microfinance Bank Limited",
+    "brand_name": "Moniepoint",
+    "aliases": [
+      "Moniepoint Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://moniepoint.com/",
+    "sources": [
+      {
+        "url": "https://moniepoint.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": "moniepoint",
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "kuda-microfinance-bank",
+    "legal_name": "Kuda Microfinance Bank Limited",
+    "brand_name": "Kuda",
+    "aliases": [
+      "Kuda Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://kuda.com/",
+    "sources": [
+      {
+        "url": "https://kuda.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fairmoney-microfinance-bank",
+    "legal_name": "FairMoney Microfinance Bank Limited",
+    "brand_name": "FairMoney",
+    "aliases": [
+      "FairMoney Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://fairmoney.io/",
+    "sources": [
+      {
+        "url": "https://fairmoney.io/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "sparkle-microfinance-bank",
+    "legal_name": "Sparkle Microfinance Bank Limited",
+    "brand_name": "Sparkle",
+    "aliases": [
+      "Sparkle Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://sparkle.ng/",
+    "sources": [
+      {
+        "url": "https://sparkle.ng/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "lapo-microfinance-bank",
+    "legal_name": "LAPO Microfinance Bank Limited",
+    "brand_name": "LAPO Microfinance Bank",
+    "aliases": [
+      "LAPO Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.lapo-nigeria.org/",
+    "sources": [
+      {
+        "url": "https://www.lapo-nigeria.org/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "ab-microfinance-bank-nigeria",
+    "legal_name": "AB Microfinance Bank Nigeria Limited",
+    "brand_name": "AB Microfinance Bank",
+    "aliases": [
+      "AB Microfinance Bank Nigeria Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://ab-mfbnigeria.com/",
+    "sources": [
+      {
+        "url": "https://ab-mfbnigeria.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "accion-microfinance-bank",
+    "legal_name": "Accion Microfinance Bank Limited",
+    "brand_name": "Accion Microfinance Bank",
+    "aliases": [
+      "Accion Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.accionmfb.com/",
+    "sources": [
+      {
+        "url": "https://www.accionmfb.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vfd-microfinance-bank",
+    "legal_name": "VFD Microfinance Bank Limited",
+    "brand_name": "VBank",
+    "aliases": [
+      "VFD Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://vbank.ng/",
+    "sources": [
+      {
+        "url": "https://vbank.ng/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "carbon-microfinance-bank",
+    "legal_name": "Carbon Microfinance Bank Limited",
+    "brand_name": "Carbon",
+    "aliases": [
+      "Carbon Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.getcarbon.co/",
+    "sources": [
+      {
+        "url": "https://www.getcarbon.co/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "mint-finex-microfinance-bank",
+    "legal_name": "Mint-Finex Microfinance Bank Limited",
+    "brand_name": "Mintyn",
+    "aliases": [
+      "Mint-Finex Microfinance Bank Limited"
+    ],
+    "primary_category": "microfinance-bank",
+    "categories": [
+      "microfinance-bank"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://mintyn.com/",
+    "sources": [
+      {
+        "url": "https://mintyn.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "opay-digital-services",
+    "legal_name": "OPay Digital Services Limited",
+    "brand_name": "OPay",
+    "aliases": [
+      "OPay Digital Services Limited",
+      "Paycom Nigeria Limited"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://www.opayweb.com/",
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": "opay",
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]

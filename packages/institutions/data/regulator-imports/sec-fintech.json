@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "bamboo-system-technology",
+    "legal_name": "Bamboo System Technology",
+    "brand_name": "Bamboo System Technology",
+    "aliases": [],
+    "primary_category": "digital-broker",
+    "categories": [
+      "digital-broker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Sub-Broker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "blockvault-custodian",
+    "legal_name": "Blockvault Custodian Ltd",
+    "brand_name": "BLOCKVAULT",
+    "aliases": [
+      "BLOCKVAULT",
+      "Blockvault Custodian Ltd"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "busha-digital",
+    "legal_name": "Busha Digital Limited",
+    "brand_name": "Busha",
+    "aliases": [
+      "Busha",
+      "Busha Digital Limited"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "ARIP participant"
+    ],
+    "regulatory_status": "approval-in-principle",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chaka-technologies",
+    "legal_name": "Chaka Technologies Ltd",
+    "brand_name": "Chaka Technologies",
+    "aliases": [
+      "Chaka Technologies Ltd"
+    ],
+    "primary_category": "digital-broker",
+    "categories": [
+      "digital-broker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Sub-Broker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "wrapped-cbdc",
+    "legal_name": "Wrapped CBDC Ltd",
+    "brand_name": "cNGN",
+    "aliases": [
+      "cNGN",
+      "Wrapped CBDC Ltd"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cowrywise-financial-technology",
+    "legal_name": "Cowrywise Financial Technology Ltd",
+    "brand_name": "Cowrywise Financial Technology",
+    "aliases": [
+      "Cowrywise Financial Technology Ltd"
+    ],
+    "primary_category": "investment-manager",
+    "categories": [
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Investment (Fund/Portfolio) Manager"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "dreamcity-capital",
+    "legal_name": "DreamCity Capital Ltd",
+    "brand_name": "DreamCity",
+    "aliases": [
+      "DreamCity",
+      "DreamCity Capital Ltd"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vinekross-technologies",
+    "legal_name": "VineKross Technologies Ltd",
+    "brand_name": "Hashgreed",
+    "aliases": [
+      "Hashgreed",
+      "VineKross Technologies Ltd"
+    ],
+    "primary_category": "fintech",
+    "categories": [
+      "fintech"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "housingexchange-ng",
+    "legal_name": "HousingExchange.NG Ltd",
+    "brand_name": "HXafrica",
+    "aliases": [
+      "HousingExchange.NG Ltd",
+      "HXafrica"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "magnacap",
+    "legal_name": "Magnacap Ltd",
+    "brand_name": "Magnacap",
+    "aliases": [
+      "Magnacap Ltd"
+    ],
+    "primary_category": "digital-broker",
+    "categories": [
+      "digital-broker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Sub-Broker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nasd-otc-securities-exchange",
+    "legal_name": "NASD OTC Securities Exchange",
+    "brand_name": "NASD OTC Securities Exchange",
+    "aliases": [
+      "NASD OTC Securities Exchange"
+    ],
+    "primary_category": "fintech",
+    "categories": [
+      "fintech"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "obelix-4-1-1-alternative",
+    "legal_name": "Obelix 4.1.1 Alternative Ltd",
+    "brand_name": "Obelix 4.1.1 Alternative",
+    "aliases": [
+      "Obelix 4.1.1 Alternative Ltd"
+    ],
+    "primary_category": "crowdfunding-platform",
+    "categories": [
+      "crowdfunding-platform"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Crowdfunding"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pennytree-business",
+    "legal_name": "Pennytree Business Ltd",
+    "brand_name": "Pennytree Business",
+    "aliases": [
+      "Pennytree Business Ltd"
+    ],
+    "primary_category": "crowdfunding-platform",
+    "categories": [
+      "crowdfunding-platform"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Crowdfunding"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "propcrowdy",
+    "legal_name": "PropCrowdy Ltd",
+    "brand_name": "PropCrowdy",
+    "aliases": [
+      "PropCrowdy Ltd"
+    ],
+    "primary_category": "crowdfunding-platform",
+    "categories": [
+      "crowdfunding-platform"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Crowdfunding"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "quidax-technologies",
+    "legal_name": "Quidax Technologies Limited",
+    "brand_name": "Quidax",
+    "aliases": [
+      "Quidax",
+      "Quidax Technologies Limited"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "ARIP participant"
+    ],
+    "regulatory_status": "approval-in-principle",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "treager-integrated-services",
+    "legal_name": "Treager Integrated Services Ltd",
+    "brand_name": "Treager Integrated Services",
+    "aliases": [
+      "Treager Integrated Services Ltd"
+    ],
+    "primary_category": "digital-broker",
+    "categories": [
+      "digital-broker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Sub-Broker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "trovotech",
+    "legal_name": "Trovotech Ltd",
+    "brand_name": "Trovotech",
+    "aliases": [
+      "Trovotech",
+      "Trovotech Ltd"
+    ],
+    "primary_category": "crypto-vasp",
+    "categories": [
+      "crypto-vasp"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Regulatory Incubation participant"
+    ],
+    "regulatory_status": "sandbox",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "wahed",
+    "legal_name": "Wahed Ltd",
+    "brand_name": "Wahed",
+    "aliases": [
+      "Wahed Ltd"
+    ],
+    "primary_category": "robo-adviser",
+    "categories": [
+      "robo-adviser"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Robo Adviser"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]

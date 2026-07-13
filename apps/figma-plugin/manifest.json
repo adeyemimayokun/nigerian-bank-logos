@@ -1,0 +1,12 @@
+{
+  "name": "Nigerian Bank Logos",
+  "id": "nigerian-bank-logos",
+  "api": "1.0.0",
+  "main": "dist/main.js",
+  "ui": "dist/index.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}

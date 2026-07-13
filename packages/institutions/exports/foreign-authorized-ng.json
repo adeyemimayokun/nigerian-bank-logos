@@ -1,0 +1,1890 @@
+[
+  {
+    "slug": "afriex",
+    "legal_name": "AFRIEX INC",
+    "brand_name": "AFRIEX",
+    "aliases": [
+      "AFRIEX INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "banffpay",
+    "legal_name": "BANFFPAY LIMITED",
+    "brand_name": "BANFFPAY",
+    "aliases": [
+      "BANFFPAY LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "belyfted",
+    "legal_name": "BELYFTED LIMITED",
+    "brand_name": "BELYFTED",
+    "aliases": [
+      "BELYFTED LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "brails-financial",
+    "legal_name": "BRAILS FINANCIAL INC",
+    "brand_name": "BRAILS FINANCIAL",
+    "aliases": [
+      "BRAILS FINANCIAL INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "broad-money-transfer",
+    "legal_name": "BROAD MONEY TRANSFER LIMITED",
+    "brand_name": "BROAD MONEY TRANSFER",
+    "aliases": [
+      "BROAD MONEY TRANSFER LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cashpot",
+    "legal_name": "CASHPOT LIMITED",
+    "brand_name": "CASHPOT",
+    "aliases": [
+      "CASHPOT LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "centrexcard-limited-t-a-transferboss",
+    "legal_name": "CENTREXCARD LIMITED T/A (TransferBoss)",
+    "brand_name": "CENTREXCARD LIMITED T/A (TransferBoss)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chime-inc-sendwave",
+    "legal_name": "CHIME INC (SENDWAVE)",
+    "brand_name": "CHIME INC (SENDWAVE)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cp-express",
+    "legal_name": "CP EXPRESS LIMITED",
+    "brand_name": "CP EXPRESS",
+    "aliases": [
+      "CP EXPRESS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "csl-pay",
+    "legal_name": "CSL PAY LIMITED",
+    "brand_name": "CSL PAY",
+    "aliases": [
+      "CSL PAY LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "d-way-services",
+    "legal_name": "D-WAY SERVICES LIMITED",
+    "brand_name": "D-WAY SERVICES",
+    "aliases": [
+      "D-WAY SERVICES LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "direkt-wire-uk",
+    "legal_name": "DIREKT WIRE UK LIMITED",
+    "brand_name": "DIREKT WIRE UK",
+    "aliases": [
+      "DIREKT WIRE UK LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "dt-and-t-corporation",
+    "legal_name": "DT&T CORPORATION",
+    "brand_name": "DT&T CORPORATION",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "e27-partners-uk",
+    "legal_name": "E27 PARTNERS UK LIMITED",
+    "brand_name": "E27 PARTNERS UK",
+    "aliases": [
+      "E27 PARTNERS UK LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fa-global-bk-finance",
+    "legal_name": "FA GLOBAL BK FINANCE",
+    "brand_name": "FA GLOBAL BK FINANCE",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "funtech-global-communications",
+    "legal_name": "FUNTECH GLOBAL COMMUNICATIONS LIMITED",
+    "brand_name": "FUNTECH GLOBAL COMMUNICATIONS",
+    "aliases": [
+      "FUNTECH GLOBAL COMMUNICATIONS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gabtrans-uk-limited-money-to",
+    "legal_name": "GABTRANS UK LIMITED/MONEY TO LIMITED",
+    "brand_name": "GABTRANS UK LIMITED/MONEY TO",
+    "aliases": [
+      "GABTRANS UK LIMITED/MONEY TO LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "global-currency-travel-and-tours",
+    "legal_name": "GLOBAL CURRENCY TRAVEL & TOURS LIMITED",
+    "brand_name": "GLOBAL CURRENCY TRAVEL & TOURS",
+    "aliases": [
+      "GLOBAL CURRENCY TRAVEL & TOURS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "goldstack-technologies",
+    "legal_name": "GOLDSTACK TECHNOLOGIES LIMITED",
+    "brand_name": "GOLDSTACK TECHNOLOGIES",
+    "aliases": [
+      "GOLDSTACK TECHNOLOGIES LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "grants-payments-solutions",
+    "legal_name": "GRANTS PAYMENTS SOLUTIONS LIMITED",
+    "brand_name": "GRANTS PAYMENTS SOLUTIONS",
+    "aliases": [
+      "GRANTS PAYMENTS SOLUTIONS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "gtxn-co",
+    "legal_name": "GTXN CO",
+    "brand_name": "GTXN CO",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "idt-payment-services",
+    "legal_name": "IDT PAYMENT SERVICES INC",
+    "brand_name": "IDT PAYMENT SERVICES",
+    "aliases": [
+      "IDT PAYMENT SERVICES INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "juba-express",
+    "legal_name": "JUBA EXPRESS",
+    "brand_name": "JUBA EXPRESS",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "kredete-technology",
+    "legal_name": "KREDETE TECHNOLOGY LIMITED",
+    "brand_name": "KREDETE TECHNOLOGY",
+    "aliases": [
+      "KREDETE TECHNOLOGY LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "leadremit-inc-first-apple",
+    "legal_name": "LEADREMIT INC (FIRST APPLE)",
+    "brand_name": "LEADREMIT INC (FIRST APPLE)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "lightway-finance",
+    "legal_name": "LIGHTWAY FINANCE LIMITED",
+    "brand_name": "LIGHTWAY FINANCE",
+    "aliases": [
+      "LIGHTWAY FINANCE LIMITED",
+      "STERLING CURRENCY EXCHANGE LTD"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "mastercard-transaction-services-mts",
+    "legal_name": "MASTERCARD TRANSACTION SERVICES (MTS)",
+    "brand_name": "MASTERCARD TRANSACTION SERVICES (MTS)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "moneygram",
+    "legal_name": "MONEYGRAM",
+    "brand_name": "MONEYGRAM",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "more-money-transfers",
+    "legal_name": "MORE MONEY TRANSFERS LIMITED",
+    "brand_name": "MORE MONEY TRANSFERS",
+    "aliases": [
+      "MORE MONEY TRANSFERS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "UY",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "multigate-network-pay",
+    "legal_name": "MULTIGATE NETWORK PAY INC",
+    "brand_name": "MULTIGATE NETWORK PAY",
+    "aliases": [
+      "MULTIGATE GROUP HOLDING LIMITED",
+      "MULTIGATE NETWORK PAY INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nala-payments",
+    "legal_name": "NALA PAYMENTS LIMITED",
+    "brand_name": "NALA PAYMENTS",
+    "aliases": [
+      "NALA PAYMENTS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "oxford-19",
+    "legal_name": "OXFORD 19 LIMITED",
+    "brand_name": "OXFORD 19",
+    "aliases": [
+      "OXFORD 19 LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "RW",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payceler",
+    "legal_name": "PAYCELER LIMITED",
+    "brand_name": "PAYCELER",
+    "aliases": [
+      "PAYCELER LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "payment-processing",
+    "legal_name": "PAYMENT PROCESSING INC",
+    "brand_name": "PAYMENT PROCESSING",
+    "aliases": [
+      "PAYMENT PROCESSING INC",
+      "VTNETWORK LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "paysend",
+    "legal_name": "PAYSEND PLC",
+    "brand_name": "PAYSEND",
+    "aliases": [
+      "PAYSEND PLC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pearl-payments",
+    "legal_name": "PEARL PAYMENTS LIMITED",
+    "brand_name": "PEARL PAYMENTS",
+    "aliases": [
+      "ALALAMIYA EXCHANGE LIMITED",
+      "PEARL PAYMENTS LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "peniel-services",
+    "legal_name": "PENIEL SERVICES LIMITED",
+    "brand_name": "PENIEL SERVICES",
+    "aliases": [
+      "PENIEL SERVICES LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "pumpchain-technologies-platform",
+    "legal_name": "PUMPCHAIN TECHNOLOGIES PLATFORM LIMITED",
+    "brand_name": "PUMPCHAIN TECHNOLOGIES PLATFORM",
+    "aliases": [
+      "PUMPCHAIN TECHNOLOGIES PLATFORM LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "quickremit",
+    "legal_name": "QUICKREMIT LIMITED",
+    "brand_name": "QUICKREMIT",
+    "aliases": [
+      "QUICKREMIT LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "raenest",
+    "legal_name": "RAENEST INC",
+    "brand_name": "RAENEST",
+    "aliases": [
+      "RAENEST INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "CA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "remitix-limited-mukuru",
+    "legal_name": "REMITIX LIMITED (MUKURU)",
+    "brand_name": "REMITIX LIMITED (MUKURU)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "remitly",
+    "legal_name": "REMITLY INC",
+    "brand_name": "REMITLY",
+    "aliases": [
+      "REMITLY INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "ria-financials",
+    "legal_name": "RIA FINANCIALS",
+    "brand_name": "RIA FINANCIALS",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "SN",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "rightcard-payment-services-ltd-a-lemfi-brand-company",
+    "legal_name": "RIGHTCARD PAYMENT SERVICES LTD (A LEMFI BRAND COMPANY)",
+    "brand_name": "RIGHTCARD PAYMENT SERVICES LTD (A LEMFI BRAND COMPANY)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "saana-capital",
+    "legal_name": "SAANA CAPITAL LLC",
+    "brand_name": "SAANA CAPITAL",
+    "aliases": [
+      "SAANA CAPITAL LLC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "small-world-financial-services-group",
+    "legal_name": "SMALL WORLD FINANCIAL SERVICES GROUP LIMITED",
+    "brand_name": "SMALL WORLD FINANCIAL SERVICES GROUP",
+    "aliases": [
+      "SMALL WORLD FINANCIAL SERVICES GROUP LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "super-transfer-uk",
+    "legal_name": "SUPER TRANSFER UK LIMITED",
+    "brand_name": "SUPER TRANSFER UK",
+    "aliases": [
+      "SUPER TRANSFER UK LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "swift-payment",
+    "legal_name": "SWIFT PAYMENT LIMITED",
+    "brand_name": "SWIFT PAYMENT",
+    "aliases": [
+      "SWIFT PAYMENT LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "terra-payment-services-uk",
+    "legal_name": "TERRA PAYMENT SERVICES (UK) LIMITED",
+    "brand_name": "TERRA PAYMENT SERVICES (UK)",
+    "aliases": [
+      "TERRA PAYMENT SERVICES (UK) LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "tetrad-incorporation",
+    "legal_name": "TETRAD INCORPORATION LIMITED",
+    "brand_name": "TETRAD INCORPORATION",
+    "aliases": [
+      "TETRAD INCORPORATION LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "transfer-zero-money-transfer-e-p-s-a",
+    "legal_name": "TRANSFER ZERO MONEY TRANSFER E.P., S.A",
+    "brand_name": "TRANSFER ZERO MONEY TRANSFER E.P., S.A",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "ES",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "transferto-mobile-financial-services-limited-thunes",
+    "legal_name": "TRANSFERTO MOBILE FINANCIAL SERVICES LIMITED (THUNES)",
+    "brand_name": "TRANSFERTO MOBILE FINANCIAL SERVICES LIMITED (THUNES)",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "vertofx",
+    "legal_name": "VERTOFX LTD",
+    "brand_name": "VERTOFX",
+    "aliases": [
+      "VERTOFX LTD"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "volopa-financial-services-scotland",
+    "legal_name": "VOLOPA FINANCIAL SERVICES (SCOTLAND) LIMITED",
+    "brand_name": "VOLOPA FINANCIAL SERVICES (SCOTLAND)",
+    "aliases": [
+      "VOLOPA FINANCIAL SERVICES (SCOTLAND) LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "waza-technologies",
+    "legal_name": "WAZA TECHNOLOGIES INC",
+    "brand_name": "WAZA TECHNOLOGIES",
+    "aliases": [
+      "WAZA TECHNOLOGIES INC"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "US",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "weblink-international",
+    "legal_name": "WEBLINK INTERNATIONAL LIMITED",
+    "brand_name": "WEBLINK INTERNATIONAL",
+    "aliases": [
+      "WEBLINK INTERNATIONAL LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "western-union",
+    "legal_name": "WESTERN UNION",
+    "brand_name": "WESTERN UNION",
+    "aliases": [],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "MA",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "worldremit",
+    "legal_name": "WORLDREMIT LIMITED",
+    "brand_name": "WORLDREMIT",
+    "aliases": [
+      "WORLDREMIT LIMITED"
+    ],
+    "primary_category": "remittance-imto",
+    "categories": [
+      "remittance-imto"
+    ],
+    "country_code": "GB",
+    "nigeria_presence": "foreign-authorized",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "International money transfer operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]

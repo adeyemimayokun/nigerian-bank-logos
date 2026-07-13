@@ -1,0 +1,627 @@
+[
+  {
+    "slug": "access-arm-pensions",
+    "legal_name": "Access ARM Pensions Limited",
+    "brand_name": "Access ARM Pensions",
+    "aliases": [
+      "Access ARM Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cardinal-stone-pensions",
+    "legal_name": "Cardinal Stone Pensions Limited",
+    "brand_name": "Cardinal Stone Pensions",
+    "aliases": [
+      "Cardinal Stone Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "citizens-pensions",
+    "legal_name": "Citizens Pensions Limited",
+    "brand_name": "Citizens Pensions",
+    "aliases": [
+      "Citizens Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "crusader-sterling-pensions",
+    "legal_name": "Crusader Sterling Pensions Limited",
+    "brand_name": "Crusader Sterling Pensions",
+    "aliases": [
+      "Crusader Sterling Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fcmb-pensions",
+    "legal_name": "FCMB Pensions Limited",
+    "brand_name": "FCMB Pensions",
+    "aliases": [
+      "FCMB Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "fidelity-pension-managers",
+    "legal_name": "Fidelity Pension Managers Limited",
+    "brand_name": "Fidelity Pension Managers",
+    "aliases": [
+      "Fidelity Pension Managers Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "guaranty-trust-pension-managers",
+    "legal_name": "Guaranty Trust Pension Managers Limited",
+    "brand_name": "Guaranty Trust Pension Managers",
+    "aliases": [
+      "Guaranty Trust Pension Managers Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "leadway-pfa",
+    "legal_name": "Leadway PFA Limited",
+    "brand_name": "Leadway PFA",
+    "aliases": [
+      "Leadway PFA Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigerian-university-pension-management-company-nupemco",
+    "legal_name": "Nigerian University Pension Management Company (NUPEMCO)",
+    "brand_name": "Nigerian University Pension Management Company (NUPEMCO)",
+    "aliases": [],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nlpc-pension-fund-administrators",
+    "legal_name": "NLPC Pension Fund Administrators Limited",
+    "brand_name": "NLPC Pension Fund Administrators",
+    "aliases": [
+      "NLPC Pension Fund Administrators Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "norrenberger-pensions",
+    "legal_name": "Norrenberger Pensions Limited",
+    "brand_name": "Norrenberger Pensions",
+    "aliases": [
+      "Norrenberger Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "npf-pension-managers",
+    "legal_name": "NPF Pension Managers Limited",
+    "brand_name": "NPF Pension Managers",
+    "aliases": [
+      "NPF Pension Managers Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "oak-pensions",
+    "legal_name": "OAK Pensions Limited",
+    "brand_name": "OAK Pensions",
+    "aliases": [
+      "OAK Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "parthian-pensions",
+    "legal_name": "Parthian Pensions Limited",
+    "brand_name": "Parthian Pensions",
+    "aliases": [
+      "Parthian Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "premium-pension",
+    "legal_name": "Premium Pension Limited",
+    "brand_name": "Premium Pension",
+    "aliases": [
+      "Premium Pension Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "stanbic-ibtc-pension-managers",
+    "legal_name": "Stanbic IBTC Pension Managers Limited",
+    "brand_name": "Stanbic IBTC Pension Managers",
+    "aliases": [
+      "Stanbic IBTC Pension Managers Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "tangerine-apt-pensions",
+    "legal_name": "Tangerine APT Pensions Limited",
+    "brand_name": "Tangerine APT Pensions",
+    "aliases": [
+      "Tangerine APT Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "trustfund-pensions",
+    "legal_name": "Trustfund Pensions Limited",
+    "brand_name": "Trustfund Pensions",
+    "aliases": [
+      "Trustfund Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "veritas-glanvills-pensions",
+    "legal_name": "Veritas Glanvills Pensions Limited",
+    "brand_name": "Veritas Glanvills Pensions",
+    "aliases": [
+      "Veritas Glanvills Pensions Limited"
+    ],
+    "primary_category": "pension-fund-administrator",
+    "categories": [
+      "pension-fund-administrator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "PenCom"
+    ],
+    "licence_types": [
+      "Pension fund administrator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": null,
+    "sources": [
+      {
+        "url": "https://www.pencom.gov.ng/pension-fund-administrators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": null,
+    "added_at": "2026-07-13",
+    "updated_at": "2026-07-13"
+  }
+]
