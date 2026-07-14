@@ -10,16 +10,25 @@ describe("institution catalog", () => {
     expect(catalogItems.length).toBeLessThan(expectedDirectorySize);
     expect(catalogItems.flatMap((item) => item.institutions)).toHaveLength(expectedDirectorySize);
     expect(institutionCount).toBe(catalogItems.length);
-    expect(canonicalLogoCount).toBe(196);
+    expect(canonicalLogoCount).toBe(199);
   });
 
   it("includes unmatched fintech research as unverified candidates", () => {
-    const candidate = catalogItems.find((item) => item.institution.slug === "pawapay");
+    const candidate = catalogItems.find((item) => item.institution.slug === "passpoint");
 
-    expect(candidate?.displayName).toBe("PawaPay");
+    expect(candidate?.displayName).toBe("Passpoint");
     expect(candidate?.institution.verification_status).toBe("community-candidate");
     expect(candidate?.institution.regulatory_status).toBe("unverified");
     expect(candidate?.logo).toBeNull();
+  });
+
+  it("links newly verified fintech discoveries to official assets", () => {
+    for (const slug of ["pawapay", "grey", "onafriq"]) {
+      const item = catalogItems.find((entry) => entry.institutions.some((institution) => institution.slug === slug));
+      expect(item?.logo?.slug).toBe(slug);
+      expect(item?.institution.verification_status).toBe("community-candidate");
+      expect(item?.logo?.status).toBe("verified");
+    }
   });
 
   it("merges related Flutterwave institutions into the common brand entry", () => {
@@ -67,6 +76,20 @@ describe("institution catalog", () => {
   it("exposes a logo-only catalog for the public explorer", () => {
     expect(logoCatalogItems).toHaveLength(availableLogoCount);
     expect(logoCatalogItems.every((item) => item.logo !== null)).toBe(true);
+  });
+
+  it("hydrates reviewed logo variations with downloadable assets", () => {
+    const sycamore = logoCatalogItems.find((item) => item.logo.slug === "sycamore-integrated-solutions");
+    const symbol = sycamore?.logo.variations.find((variation) => variation.id === "symbol");
+    const busha = logoCatalogItems.find((item) => item.logo.slug === "busha-digital");
+    const light = busha?.logo.variations.find((variation) => variation.id === "light");
+
+    expect(symbol?.svg).toContain("<svg");
+    expect(symbol?.asset_urls.png).toBeTruthy();
+    expect(symbol?.asset_urls.webp).toBeTruthy();
+    expect(light?.svg).toContain("<svg");
+    expect(light?.asset_urls.png).toBeTruthy();
+    expect(light?.asset_urls.webp).toBeTruthy();
   });
 
   it("bundles an isolated raster preview for every catalog logo", () => {

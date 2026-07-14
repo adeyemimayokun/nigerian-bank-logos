@@ -14,6 +14,7 @@
     "validate": "tsx packages/validator/src/validate.ts && pnpm institutions:validate",
     "institutions:generate": "tsx packages/institutions/scripts/generate.ts",
     "institutions:import:fintech-list": "tsx packages/institutions/scripts/import-fintech-list.ts",
+    "logos:import:fintech-discovery": "tsx packages/logos/scripts/import-fintech-discovery-logos.ts",
     "institutions:refresh": "tsx packages/institutions/scripts/refresh.ts",
     "institutions:validate": "tsx packages/institutions/scripts/validate.ts",
     "institutions:check": "tsx packages/institutions/scripts/generate.ts --check",

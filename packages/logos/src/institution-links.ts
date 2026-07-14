@@ -13,5 +13,7 @@ export const institutionLogoLinks: Readonly<Record<string, string>> = {
   "mutual-benefit-life-assurance": "mutual-benefit-assurance",
   "paga-remit": "pagatech",
   "renmoney-lending-company": "renmoney-microfinance-bank",
-  "tangerine-life-insurance-company": "tangerine-general-insurance"
+  "tangerine-life-insurance-company": "tangerine-general-insurance",
+  "teamapt": "moniepoint",
+  "xtra-mfs": "quickteller"
 };

@@ -1,10 +1,10 @@
 {
   "snapshot_date": "2026-07-13",
   "total_institutions": 1693,
-  "linked_to_logo": 168,
-  "unresolved": 1525,
+  "linked_to_logo": 170,
+  "unresolved": 1523,
   "unresolved_with_website": 0,
-  "unresolved_without_website": 1525,
+  "unresolved_without_website": 1523,
   "unresolved_by_category": {
     "commercial-bank": 0,
     "microfinance-bank": 0,
@@ -21,7 +21,7 @@
     "development-finance-institution": 2,
     "discount-house": 0,
     "finance-company": 0,
-    "switching-processing": 15,
+    "switching-processing": 14,
     "payment-solution-service-provider": 120,
     "payment-terminal-service-provider": 46,
     "super-agent": 60,
@@ -29,7 +29,7 @@
     "card-scheme": 8,
     "clearing-house": 2,
     "credit-bureau": 0,
-    "digital-lender": 548,
+    "digital-lender": 547,
     "crowdfunding-platform": 3,
     "robo-adviser": 0,
     "digital-broker": 2,
@@ -3532,15 +3532,6 @@
       "legal_name": "Express Security Insurance Brokers L.t.d",
       "brand_name": "Express Security Insurance Brokers L.t.d",
       "primary_category": "insurance-broker",
-      "website": null,
-      "verification_status": "officially-verified",
-      "reason": "official-website-and-logo-source-required"
-    },
-    {
-      "slug": "xtra-mfs",
-      "legal_name": "XTRA MFS NIGERIA LIMITED",
-      "brand_name": "EXTRA CASH",
-      "primary_category": "digital-lender",
       "website": null,
       "verification_status": "officially-verified",
       "reason": "official-website-and-logo-source-required"
@@ -11794,15 +11785,6 @@
       "legal_name": "TCF SERVICES LIMITED",
       "brand_name": "TCF SERVICES",
       "primary_category": "remittance-imto",
-      "website": null,
-      "verification_status": "officially-verified",
-      "reason": "official-website-and-logo-source-required"
-    },
-    {
-      "slug": "teamapt",
-      "legal_name": "Teamapt Limited",
-      "brand_name": "Teamapt",
-      "primary_category": "switching-processing",
       "website": null,
       "verification_status": "officially-verified",
       "reason": "official-website-and-logo-source-required"

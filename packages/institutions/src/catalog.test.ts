@@ -46,7 +46,7 @@ describe("institution catalog", () => {
 
   it("tracks logo coverage for every Nigerian institution", () => {
     expect(logoCoverage.total_institutions).toBe(institutions.length);
-    expect(logoCoverage.linked_to_logo).toBe(168);
+    expect(logoCoverage.linked_to_logo).toBe(170);
     expect(logoCoverage.unresolved_with_website).toBe(0);
     expect(logoCoverage.linked_to_logo + logoCoverage.unresolved).toBe(logoCoverage.total_institutions);
   });

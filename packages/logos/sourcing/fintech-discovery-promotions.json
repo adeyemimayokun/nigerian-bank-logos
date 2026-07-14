@@ -1,0 +1,32 @@
+[
+  {
+    "institution_slug": "pawapay",
+    "candidate_path": "fintech-discovery-candidates/pawapay/pawapay.svg",
+    "source_url": "https://cdn.prod.website-files.com/62824591015aa314fd308df1/698b52078dc51e0ef339b55c_pawapay_logo_black.svg",
+    "source_type": "official-brand-page",
+    "website": "https://www.pawapay.io/",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "grey",
+    "candidate_path": "fintech-discovery-candidates/grey/grey.svg",
+    "source_url": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
+    "source_type": "official-website",
+    "website": "https://grey.co/",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "onafriq",
+    "candidate_path": "fintech-discovery-candidates/onafriq/onafriq.webp",
+    "source_url": "https://onafriq.com/assets/images/onafriq-logo-black.webp",
+    "source_type": "official-website",
+    "website": "https://onafriq.com/",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  }
+]

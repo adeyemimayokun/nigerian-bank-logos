@@ -47,7 +47,7 @@ import {
 } from "./catalog-data";
 import { searchScore } from "./catalog-search";
 import { buildCompanyLogoSubmissionUrl, buildLogoRequestUrl } from "./logo-request";
-import type { LogoWithSvg } from "./logo-data";
+import type { LogoAsset } from "./logo-data";
 import "./styles.css";
 
 type PluginMessage =
@@ -82,6 +82,8 @@ const categoryIcons: Partial<Record<InstitutionCategory, LucideIcon>> = {
   "stockbroker": ChartLine
 };
 const darkPreviewSlugs = new Set([
+  "busha-digital-light",
+  "grey",
   "union-bank-of",
   "meristem-securities",
   "cardinalstone-securities",
@@ -113,7 +115,7 @@ function getSourceDomain(sourceUrl: string) {
   return new URL(sourceUrl).hostname.replace(/^www\./, "");
 }
 
-function getAvailableFormats(logo: LogoWithSvg) {
+function getAvailableFormats(logo: LogoAsset) {
   return logo.formats.map((format) => format.type.toUpperCase()).join(" · ");
 }
 
@@ -132,7 +134,7 @@ function getInstitutionInitials(name: string) {
   return `${words[0][0]}${words[1][0]}`.toUpperCase();
 }
 
-function previewUrl(logo: LogoWithSvg) {
+function previewUrl(logo: LogoAsset) {
   return logo.asset_urls.png ?? logo.asset_urls.webp ?? logo.asset_urls.jpeg ?? "";
 }
 
@@ -210,13 +212,13 @@ function App() {
 
   const visibleItems = filteredItems.slice(0, visibleLimit);
 
-  function insertLogo(logo: LogoWithSvg) {
+  function insertLogo(logo: LogoAsset) {
     parent.postMessage({
       pluginMessage: { type: "insert-logo", name: logo.name, svg: logo.svg }
     }, "*");
   }
 
-  async function copySvg(logo: LogoWithSvg) {
+  async function copySvg(logo: LogoAsset) {
     try {
       if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(logo.svg);
@@ -288,7 +290,7 @@ function App() {
     setToast("Submission prepared on GitHub");
   }
 
-  function downloadLogo(logo: LogoWithSvg, formatType: LogoFormatType) {
+  function downloadLogo(logo: LogoAsset, formatType: LogoFormatType) {
     const format = logo.formats.find((entry) => entry.type === formatType);
     if (!format) return;
     const blobUrl = formatType === "svg"
@@ -1034,12 +1036,13 @@ function DetailSheet({
   selectedFormat: LogoFormatType;
   onClose: () => void;
   onFormatChange: (format: LogoFormatType) => void;
-  onCopySvg: (logo: LogoWithSvg) => void;
-  onDownload: (logo: LogoWithSvg, format: LogoFormatType) => void;
-  onInsert: (logo: LogoWithSvg) => void;
+  onCopySvg: (logo: LogoAsset) => void;
+  onDownload: (logo: LogoAsset, format: LogoFormatType) => void;
+  onInsert: (logo: LogoAsset) => void;
   onRequest: () => void;
 }) {
   const { logo, displayName, categories } = item;
+  const [selectedVariationId, setSelectedVariationId] = useState("primary");
   if (!logo) {
     const institutionSource = item.institution.sources[0]?.url;
     return (
@@ -1089,6 +1092,36 @@ function DetailSheet({
     );
   }
   const websiteUrl = logo.website;
+  const variationAssets: Array<{ id: string; label: string; asset: LogoAsset }> = [
+    {
+      id: "primary",
+      label: "Primary",
+      asset: logo
+    },
+    ...logo.variations.map((variation) => ({
+      id: variation.id,
+      label: variation.name,
+      asset: {
+        name: `${logo.name} ${variation.name}`,
+        slug: `${logo.slug}-${variation.id}`,
+        formats: variation.formats,
+        svg: variation.svg,
+        asset_urls: variation.asset_urls
+      }
+    }))
+  ];
+  const activeVariation = variationAssets.find((variation) => variation.id === selectedVariationId) ?? variationAssets[0];
+  const activeLogo = activeVariation.asset;
+
+  function selectVariation(id: string) {
+    const variation = variationAssets.find((entry) => entry.id === id);
+    if (!variation) return;
+    setSelectedVariationId(id);
+    if (!variation.asset.formats.some((format) => format.type === selectedFormat)) {
+      onFormatChange(variation.asset.formats[0].type);
+    }
+  }
+
   return (
     <div className="detail-backdrop" onMouseDown={onClose}>
       <aside className="detail-sheet" aria-label={`${displayName} details`} onMouseDown={(event) => event.stopPropagation()}>
@@ -1104,9 +1137,28 @@ function DetailSheet({
           <button className="close-button" type="button" onClick={onClose} aria-label="Close details" title="Close">×</button>
         </header>
 
+        {variationAssets.length > 1 ? (
+          <div className="variation-picker">
+            <span>Variation</span>
+            <div role="group" aria-label="Logo variation">
+              {variationAssets.map((variation) => (
+                <button
+                  key={variation.id}
+                  type="button"
+                  className={activeVariation.id === variation.id ? "active" : ""}
+                  onClick={() => selectVariation(variation.id)}
+                  aria-pressed={activeVariation.id === variation.id}
+                >
+                  {variation.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : null}
+
         <div className="detail-media">
           <div className="format-picker" aria-label="Download format">
-            {logo.formats.map((format) => {
+            {activeLogo.formats.map((format) => {
               const FormatIcon = formatIcons[format.type];
               const label = format.type.toUpperCase();
               return (
@@ -1125,15 +1177,15 @@ function DetailSheet({
               );
             })}
           </div>
-          <div className={`detail-preview${darkPreviewSlugs.has(logo.slug) ? " logo-preview-dark" : ""}`}>
-            <img src={previewUrl(logo)} alt="" />
+          <div className={`detail-preview${darkPreviewSlugs.has(activeLogo.slug) ? " logo-preview-dark" : ""}`}>
+            <img src={previewUrl(activeLogo)} alt="" />
           </div>
         </div>
 
         <dl className="detail-facts">
           <div>
             <dt>Available formats</dt>
-            <dd>{getAvailableFormats(logo)}</dd>
+            <dd>{getAvailableFormats(activeLogo)}</dd>
           </div>
           <div>
             <dt>Added</dt>
@@ -1149,16 +1201,18 @@ function DetailSheet({
           </div>
         </dl>
 
-        <div className={`detail-actions${logo.svg ? "" : " single"}`}>
-          <button className="download-button" type="button" onClick={() => onDownload(logo, selectedFormat)}>
+        <div className={`detail-actions${activeLogo.svg ? "" : " single"}`}>
+          <button className="download-button" type="button" onClick={() => onDownload(activeLogo, selectedFormat)}>
             Download {selectedFormat.toUpperCase()}
           </button>
-          {logo.svg ? (
+          {activeLogo.svg ? (
             <>
-              <button className="copy-button" type="button" onClick={() => onCopySvg(logo)}>
+              <button className="copy-button" type="button" onClick={() => onCopySvg(activeLogo)}>
                 <Copy aria-hidden="true" size={15} strokeWidth={1.8} /> Copy SVG
               </button>
-              <button className="insert-button" type="button" onClick={() => onInsert(logo)}>Insert {displayName}</button>
+              <button className="insert-button" type="button" onClick={() => onInsert(activeLogo)}>
+                Insert {activeVariation.id === "primary" ? displayName : activeVariation.label}
+              </button>
             </>
           ) : null}
         </div>

@@ -186,9 +186,12 @@ async function main(): Promise<void> {
   const existingCandidates = institutionCatalogSchema.parse(
     await readJson<Institution[]>(candidatesPath)
   );
-  const preservedCandidates = existingCandidates.filter((record) =>
-    !record.sources.some((source) => source.url === sourceUrl)
-  );
+  const preservedCandidates = existingCandidates.filter((record) => {
+    const cameFromThisList = record.sources.some((source) => source.url === sourceUrl);
+    const hasVerifiedEnrichment = Boolean(record.logo_slug || record.website) ||
+      record.sources.some((source) => source.source_type === "official-website");
+    return !cameFromThisList || hasVerifiedEnrichment;
+  });
   const allExisting = [...master, ...preservedCandidates];
   const byKey = new Map<string, Institution>();
   const bySlug = new Map(allExisting.map((record) => [record.slug, record]));

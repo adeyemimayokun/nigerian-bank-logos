@@ -6,6 +6,7 @@ export {
   logoEntrySchema,
   logoFormatSchema,
   logoFormatTypes,
+  logoVariationSchema,
   logoStatuses,
   sourceTypes
 } from "./schema";
@@ -15,6 +16,7 @@ export type {
   LogoFormat,
   LogoFormatType,
   LogoStatus,
+  LogoVariation,
   SourceType
 } from "./schema";
 import type { LogoCategory } from "./schema";

@@ -61,6 +61,63 @@ export function validateCatalog(): ValidationIssue[] {
     if (entry.svg_path && svgFormat?.path !== entry.svg_path) issues.push({ slug: entry.slug, message: "svg_path must match the SVG format path." });
     if (!entry.svg_path && svgFormat) issues.push({ slug: entry.slug, message: "Raster-only logos cannot declare an SVG format." });
 
+    const variationIds = new Set<string>();
+    for (const variation of entry.variations ?? []) {
+      const variationSlug = `${entry.slug}/${variation.id}`;
+      if (variationIds.has(variation.id)) {
+        issues.push({ slug: variationSlug, message: "Duplicate variation ID." });
+      }
+      variationIds.add(variation.id);
+
+      const variationFormatTypes = new Set<string>();
+      for (const format of variation.formats) {
+        if (variationFormatTypes.has(format.type)) {
+          issues.push({ slug: variationSlug, message: `Duplicate format: ${format.type}.` });
+        }
+        variationFormatTypes.add(format.type);
+        if (assetPaths.has(format.path)) {
+          issues.push({ slug: variationSlug, message: `Duplicate asset path: ${format.path}.` });
+        }
+        assetPaths.add(format.path);
+        const formatPath = join(assetsRoot, format.path);
+        if (!existsSync(formatPath)) {
+          issues.push({ slug: variationSlug, message: `Missing ${format.type.toUpperCase()} asset: ${format.path}` });
+          continue;
+        }
+        const bytes = readFileSync(formatPath);
+        if (format.type === "png" && !bytes.subarray(0, 8).equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]))) {
+          issues.push({ slug: variationSlug, message: `${format.path} is not a valid PNG.` });
+        }
+        if (format.type === "webp" && (bytes.toString("ascii", 0, 4) !== "RIFF" || bytes.toString("ascii", 8, 12) !== "WEBP")) {
+          issues.push({ slug: variationSlug, message: `${format.path} is not a valid WebP.` });
+        }
+      }
+      if (!variationFormatTypes.has("png")) issues.push({ slug: variationSlug, message: "PNG format is required." });
+      if (!variationFormatTypes.has("webp")) issues.push({ slug: variationSlug, message: "WebP format is required." });
+      const variationSvgFormat = variation.formats.find((format) => format.type === "svg");
+      if (variation.svg_path && variationSvgFormat?.path !== variation.svg_path) {
+        issues.push({ slug: variationSlug, message: "svg_path must match the SVG format path." });
+      }
+      if (!variation.svg_path && variationSvgFormat) {
+        issues.push({ slug: variationSlug, message: "Raster-only variations cannot declare an SVG format." });
+      }
+      if (!existsSync(join(assetsRoot, variation.source_path))) {
+        issues.push({ slug: variationSlug, message: `Missing source asset: ${variation.source_path}` });
+      }
+      if (variation.svg_path) {
+        const variationAssetPath = join(assetsRoot, variation.svg_path);
+        if (existsSync(variationAssetPath)) {
+          const svg = readFileSync(variationAssetPath, "utf8").trim();
+          const rootSvgTag = svg.match(/^<svg\b[^>]*>/i)?.[0] ?? "";
+          if (!svg.startsWith("<svg")) issues.push({ slug: variationSlug, message: "SVG asset must start with an <svg> element." });
+          if (!/\bviewBox\s*=\s*["'][^"']+["']/i.test(rootSvgTag)) issues.push({ slug: variationSlug, message: "Root SVG must declare a viewBox." });
+          if (/<script[\s>]/i.test(svg)) issues.push({ slug: variationSlug, message: "SVG asset contains a script tag." });
+          if (/\son[a-z]+\s*=/i.test(svg)) issues.push({ slug: variationSlug, message: "SVG asset contains inline event handlers." });
+          if (/(href|src)=["']https?:\/\//i.test(svg)) issues.push({ slug: variationSlug, message: "SVG asset references external network content." });
+        }
+      }
+    }
+
     const sourcePath = join(assetsRoot, entry.source_path);
     if (!existsSync(sourcePath)) {
       issues.push({ slug: entry.slug, message: `Missing source asset: ${entry.source_path}` });

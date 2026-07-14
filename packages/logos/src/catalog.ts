@@ -1,4 +1,5 @@
 import promotedCatalog from "./promoted-catalog.json";
+import variationCatalog from "./variations.json";
 import { logoCatalogSchema, type LogoEntry } from "./schema";
 
 const seedCatalog = [
@@ -61,4 +62,9 @@ const seedCatalog = [
   }
 ] satisfies LogoEntry[];
 
-export const logoCatalog = logoCatalogSchema.parse([...seedCatalog, ...promotedCatalog]);
+const entries = [...seedCatalog, ...promotedCatalog].map((entry) => ({
+  ...entry,
+  variations: variationCatalog[entry.slug as keyof typeof variationCatalog] ?? []
+}));
+
+export const logoCatalog = logoCatalogSchema.parse(entries);

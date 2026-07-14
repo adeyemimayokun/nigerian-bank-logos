@@ -3,9 +3,9 @@
   "source_file": "docs/research/nigerian-fintech-companies.md",
   "source_entries": 342,
   "unique_source_names": 340,
-  "matched_existing_entries": 79,
-  "matched_existing_unique_names": 78,
-  "added_community_candidates": 262,
+  "matched_existing_entries": 82,
+  "matched_existing_unique_names": 81,
+  "added_community_candidates": 259,
   "duplicate_source_entries_collapsed": 2,
   "master_records_unchanged": 1751,
   "community_candidates_total": 299,
@@ -41,6 +41,11 @@
       "institution_slug": "akilaah-solution"
     },
     {
+      "source_name": "PawaPay",
+      "source_category": "Payments Processing, Switching and Infrastructure",
+      "institution_slug": "pawapay"
+    },
+    {
       "source_name": "Zest",
       "source_category": "Payments Processing, Switching and Infrastructure",
       "institution_slug": "zest-payments-limited-stanbic-financial-services-limited"
@@ -54,6 +59,11 @@
       "source_name": "E-Settlement",
       "source_category": "Payments Processing, Switching and Infrastructure",
       "institution_slug": "e-settlement"
+    },
+    {
+      "source_name": "Onafriq",
+      "source_category": "Payments Processing, Switching and Infrastructure",
+      "institution_slug": "onafriq"
     },
     {
       "source_name": "Itex",
@@ -404,6 +414,11 @@
       "source_name": "Afriex",
       "source_category": "FX, B2B and Cross-Border Payments and Remittances",
       "institution_slug": "afriex"
+    },
+    {
+      "source_name": "Grey",
+      "source_category": "FX, B2B and Cross-Border Payments and Remittances",
+      "institution_slug": "grey"
     }
   ],
   "added": [
@@ -1517,18 +1532,6 @@
       ]
     },
     {
-      "slug": "grey",
-      "brand_name": "Grey",
-      "primary_category": "remittance-imto",
-      "categories": [
-        "remittance-imto",
-        "fintech"
-      ],
-      "source_headings": [
-        "FX, B2B and Cross-Border Payments and Remittances"
-      ]
-    },
-    {
       "slug": "grownee",
       "brand_name": "Grownee",
       "primary_category": "finance-app",
@@ -2296,19 +2299,6 @@
       ]
     },
     {
-      "slug": "onafriq",
-      "brand_name": "Onafriq",
-      "primary_category": "switching-processing",
-      "categories": [
-        "switching-processing",
-        "payment-solution-service-provider",
-        "fintech"
-      ],
-      "source_headings": [
-        "Payments Processing, Switching and Infrastructure"
-      ]
-    },
-    {
       "slug": "onus",
       "brand_name": "Onus",
       "primary_category": "switching-processing",
@@ -2427,19 +2417,6 @@
       ],
       "source_headings": [
         "Fintech Infrastructure, BaaS and TechFin"
-      ]
-    },
-    {
-      "slug": "pawapay",
-      "brand_name": "PawaPay",
-      "primary_category": "switching-processing",
-      "categories": [
-        "switching-processing",
-        "payment-solution-service-provider",
-        "fintech"
-      ],
-      "source_headings": [
-        "Payments Processing, Switching and Infrastructure"
       ]
     },
     {

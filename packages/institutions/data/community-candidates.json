@@ -2880,15 +2880,20 @@
     "licence_types": [],
     "regulatory_status": "unverified",
     "verification_status": "community-candidate",
-    "website": null,
+    "website": "https://grey.co/",
     "sources": [
       {
         "url": "https://github.com/adeyemimayokun/nigerian-bank-logos/blob/main/docs/research/nigerian-fintech-companies.md",
         "source_type": "community",
         "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://grey.co/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "grey",
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14"
   },
@@ -4849,15 +4854,20 @@
     "licence_types": [],
     "regulatory_status": "unverified",
     "verification_status": "community-candidate",
-    "website": null,
+    "website": "https://onafriq.com/",
     "sources": [
       {
         "url": "https://github.com/adeyemimayokun/nigerian-bank-logos/blob/main/docs/research/nigerian-fintech-companies.md",
         "source_type": "community",
         "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://onafriq.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "onafriq",
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14"
   },
@@ -5296,15 +5306,20 @@
     "licence_types": [],
     "regulatory_status": "unverified",
     "verification_status": "community-candidate",
-    "website": null,
+    "website": "https://www.pawapay.io/",
     "sources": [
       {
         "url": "https://github.com/adeyemimayokun/nigerian-bank-logos/blob/main/docs/research/nigerian-fintech-companies.md",
         "source_type": "community",
         "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.pawapay.io/media-branding",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "pawapay",
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14"
   },

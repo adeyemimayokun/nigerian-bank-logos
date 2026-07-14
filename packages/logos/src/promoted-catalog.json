@@ -6945,5 +6945,109 @@
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14",
     "status": "verified"
+  },
+  {
+    "name": "PawaPay",
+    "slug": "pawapay",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.pawapay.io/",
+    "source_url": "https://cdn.prod.website-files.com/62824591015aa314fd308df1/698b52078dc51e0ef339b55c_pawapay_logo_black.svg",
+    "source_type": "official-brand-page",
+    "source_path": "sources/pawapay.svg",
+    "svg_path": "assets/pawapay.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/pawapay.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/pawapay.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/pawapay.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Grey",
+    "slug": "grey",
+    "category": "other",
+    "aliases": [],
+    "website": "https://grey.co/",
+    "source_url": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
+    "source_type": "official-website",
+    "source_path": "sources/grey.svg",
+    "svg_path": "assets/grey.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/grey.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/grey.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/grey.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Onafriq",
+    "slug": "onafriq",
+    "category": "other",
+    "aliases": [],
+    "website": "https://onafriq.com/",
+    "source_url": "https://onafriq.com/assets/images/onafriq-logo-black.webp",
+    "source_type": "official-website",
+    "source_path": "sources/onafriq.webp",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/onafriq.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/onafriq.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
   }
 ]

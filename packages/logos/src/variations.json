@@ -1,0 +1,66 @@
+{
+  "busha-digital": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg",
+      "source_path": "sources/busha-digital-light.svg",
+      "svg_path": "assets/busha-digital-light.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/busha-digital-light.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/busha-digital-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/busha-digital-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "sycamore-integrated-solutions": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://www.sycamore.ng/press",
+      "source_path": "sources/sycamore-integrated-solutions-symbol.svg",
+      "svg_path": "assets/sycamore-integrated-solutions-symbol.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/sycamore-integrated-solutions-symbol.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/sycamore-integrated-solutions-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/sycamore-integrated-solutions-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ]
+}

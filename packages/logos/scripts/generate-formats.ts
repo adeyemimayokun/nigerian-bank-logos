@@ -28,25 +28,36 @@ const manifest = {
 let stale = false;
 
 for (const logo of logoCatalog) {
-  const source = await readFile(join(packageRoot, "src", logo.source_path));
-  manifest.source_sha256[logo.slug] = createHash("sha256").update(source).digest("hex");
-  const outputs = new Map<string, Buffer>([
-    ["png", await render(source, "png")],
-    ["webp", await render(source, "webp")]
-  ]);
+  const targets = [
+    { key: logo.slug, sourcePath: logo.source_path, formats: logo.formats },
+    ...(logo.variations ?? []).map((variation) => ({
+      key: `${logo.slug}/${variation.id}`,
+      sourcePath: variation.source_path,
+      formats: variation.formats
+    }))
+  ];
 
-  for (const format of logo.formats.filter((entry) => entry.type !== "svg")) {
-    const expected = outputs.get(format.type);
-    if (!expected) continue;
-    const path = join(packageRoot, "src", format.path);
-    if (check) {
-      const current = existsSync(path) ? await readFile(path) : null;
-      if (!current || !(await hasExpectedEncoding(current, expected))) {
-        console.error(`Generated logo format is stale: ${format.path}`);
-        stale = true;
+  for (const target of targets) {
+    const source = await readFile(join(packageRoot, "src", target.sourcePath));
+    manifest.source_sha256[target.key] = createHash("sha256").update(source).digest("hex");
+    const outputs = new Map<string, Buffer>([
+      ["png", await render(source, "png")],
+      ["webp", await render(source, "webp")]
+    ]);
+
+    for (const format of target.formats.filter((entry) => entry.type !== "svg")) {
+      const expected = outputs.get(format.type);
+      if (!expected) continue;
+      const path = join(packageRoot, "src", format.path);
+      if (check) {
+        const current = existsSync(path) ? await readFile(path) : null;
+        if (!current || !(await hasExpectedEncoding(current, expected))) {
+          console.error(`Generated logo format is stale: ${format.path}`);
+          stale = true;
+        }
+      } else {
+        await writeFile(path, expected);
       }
-    } else {
-      await writeFile(path, expected);
     }
   }
 }

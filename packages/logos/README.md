@@ -30,6 +30,12 @@ logo and comes from an official source.
 Official raster-only artwork can be accepted for preview and download, but it is
 never traced into an SVG and does not enable editable Figma insertion.
 
+Reviewed alternate lockups, symbols, and color versions are registered in
+`src/variations.json`. Each variation keeps its own source path and format list,
+inherits the parent logo's institution metadata, and is processed by
+`logos:formats`. The plugin only shows the variation selector when a catalog
+entry has at least one reviewed alternate.
+
 `logos:import:nigerialogos` audits the complete upstream Nigeria Logos index,
 filters financial entries, records exclusions and missing files, and imports new
 artwork as `community-catalog` sources with `needs-review` status. It never marks

@@ -637,6 +637,7 @@ input {
 .insert-button:focus-visible,
 .load-more-row button:focus-visible,
 .format-picker button:focus-visible,
+.variation-picker button:focus-visible,
 .detail-facts a:focus-visible {
   outline: 2px solid #343330;
   outline-offset: 2px;
@@ -1226,6 +1227,58 @@ input {
   transform: scale(0.96);
 }
 
+.variation-picker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.variation-picker > span {
+  color: #85867f;
+  font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  font-size: 8px;
+  text-transform: uppercase;
+}
+
+.variation-picker > div {
+  display: inline-flex;
+  overflow: hidden;
+  border: 1px solid #cfd2ca;
+  border-radius: 6px;
+}
+
+.variation-picker button {
+  min-width: 78px;
+  min-height: 32px;
+  cursor: pointer;
+  border: 0;
+  border-right: 1px solid #cfd2ca;
+  background: transparent;
+  color: #686a63;
+  font-size: 9px;
+  padding: 0 12px;
+}
+
+.variation-picker button:last-child {
+  border-right: 0;
+}
+
+.variation-picker button:hover {
+  background: #e9ebe5;
+  color: #343330;
+}
+
+.variation-picker button.active {
+  background: #343330;
+  color: #fff;
+}
+
+.variation-picker + .detail-media {
+  margin-top: 10px;
+}
+
 .detail-media {
   display: grid;
   overflow: hidden;
@@ -1668,6 +1721,26 @@ html[data-theme="dark"] .format-picker button {
   color: #bfc3b9;
 }
 
+html[data-theme="dark"] .variation-picker > div,
+html[data-theme="dark"] .variation-picker button {
+  border-color: #4b4e48;
+}
+
+html[data-theme="dark"] .variation-picker button {
+  color: #bfc3b9;
+}
+
+html[data-theme="dark"] .variation-picker button:hover {
+  background: #30332f;
+  color: #f3f4f1;
+}
+
+html[data-theme="dark"] .variation-picker button.active {
+  border-color: #c9e45d;
+  background: #c9e45d;
+  color: #343330;
+}
+
 html[data-theme="dark"] .project-sheet-action:hover,
 html[data-theme="dark"] .insert-button:hover,
 html[data-theme="dark"] .empty-state-action:hover {
@@ -1685,6 +1758,7 @@ html[data-theme="dark"] .download-button:focus-visible,
 html[data-theme="dark"] .insert-button:focus-visible,
 html[data-theme="dark"] .load-more-row button:focus-visible,
 html[data-theme="dark"] .format-picker button:focus-visible,
+html[data-theme="dark"] .variation-picker button:focus-visible,
 html[data-theme="dark"] .detail-facts a:focus-visible {
   outline-color: #f3f4f1;
 }
@@ -1771,6 +1845,21 @@ html[data-theme="dark"] .detail-facts a:focus-visible {
 
   .format-picker button span {
     display: none;
+  }
+
+  .variation-picker {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 7px;
+  }
+
+  .variation-picker > div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+  }
+
+  .variation-picker button {
+    min-width: 0;
   }
 }
 

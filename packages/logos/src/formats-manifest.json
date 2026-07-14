@@ -116,6 +116,7 @@
     "remita-payment-service": "3b92b1f4a40b224a2b482eb6196224442213410cbdf5ef15fd00772532bc6a87",
     "renmoney-microfinance-bank": "a883ebaf82efd72d807d176ce4257033ae72a19dc2c21fbe5b06fa94f2cee70d",
     "sycamore-integrated-solutions": "09a25d8cf961d0917f511faad28ba9e7de2ee573c2ac4462e852cc3e20203dda",
+    "sycamore-integrated-solutions/symbol": "5ed849b582cdbd8aff077d5c4a3e1b77ad0e7feae4f5c92fc60c0a44050ddf76",
     "bamboo-system-technology": "12ad1605e1b5c7db7ed5fe0b3073ea7f76fd43ec57da57d0d60f0c25145ce53f",
     "ckk-insurance-brokers": "2073390e69d6d8d434e06701e76ea732a6c436c394cb4f0a689b1cd3dff57322",
     "cordros-insurance-brokers": "6a2e8859cbf87053b4009fb310ae5256cae6bd78cae3a4f0409ba581fac4d917",
@@ -125,6 +126,7 @@
     "stanbic-ibtc-bank": "90bf4b4c7010c3caec5854f42663129b191a1130a932d79f4083f32e7bcb8fc5",
     "stanbic-ibtc-holdings": "f8a2d02fadb7a43072aa132e8a61be7d4eedbfd2445b966e2d882961416f29df",
     "busha-digital": "e2f4d20dd96660917fff96d75773a3adbc54be4e16d397e6b609e7b3beb5c04c",
+    "busha-digital/light": "a537297872f8499ca86ff233c841b23408d597d173dff056388f2fcc001cc143",
     "quidax-technologies": "1fbd139d3fc6018cbddf2926ab1df7c953663812ca9bd5a9715f7c257e2cfcf4",
     "access-bank": "88f03b295546b6489be269060af50d955a40b8ee2177bff687992bcd10a3c77e",
     "axa-mansard-insurance": "e36886c36ecb468366cb9362c9f51ac85e24e71caf6f0c10abcbff4311e8ebbc",
@@ -213,6 +215,9 @@
     "cardinal-stone-pensions": "4b10b390e92d814389a855354565c9972798dfdd06a44bfc13ae98bfa80e6f95",
     "parthian-pensions": "204c811cec884753de0d1c7ac8ea13e46a2e39bb57692a15d9131d70116b3ebe",
     "hilal-takaful": "7e739a401211a2377feed68cc94bda8e069646cec3be69381797514c0f500269",
-    "xca-insurance-brokers": "8e97b0d81d6699ee53a843ec427a82f9e0977ddfb77b1e8c3a90ba05018df416"
+    "xca-insurance-brokers": "8e97b0d81d6699ee53a843ec427a82f9e0977ddfb77b1e8c3a90ba05018df416",
+    "pawapay": "e068cddbc069d56c56730849db834974e92480f9dbfe994dab8657240f80bdc5",
+    "grey": "ee78685a66d74c81ea917886941ff8838477b86f3ecc8d363dc6067765d6f6cf",
+    "onafriq": "2e49651b082e5ac7d99b3c726231e2e6d516b7bd49a7326c4c830a34238f4e88"
   }
 }

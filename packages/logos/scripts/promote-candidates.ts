@@ -12,7 +12,15 @@ const communityPromotions = JSON.parse(await readFile(join(packageRoot, "sourcin
 const financeAppPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/finance-app-promotions.json"), "utf8")) as Promotion[];
 const coveragePromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/institution-coverage-promotions.json"), "utf8")) as Promotion[];
 const naicomPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/naicom-directory-promotions.json"), "utf8")) as Promotion[];
-const promotions = [...officialPromotions, ...communityPromotions, ...financeAppPromotions, ...coveragePromotions, ...naicomPromotions];
+const fintechDiscoveryPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/fintech-discovery-promotions.json"), "utf8")) as Promotion[];
+const promotions = [
+  ...officialPromotions,
+  ...communityPromotions,
+  ...financeAppPromotions,
+  ...coveragePromotions,
+  ...naicomPromotions,
+  ...fintechDiscoveryPromotions
+];
 
 type Promotion = {
   institution_slug: string;
