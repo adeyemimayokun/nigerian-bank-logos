@@ -27,7 +27,9 @@ function fieldScore(value: string, query: string, base: number): number {
   const normalizedValue = normalize(value);
   if (!normalizedValue) return Number.POSITIVE_INFINITY;
   if (normalizedValue === query) return base;
-  if (normalizedValue.startsWith(query)) return base + 10 + lengthPenalty(normalizedValue, query);
+  if (normalizedValue.startsWith(query)) {
+    return base + 10 + lengthPenalty(normalizedValue.split(" ")[0], query);
+  }
 
   const words = normalizedValue.split(" ");
   const wordIndex = words.findIndex((word) => word.startsWith(query));

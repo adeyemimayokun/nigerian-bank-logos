@@ -4588,6 +4588,8 @@
     "slug": "union-bank-of",
     "category": "commercial-bank",
     "aliases": [
+      "Titan Trust Bank",
+      "Titan Trust Bank Limited",
       "Union Bank Nigeria",
       "Union Bank of Nigeria Plc"
     ],
@@ -4845,6 +4847,2096 @@
       {
         "type": "webp",
         "path": "assets/cordros-securities.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Africa Fintech Foundry",
+    "slug": "africa-fintech-foundry",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://africafintechfoundry.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/africa_fintech_foundry/africa_fintech_foundry.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/africa-fintech-foundry.svg",
+    "svg_path": "assets/africa-fintech-foundry.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/africa-fintech-foundry.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/africa-fintech-foundry.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/africa-fintech-foundry.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "ALAT by Wema",
+    "slug": "alat-by-wema",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.alat.ng/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/alat_by_wema/alat_by_wema.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/alat-by-wema.svg",
+    "svg_path": "assets/alat-by-wema.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/alat-by-wema.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/alat-by-wema.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/alat-by-wema.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Aso Savings",
+    "slug": "aso-savings-loans",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.asoplc.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/aso_savings_loans/aso_savings_loans.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/aso-savings-loans.svg",
+    "svg_path": "assets/aso-savings-loans.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/aso-savings-loans.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/aso-savings-loans.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/aso-savings-loans.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Barter",
+    "slug": "barter",
+    "category": "other",
+    "aliases": [],
+    "website": "https://barter.flutterwave.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/barter/barter.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/barter.svg",
+    "svg_path": "assets/barter.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/barter.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/barter.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/barter.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Brass",
+    "slug": "brass",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://trybrass.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/brass/brass.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/brass.svg",
+    "svg_path": "assets/brass.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/brass.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/brass.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/brass.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "BuyCoins",
+    "slug": "buycoins",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://buycoins.africa/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/buycoins/buycoins.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/buycoins.svg",
+    "svg_path": "assets/buycoins.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/buycoins.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/buycoins.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/buycoins.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "EK-PAY",
+    "slug": "ekondo-microfinance-bank",
+    "category": "fintech",
+    "aliases": [
+      "EK-PAY",
+      "EKONDO MICROFINANCE BANK LIMITED"
+    ],
+    "website": "https://www.ekondomfbank.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/ekondo_microfinance_bank/ekondo_microfinance_bank.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/ekondo-microfinance-bank.svg",
+    "svg_path": "assets/ekondo-microfinance-bank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/ekondo-microfinance-bank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/ekondo-microfinance-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/ekondo-microfinance-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Eyowo Integrated Payments",
+    "slug": "eyowo-integrated-payments",
+    "category": "other",
+    "aliases": [
+      "Eyowo Integrated Payments Limited"
+    ],
+    "website": "https://www.eyowo.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/eyowo/eyowo.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/eyowo-integrated-payments.svg",
+    "svg_path": "assets/eyowo-integrated-payments.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/eyowo-integrated-payments.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/eyowo-integrated-payments.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/eyowo-integrated-payments.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Fidia",
+    "slug": "fidia",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://getfidia.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/fidia/fidia.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/fidia.svg",
+    "svg_path": "assets/fidia.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fidia.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fidia.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fidia.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Fintellia Technologies",
+    "slug": "fintellia",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://www.fintellia.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/fintellia/fintellia.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/fintellia.svg",
+    "svg_path": "assets/fintellia.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fintellia.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fintellia.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fintellia.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Fliqpay",
+    "slug": "fliqpay",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://www.fliqpay.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/fliqpay/fliqpay.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/fliqpay.svg",
+    "svg_path": "assets/fliqpay.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fliqpay.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fliqpay.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fliqpay.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Fluidcoins",
+    "slug": "fluidcoins",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://fluidcoins.com",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/fluidcoins/fluidcoins.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/fluidcoins.svg",
+    "svg_path": "assets/fluidcoins.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fluidcoins.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fluidcoins.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fluidcoins.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Fundall",
+    "slug": "fundall",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.fundall.io/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/fundall/fundall.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/fundall.svg",
+    "svg_path": "assets/fundall.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fundall.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fundall.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fundall.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Indicina",
+    "slug": "indicina",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://indicina.co/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/indicina/indicina.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/indicina.svg",
+    "svg_path": "assets/indicina.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/indicina.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/indicina.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/indicina.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Investment One",
+    "slug": "investment-one",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.investment-one.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/investment_one/investment_one.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/investment-one.svg",
+    "svg_path": "assets/investment-one.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/investment-one.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/investment-one.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/investment-one.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Kora Payments",
+    "slug": "kora-payments",
+    "category": "other",
+    "aliases": [],
+    "website": "https://korahq.com",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/kora/kora.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/kora-payments.svg",
+    "svg_path": "assets/kora-payments.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/kora-payments.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/kora-payments.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/kora-payments.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Monnify",
+    "slug": "monnify",
+    "category": "other",
+    "aliases": [],
+    "website": "https://monnify.com",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/monnify/monnify.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/monnify.svg",
+    "svg_path": "assets/monnify.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/monnify.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/monnify.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/monnify.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Mono",
+    "slug": "mono",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://mono.co",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/mono/mono.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/mono.svg",
+    "svg_path": "assets/mono.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/mono.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/mono.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/mono.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Nestcoin",
+    "slug": "nestcoin",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://nestcoin.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/nestcoin/nestcoin.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/nestcoin.svg",
+    "svg_path": "assets/nestcoin.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/nestcoin.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/nestcoin.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/nestcoin.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Okra",
+    "slug": "okra",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://okra.ng/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/okra/okra.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/okra.svg",
+    "svg_path": "assets/okra.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/okra.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/okra.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/okra.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Optimus by Afrinvest",
+    "slug": "optimus-by-afrinvest",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.optimus.ng/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/optimus_by_afrinvest/optimus_by_afrinvest.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/optimus-by-afrinvest.svg",
+    "svg_path": "assets/optimus-by-afrinvest.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/optimus-by-afrinvest.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/optimus-by-afrinvest.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/optimus-by-afrinvest.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Orchestrate",
+    "slug": "orchestrate",
+    "category": "other",
+    "aliases": [],
+    "website": "https://orchestrate.finance/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/orchestrate/orchestrate.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/orchestrate.svg",
+    "svg_path": "assets/orchestrate.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/orchestrate.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/orchestrate.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/orchestrate.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Pandabase",
+    "slug": "pandabase",
+    "category": "other",
+    "aliases": [],
+    "website": "https://pandabase.africa",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/pandabase/pandabase.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/pandabase.svg",
+    "svg_path": "assets/pandabase.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/pandabase.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/pandabase.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/pandabase.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Pandascrow",
+    "slug": "pandascrow",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://pandascrow.io",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/pandascrow/pandascrow.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/pandascrow.svg",
+    "svg_path": "assets/pandascrow.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/pandascrow.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/pandascrow.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/pandascrow.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Patricia",
+    "slug": "patricia",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://patricia.com.ng/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/patricia/patricia.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/patricia.svg",
+    "svg_path": "assets/patricia.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/patricia.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/patricia.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/patricia.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Pettysave",
+    "slug": "pettysave",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.pettysave.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/pettysave/pettysave.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/pettysave.svg",
+    "svg_path": "assets/pettysave.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/pettysave.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/pettysave.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/pettysave.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "PoFela Nigeria",
+    "slug": "pofela",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://www.pofela.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/pofela/pofela.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/pofela.svg",
+    "svg_path": "assets/pofela.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/pofela.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/pofela.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/pofela.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Quickteller",
+    "slug": "quickteller",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.quickteller.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/quickteller/quickteller.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/quickteller.svg",
+    "svg_path": "assets/quickteller.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/quickteller.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/quickteller.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/quickteller.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Schoolable",
+    "slug": "schoolable",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://schoolable.co/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/schoolable/schoolable.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/schoolable.svg",
+    "svg_path": "assets/schoolable.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/schoolable.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/schoolable.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/schoolable.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "SeamPay",
+    "slug": "seampay",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://www.seampay.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/seampay/seampay.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/seampay.svg",
+    "svg_path": "assets/seampay.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/seampay.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/seampay.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/seampay.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "ThankUCash",
+    "slug": "thank-u-cash",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://thankucash.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/thank_u_cash/thank_u_cash.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/thank-u-cash.svg",
+    "svg_path": "assets/thank-u-cash.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/thank-u-cash.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/thank-u-cash.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/thank-u-cash.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Thepeer",
+    "slug": "thepeer",
+    "category": "other",
+    "aliases": [],
+    "website": "https://thepeer.co",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/thepeer/thepeer.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/thepeer.svg",
+    "svg_path": "assets/thepeer.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/thepeer.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/thepeer.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/thepeer.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "UCARD",
+    "slug": "ucard-store",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://ucard.store",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/ucard_store/ucard_store.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/ucard-store.svg",
+    "svg_path": "assets/ucard-store.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/ucard-store.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/ucard-store.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/ucard-store.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Ventures Platform",
+    "slug": "ventures-platform",
+    "category": "other",
+    "aliases": [],
+    "website": "https://venturesplatform.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/ventures_platform/ventures_platform.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/ventures-platform.svg",
+    "svg_path": "assets/ventures-platform.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/ventures-platform.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/ventures-platform.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/ventures-platform.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Verifi",
+    "slug": "verifi",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://www.verifi.ng/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/verifi/verifi.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/verifi.svg",
+    "svg_path": "assets/verifi.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/verifi.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/verifi.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/verifi.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Verve",
+    "slug": "verve",
+    "category": "other",
+    "aliases": [],
+    "website": "https://www.myverveworld.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/verve/verve.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/verve.svg",
+    "svg_path": "assets/verve.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/verve.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/verve.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/verve.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Wallets Africa",
+    "slug": "wallets-africa",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://wallets.africa/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/wallets_africa/wallets_africa.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/wallets-africa.svg",
+    "svg_path": "assets/wallets-africa.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/wallets-africa.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/wallets-africa.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/wallets-africa.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Yellowcard",
+    "slug": "yellowcard",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://yellowcard.io/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/yellowcard/yellowcard.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/yellowcard.svg",
+    "svg_path": "assets/yellowcard.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/yellowcard.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/yellowcard.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/yellowcard.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Zap by Paystack",
+    "slug": "zap",
+    "category": "other",
+    "aliases": [],
+    "website": "https://joinzap.com/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/zap/zap.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/zap.svg",
+    "svg_path": "assets/zap.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/zap.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/zap.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/zap.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "Zazuu",
+    "slug": "zazuu",
+    "category": "other",
+    "aliases": [],
+    "website": "https://zazuu.co/",
+    "source_url": "https://raw.githubusercontent.com/PaystackHQ/nigerialogos/master/public/logos/zazuu/zazuu.svg",
+    "source_type": "community-catalog",
+    "source_path": "sources/zazuu.svg",
+    "svg_path": "assets/zazuu.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/zazuu.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/zazuu.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/zazuu.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "needs-review"
+  },
+  {
+    "name": "PocketApp",
+    "slug": "abeg-technologies",
+    "category": "fintech",
+    "aliases": [
+      "Abeg",
+      "Abeg Technologies",
+      "Abeg Technologies Limited",
+      "Pocket",
+      "Pocket by PiggyVest"
+    ],
+    "website": "https://pocketapp.com/",
+    "source_url": "https://pocketapp.com/",
+    "source_type": "official-website",
+    "source_path": "sources/abeg-technologies.svg",
+    "svg_path": "assets/abeg-technologies.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/abeg-technologies.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/abeg-technologies.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/abeg-technologies.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "InvestNaija",
+    "slug": "investnaija",
+    "category": "other",
+    "aliases": [
+      "Invest Naija",
+      "InvestNaija by Chapel Hill Denham"
+    ],
+    "website": "https://investnaija.com/",
+    "source_url": "https://investnaija.com/assets/logowhite-D39P74iH.svg",
+    "source_type": "official-website",
+    "source_path": "sources/investnaija.svg",
+    "svg_path": "assets/investnaija.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/investnaija.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/investnaija.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/investnaija.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "i-invest",
+    "slug": "i-invest",
+    "category": "other",
+    "aliases": [
+      "I-Invest",
+      "i-invest by Parthian Partners"
+    ],
+    "website": "https://www.i-investng.com/",
+    "source_url": "https://www.i-investng.com/brand/i-invest-logo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/i-invest.svg",
+    "svg_path": "assets/i-invest.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/i-invest.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/i-invest.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/i-invest.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "GetEquity",
+    "slug": "getequity",
+    "category": "other",
+    "aliases": [
+      "Get Equity"
+    ],
+    "website": "https://www.getequity.io/",
+    "source_url": "https://www.getequity.io/_nuxt/img/logo-dark.1fe2717.svg",
+    "source_type": "official-website",
+    "source_path": "sources/getequity.svg",
+    "svg_path": "assets/getequity.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/getequity.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/getequity.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/getequity.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Wahed",
+    "slug": "wahed",
+    "category": "other",
+    "aliases": [
+      "Wahed Invest",
+      "Wahed Ltd"
+    ],
+    "website": "https://www.wahed.com/nga/",
+    "source_url": "https://cdn.prod.website-files.com/6258aa32b493a205485f0800/62dfaab6938b2d03f0f43316_wahed-color-logo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/wahed.svg",
+    "svg_path": "assets/wahed.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/wahed.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/wahed.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/wahed.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Hisa",
+    "slug": "chaka-technologies",
+    "category": "other",
+    "aliases": [
+      "Chaka",
+      "Chaka Technologies",
+      "Chaka Technologies Ltd",
+      "HISA"
+    ],
+    "website": "https://hisa.co/",
+    "source_url": "https://hisa.co/",
+    "source_type": "official-website",
+    "source_path": "sources/chaka-technologies.svg",
+    "svg_path": "assets/chaka-technologies.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/chaka-technologies.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/chaka-technologies.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/chaka-technologies.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "AB Microfinance Bank",
+    "slug": "ab-microfinance-bank-nigeria",
+    "category": "microfinance-bank",
+    "aliases": [
+      "AB Microfinance Bank Nigeria Limited"
+    ],
+    "website": "https://ab-mfbnigeria.com/",
+    "source_url": "https://ab-mfbnigeria.com/assets/img/logo/ablogo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/ab-microfinance-bank-nigeria.svg",
+    "svg_path": "assets/ab-microfinance-bank-nigeria.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/ab-microfinance-bank-nigeria.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/ab-microfinance-bank-nigeria.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/ab-microfinance-bank-nigeria.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Citizens Pensions",
+    "slug": "citizens-pensions",
+    "category": "other",
+    "aliases": [
+      "Citizens Pensions Limited"
+    ],
+    "website": "https://citizenspensions.com/",
+    "source_url": "https://citizenspensions.com/wp-content/uploads/2025/03/CITIZENS-PENSIONS.png",
+    "source_type": "official-website",
+    "source_path": "sources/citizens-pensions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/citizens-pensions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/citizens-pensions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "NPF Pension Managers",
+    "slug": "npf-pension-managers",
+    "category": "other",
+    "aliases": [
+      "NPF Pension Managers Limited"
+    ],
+    "website": "https://npfpensions.com.ng/",
+    "source_url": "https://npfpensions.com.ng/images/logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/npf-pension-managers.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/npf-pension-managers.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/npf-pension-managers.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "FCMB Pensions",
+    "slug": "fcmb-pensions",
+    "category": "other",
+    "aliases": [
+      "FCMB Pensions Limited"
+    ],
+    "website": "https://fcmbpensions.com/",
+    "source_url": "https://fcmbpensions.com/img/FCMBPensions-New-Logo-i.png",
+    "source_type": "official-website",
+    "source_path": "sources/fcmb-pensions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/fcmb-pensions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fcmb-pensions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Premium Pension",
+    "slug": "premium-pension",
+    "category": "other",
+    "aliases": [
+      "Premium Pension Limited"
+    ],
+    "website": "https://premiumpension.com/",
+    "source_url": "https://premiumpension.com/favicon.png",
+    "source_type": "official-website",
+    "source_path": "sources/premium-pension.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/premium-pension.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/premium-pension.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Guaranty Trust Pension Managers",
+    "slug": "guaranty-trust-pension-managers",
+    "category": "other",
+    "aliases": [
+      "Guaranty Trust Pension Managers Limited"
+    ],
+    "website": "https://www.gtpensionmanagers.com/",
+    "source_url": "https://www.gtpensionmanagers.com/wp-content/uploads/2025/05/Pension-Managers-logo-new.png",
+    "source_type": "official-website",
+    "source_path": "sources/guaranty-trust-pension-managers.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/guaranty-trust-pension-managers.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/guaranty-trust-pension-managers.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Veritas Glanvills Pensions",
+    "slug": "veritas-glanvills-pensions",
+    "category": "other",
+    "aliases": [
+      "Veritas Glanvills Pensions Limited"
+    ],
+    "website": "https://vgpensions.com/",
+    "source_url": "https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-PNG-300x137-1.png",
+    "source_type": "official-website",
+    "source_path": "sources/veritas-glanvills-pensions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/veritas-glanvills-pensions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/veritas-glanvills-pensions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Cardinal Stone Pensions",
+    "slug": "cardinal-stone-pensions",
+    "category": "other",
+    "aliases": [
+      "Cardinal Stone Pensions Limited"
+    ],
+    "website": "https://cardinalstonepensions.com/",
+    "source_url": "https://cardinalstonepensions.com/wp-content/uploads/2024/11/cardinalstone-Pensions-2Artboard-4.png",
+    "source_type": "official-website",
+    "source_path": "sources/cardinal-stone-pensions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/cardinal-stone-pensions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/cardinal-stone-pensions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Parthian Pensions",
+    "slug": "parthian-pensions",
+    "category": "other",
+    "aliases": [
+      "Parthian Pensions Limited"
+    ],
+    "website": "https://parthianpensions.com/",
+    "source_url": "https://parthianpensions.com/wp-content/uploads/2025/06/Logo1-PP.png",
+    "source_type": "official-website",
+    "source_path": "sources/parthian-pensions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/parthian-pensions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/parthian-pensions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Hilal Takaful",
+    "slug": "hilal-takaful",
+    "category": "other",
+    "aliases": [
+      "CORT",
+      "Hilal Takaful Nigeria Limited"
+    ],
+    "website": "https://hilaltakaful.com.ng/",
+    "source_url": "https://hilaltakaful.com.ng/web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd?unique=31eac42",
+    "source_type": "official-website",
+    "source_path": "sources/hilal-takaful.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/hilal-takaful.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/hilal-takaful.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "XCA Insurance Brokers",
+    "slug": "xca-insurance-brokers",
+    "category": "other",
+    "aliases": [
+      "RBC-1222",
+      "XCA Insurance Brokers Limited"
+    ],
+    "website": "https://xcelloncapital.com/",
+    "source_url": "https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/xca-insurance-brokers.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/xca-insurance-brokers.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/xca-insurance-brokers.webp",
         "mime_type": "image/webp",
         "width": null,
         "height": null

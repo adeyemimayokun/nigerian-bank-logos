@@ -14,8 +14,8 @@ describe("catalog search ranking", () => {
   it("orders direct public-name matches before secondary metadata matches", () => {
     expect(resultsFor("rem").slice(0, 3)).toEqual([
       "Remita Payment Service",
-      "PremiumTrust Bank",
-      "Paga"
+      "REMEDIUM INSURANCE BROKER",
+      "NOVAC REMIT"
     ]);
   });
 

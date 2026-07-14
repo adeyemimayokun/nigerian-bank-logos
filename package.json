@@ -13,6 +13,7 @@
     "typecheck": "tsc -b",
     "validate": "tsx packages/validator/src/validate.ts && pnpm institutions:validate",
     "institutions:generate": "tsx packages/institutions/scripts/generate.ts",
+    "institutions:import:fintech-list": "tsx packages/institutions/scripts/import-fintech-list.ts",
     "institutions:refresh": "tsx packages/institutions/scripts/refresh.ts",
     "institutions:validate": "tsx packages/institutions/scripts/validate.ts",
     "institutions:check": "tsx packages/institutions/scripts/generate.ts --check",
@@ -20,7 +21,12 @@
     "logos:check-formats": "tsx packages/logos/scripts/generate-formats.ts --check",
     "logos:source": "tsx packages/logos/scripts/source-logos.ts",
     "logos:source:nigeria-logos": "tsx packages/logos/scripts/source-nigeria-logos.ts",
-    "logos:promote": "tsx packages/logos/scripts/promote-candidates.ts && pnpm logos:formats"
+    "logos:import:nigerialogos": "tsx packages/logos/scripts/import-nigerialogos.ts",
+    "logos:import:finance-apps": "tsx packages/logos/scripts/import-finance-apps.ts",
+    "logos:import:coverage": "tsx packages/logos/scripts/import-institution-coverage.ts",
+    "logos:import:naicom": "tsx packages/logos/scripts/import-naicom-directory-logos.ts",
+    "logos:sync-links": "tsx packages/logos/scripts/sync-institution-logo-links.ts",
+    "logos:promote": "tsx packages/logos/scripts/promote-candidates.ts && pnpm logos:sync-links && pnpm institutions:generate && pnpm logos:formats"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.101.0",

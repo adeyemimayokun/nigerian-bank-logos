@@ -6,6 +6,7 @@ import {
   institutionCategories,
   institutions
 } from "./index";
+import logoCoverage from "../exports/logo-coverage-report.json";
 
 describe("institution catalog", () => {
   it("contains a substantial regulator-backed snapshot", () => {
@@ -33,5 +34,20 @@ describe("institution catalog", () => {
   it("is deterministically sorted", () => {
     const names = institutions.map((entry) => entry.brand_name);
     expect(names).toEqual([...names].sort((a, b) => a.localeCompare(b)));
+  });
+
+  it("uses PocketApp as the current Abeg Technologies brand", () => {
+    const pocket = institutions.find((entry) => entry.slug === "abeg-technologies");
+
+    expect(pocket?.brand_name).toBe("PocketApp");
+    expect(pocket?.aliases).toEqual(expect.arrayContaining(["Abeg", "Pocket by PiggyVest"]));
+    expect(pocket?.logo_slug).toBe("abeg-technologies");
+  });
+
+  it("tracks logo coverage for every Nigerian institution", () => {
+    expect(logoCoverage.total_institutions).toBe(institutions.length);
+    expect(logoCoverage.linked_to_logo).toBe(168);
+    expect(logoCoverage.unresolved_with_website).toBe(0);
+    expect(logoCoverage.linked_to_logo + logoCoverage.unresolved).toBe(logoCoverage.total_institutions);
   });
 });

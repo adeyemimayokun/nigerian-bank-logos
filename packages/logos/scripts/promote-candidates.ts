@@ -3,19 +3,27 @@ import { copyFile, mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, extname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { InstitutionCategory } from "../../institutions/src";
-import { institutions } from "../../institutions/src";
-import type { LogoCategory, LogoEntry, LogoFormat, SourceType } from "../src/schema";
+import { communityCandidates, institutions } from "../../institutions/src";
+import type { LogoCategory, LogoEntry, LogoFormat, LogoStatus, SourceType } from "../src/schema";
 
 const packageRoot = join(dirname(fileURLToPath(import.meta.url)), "..");
-const promotions = JSON.parse(await readFile(join(packageRoot, "sourcing/promotions.json"), "utf8")) as Array<{
+const officialPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/promotions.json"), "utf8")) as Promotion[];
+const communityPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/nigerialogos-promotions.json"), "utf8")) as Promotion[];
+const financeAppPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/finance-app-promotions.json"), "utf8")) as Promotion[];
+const coveragePromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/institution-coverage-promotions.json"), "utf8")) as Promotion[];
+const naicomPromotions = JSON.parse(await readFile(join(packageRoot, "sourcing/naicom-directory-promotions.json"), "utf8")) as Promotion[];
+const promotions = [...officialPromotions, ...communityPromotions, ...financeAppPromotions, ...coveragePromotions, ...naicomPromotions];
+
+type Promotion = {
   institution_slug: string;
   candidate_path: string;
   source_url?: string;
   source_type?: SourceType;
+  status?: LogoStatus;
   website?: string;
   added_at?: string;
   updated_at?: string;
-}>;
+};
 const queue = JSON.parse(await readFile(join(packageRoot, "sourcing/queue.json"), "utf8")) as {
   entries: Array<{
     institution_slug: string;
@@ -31,7 +39,7 @@ await mkdir(sourcesRoot, { recursive: true });
 
 const catalog: LogoEntry[] = [];
 for (const promotion of promotions) {
-  const institution = institutions.find((entry) => entry.slug === promotion.institution_slug);
+  const institution = [...institutions, ...communityCandidates].find((entry) => entry.slug === promotion.institution_slug);
   const queued = queue.entries.find((entry) => entry.institution_slug === promotion.institution_slug);
   const candidate = queued?.candidate_assets.find((asset) => asset.local_path === promotion.candidate_path);
   const previous = previousCatalog.find((entry) => entry.slug === promotion.institution_slug);
@@ -83,12 +91,12 @@ for (const promotion of promotions) {
     formats,
     added_at: promotion.added_at ?? previous?.added_at ?? "2026-07-13",
     updated_at: promotion.updated_at ?? previous?.updated_at ?? "2026-07-13",
-    status: "verified"
+    status: promotion.status ?? previous?.status ?? "verified"
   });
 }
 
 await writeFile(join(packageRoot, "src/promoted-catalog.json"), JSON.stringify(catalog, null, 2) + "\n");
-console.log(`Promoted ${catalog.length} reviewed official logo sources.`);
+console.log(`Promoted ${catalog.length} catalog logo sources.`);
 
 function normalizeExtension(extension: string): "svg" | "png" | "webp" | "jpg" {
   const value = extension.toLowerCase().replace(/^\./, "");

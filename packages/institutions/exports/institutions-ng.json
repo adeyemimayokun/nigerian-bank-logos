@@ -165,7 +165,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "9-payment-service-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -400,7 +400,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "ab-microfinance-bank-nigeria",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -464,39 +464,6 @@
     "sources": [
       {
         "url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
-        "source_type": "regulator",
-        "retrieved_at": "2026-07-13"
-      }
-    ],
-    "logo_slug": null,
-    "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
-  },
-  {
-    "slug": "abeg-technologies",
-    "legal_name": "Abeg Technologies Limited",
-    "brand_name": "Abeg Technologies",
-    "aliases": [
-      "Abeg Technologies Limited"
-    ],
-    "primary_category": "mobile-money-operator",
-    "categories": [
-      "mobile-money-operator"
-    ],
-    "country_code": "NG",
-    "nigeria_presence": "nigerian-company",
-    "regulators": [
-      "CBN"
-    ],
-    "licence_types": [
-      "Mobile money operator"
-    ],
-    "regulatory_status": "active",
-    "verification_status": "officially-verified",
-    "website": null,
-    "sources": [
-      {
-        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
         "source_type": "regulator",
         "retrieved_at": "2026-07-13"
       }
@@ -770,7 +737,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "access-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -910,7 +877,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "accion-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -1387,7 +1354,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "aella-financial-solutions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -1555,7 +1522,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "african-alliance-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -2474,7 +2441,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "alliance-and-general-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -4038,7 +4005,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "axa-mansard-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -4339,7 +4306,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "bamboo-system-technology",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -4372,7 +4339,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "bank-of-agriculture",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -4405,7 +4372,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "bank-of-industry",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -5741,7 +5708,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "boff-and-co-insurance-brokers-l-t-d",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -5944,7 +5911,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "branch-international-financial",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -6547,7 +6514,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "busha-digital",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -7026,7 +6993,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "capital-express-indemnity-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -7204,7 +7171,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "carbon-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -7237,7 +7204,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "cardinal-stone-pensions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -8357,39 +8324,6 @@
     "updated_at": "2026-07-13"
   },
   {
-    "slug": "chaka-technologies",
-    "legal_name": "Chaka Technologies Ltd",
-    "brand_name": "Chaka Technologies",
-    "aliases": [
-      "Chaka Technologies Ltd"
-    ],
-    "primary_category": "digital-broker",
-    "categories": [
-      "digital-broker"
-    ],
-    "country_code": "NG",
-    "nigeria_presence": "nigerian-company",
-    "regulators": [
-      "SEC Nigeria"
-    ],
-    "licence_types": [
-      "Digital Sub-Broker"
-    ],
-    "regulatory_status": "active",
-    "verification_status": "officially-verified",
-    "website": null,
-    "sources": [
-      {
-        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
-        "source_type": "regulator",
-        "retrieved_at": "2026-07-13"
-      }
-    ],
-    "logo_slug": null,
-    "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
-  },
-  {
     "slug": "chams-mobile",
     "legal_name": "Chams Mobile",
     "brand_name": "Chams Mobile",
@@ -8896,7 +8830,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "citibank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -8964,7 +8898,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "citizens-pensions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9065,7 +8999,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "ckk-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9571,7 +9505,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "confiance-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9672,7 +9606,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "consolidated-hallmark-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9847,7 +9781,7 @@
         "retrieved_at": "2026-07-14"
       }
     ],
-    "logo_slug": "cordros-securities",
+    "logo_slug": "cordros-insurance-brokers",
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14"
   },
@@ -9881,7 +9815,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "cordros-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9914,7 +9848,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "cordros-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -9983,7 +9917,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "cornerstone-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -10083,7 +10017,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "coronation-merchant-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -10253,7 +10187,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "cowrywise-financial-technology",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -10740,7 +10674,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "creditstar-microinsurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -10910,7 +10844,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "crednet-technologies",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -11214,7 +11148,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "crown-takaful-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -11517,7 +11451,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "custodian-and-allied-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -11551,7 +11485,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "custodian-and-allied-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -11959,7 +11893,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "development-bank-of",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -12650,7 +12584,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "dunbell-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -13572,7 +13506,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "ecobank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -13919,7 +13853,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "ekondo-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -14191,7 +14125,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "emple-general-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -14225,7 +14159,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "emple-general-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -14910,7 +14844,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "eyowo-integrated-payments",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15055,7 +14989,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fairmoney-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15495,7 +15429,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fcmb-group",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15528,7 +15462,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fcmb-pensions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15593,7 +15527,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "federal-mortgage-bank-of-nigeria",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15794,7 +15728,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fidelity-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -15961,7 +15895,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fin-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -16035,7 +15969,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fincra-technologies",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -16376,7 +16310,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "first-adequate-benefit-insurance-brokers-l-t-d",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -16409,7 +16343,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "first-bank-of",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -16475,7 +16409,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "first-city-monument-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -17325,7 +17259,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "flutterwave",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -17358,7 +17292,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "flutterwave",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -17761,7 +17695,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fsdh-holding-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -17794,7 +17728,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "fsdh-merchant-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -18615,6 +18549,42 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "getequity",
+    "legal_name": "GetEquity Limited",
+    "brand_name": "GetEquity",
+    "aliases": [
+      "Get Equity"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "crowdfunding-platform",
+      "fintech"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "unverified",
+    "verification_status": "market-verified",
+    "website": "https://www.getequity.io/",
+    "sources": [
+      {
+        "url": "https://www.getequity.io/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.getequity.io/terms/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "getequity",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "brickbridge-company",
     "legal_name": "BRICKBRIDGE COMPANY LTD",
     "brand_name": "GETKASH",
@@ -19116,7 +19086,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "globus-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -19561,7 +19531,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "goxi-microinsurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -19797,7 +19767,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "great-nigeria-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -19865,7 +19835,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "green-leaf-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -19966,7 +19936,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "greenwich-merchant-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -20200,7 +20170,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "guaranty-trust-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -20233,7 +20203,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "guaranty-trust-holding-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -20266,7 +20236,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "guaranty-trust-pension-managers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -20300,7 +20270,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "guinea-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -20982,7 +20952,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "heirs-general-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -21050,7 +21020,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "heirs-general-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -21286,7 +21256,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "hervest-for-women",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -21461,7 +21431,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "hilal-takaful",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -21531,6 +21501,53 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chaka-technologies",
+    "legal_name": "Chaka Technologies Ltd",
+    "brand_name": "Hisa",
+    "aliases": [
+      "Chaka",
+      "Chaka Technologies",
+      "Chaka Technologies Ltd",
+      "HISA"
+    ],
+    "primary_category": "digital-broker",
+    "categories": [
+      "digital-broker",
+      "finance-app"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Digital Sub-Broker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://hisa.co/",
+    "sources": [
+      {
+        "url": "https://hisa.co/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://home.sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-13"
+      }
+    ],
+    "logo_slug": "chaka-technologies",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "corestone-technology",
@@ -21834,7 +21851,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "hope-payment-service-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -22077,6 +22094,47 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "i-invest",
+    "legal_name": "Parthian Partners Limited",
+    "brand_name": "i-invest",
+    "aliases": [
+      "I-Invest",
+      "i-invest by Parthian Partners"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "digital-broker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Inter Dealer Broker",
+      "Issuing House"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://www.i-investng.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/?page=34",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.i-investng.com/about-us",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "i-invest",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "ibrahim-and-salisu-insurance-brokers-l-t-d",
@@ -22477,7 +22535,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "industrial-and-general-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -23027,7 +23085,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "interswitch",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -23060,7 +23118,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "interswitch",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -23093,9 +23151,40 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "interswitch",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "investnaija",
+    "legal_name": "InvestIN Limited",
+    "brand_name": "InvestNaija",
+    "aliases": [
+      "Invest Naija",
+      "InvestNaija by Chapel Hill Denham"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://investnaija.com/",
+    "sources": [
+      {
+        "url": "https://investnaija.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "investnaija",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "investnow",
@@ -23605,7 +23694,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "jaiz-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -23638,7 +23727,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "jaiz-takaful",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -24743,7 +24832,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "keystone-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -24811,7 +24900,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "kiakia-bits",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -24846,7 +24935,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "kiakia-bits",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -25493,7 +25582,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "kora-payments",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -25625,7 +25714,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "kuda-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -26035,7 +26124,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "lapo-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -26069,7 +26158,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "lasaco-assurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -26238,7 +26327,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "lead-fort-insurance-brokers-l-t-d",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -26407,7 +26496,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "leadway-assurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -28306,7 +28395,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "lotus-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -30138,7 +30227,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "mint-finex-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -30338,7 +30427,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "momo-payment-service-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -31257,7 +31346,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "mutual-aid-microsinsurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -31325,7 +31414,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "mutual-benefit-assurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -31359,7 +31448,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "mutual-benefit-assurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -31761,7 +31850,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "national-insurance-commission",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -32657,7 +32746,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "nem-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -33261,7 +33350,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "nigeria-mortgage-refinance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -33837,7 +33926,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "noor-takaful",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -33970,7 +34059,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "nova-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -34173,7 +34262,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "npf-pension-managers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -34207,7 +34296,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "nsia-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -35301,7 +35390,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "onepipe-io-services",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -35602,7 +35691,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "optimus-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -36286,7 +36375,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "pagatech",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -36319,7 +36408,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "pagatech",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -36464,7 +36553,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "palmpay",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -36564,7 +36653,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "parallex-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -36664,7 +36753,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "parthian-pensions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -37514,7 +37603,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "paystack-payment",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -38729,6 +38818,50 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "abeg-technologies",
+    "legal_name": "Abeg Technologies Limited",
+    "brand_name": "PocketApp",
+    "aliases": [
+      "Abeg",
+      "Abeg Technologies",
+      "Abeg Technologies Limited",
+      "Pocket",
+      "Pocket by PiggyVest"
+    ],
+    "primary_category": "mobile-money-operator",
+    "categories": [
+      "finance-app",
+      "fintech",
+      "mobile-money-operator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "CBN"
+    ],
+    "licence_types": [
+      "Mobile money operator"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://pocketapp.com/",
+    "sources": [
+      {
+        "url": "https://pocketapp.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "abeg-technologies",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "pocketfuel-finance",
     "legal_name": "POCKETFUEL FINANCE LIMITED",
     "brand_name": "POCKETFUEL",
@@ -38864,7 +38997,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "polaris-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -39104,7 +39237,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "premium-pension",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -39171,7 +39304,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "premiumtrust-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -39205,7 +39338,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "prestige-assurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -39888,7 +40021,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "providus-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -40025,7 +40158,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "prudential-zenith-life-assurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -40544,7 +40677,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "quidax-technologies",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -40745,7 +40878,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "rand-merchant-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -42832,7 +42965,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "regency-alliance-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -43033,7 +43166,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "remita-payment-service",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -43067,7 +43200,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "renmoney-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -43101,7 +43234,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "renmoney-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -43373,7 +43506,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "rex-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -44527,7 +44660,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "royal-exchange-prudential-life",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -45234,7 +45367,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "salam-takaful",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -46664,7 +46797,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "smartcash-payment-service-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -47173,7 +47306,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sovereign-trust-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -47202,7 +47335,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sparkle-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -47644,7 +47777,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "stanbic-ibtc-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -47677,7 +47810,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "stanbic-ibtc-holdings",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -47811,7 +47944,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "standard-chartered-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -48184,7 +48317,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sterling-assurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -48227,7 +48360,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sterling-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -48260,7 +48393,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sterling-financial-holdings-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -48634,7 +48767,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "suntrust-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -48668,7 +48801,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sunu-assurances",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -49149,7 +49282,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "sycamore-integrated-solutions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -49284,7 +49417,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "tajbank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -49384,7 +49517,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "tangerine-general-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -49417,7 +49550,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "tangerine-general-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -49957,7 +50090,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "the-alternative-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -52621,7 +52754,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "united-bank-for-africa",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -52689,7 +52822,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "unitrust-insurance-company",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -52722,7 +52855,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "unity-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -52789,7 +52922,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "universal-insurance",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -53328,7 +53461,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "vfd-microfinance-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -53593,7 +53726,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "veritas-glanvills-pensions",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -54302,13 +54435,16 @@
   },
   {
     "slug": "wahed",
-    "legal_name": "Wahed Ltd",
+    "legal_name": "Wahed Limited",
     "brand_name": "Wahed",
     "aliases": [
+      "Wahed Invest",
       "Wahed Ltd"
     ],
     "primary_category": "robo-adviser",
     "categories": [
+      "finance-app",
+      "investment-manager",
       "robo-adviser"
     ],
     "country_code": "NG",
@@ -54317,21 +54453,32 @@
       "SEC Nigeria"
     ],
     "licence_types": [
+      "Corporate Investment Adviser",
       "Robo Adviser"
     ],
     "regulatory_status": "active",
     "verification_status": "officially-verified",
-    "website": null,
+    "website": "https://www.wahed.com/nga/",
     "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/?page=47",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
       {
         "url": "https://sec.gov.ng/fintech-and-innovation-hub-finport/registered-fintech-operators/",
         "source_type": "regulator",
         "retrieved_at": "2026-07-13"
+      },
+      {
+        "url": "https://www.wahed.com/nga/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
       }
     ],
-    "logo_slug": null,
-    "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
+    "logo_slug": "wahed",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "waltham-insurance-brokers",
@@ -54636,7 +54783,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "wema-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -56103,7 +56250,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "xca-insurance-brokers",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },
@@ -56954,7 +57101,7 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "zenith-bank",
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
   },

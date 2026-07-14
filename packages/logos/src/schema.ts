@@ -14,7 +14,8 @@ export const sourceTypes = [
   "official-website",
   "annual-report",
   "verified-pdf",
-  "other-official"
+  "other-official",
+  "community-catalog"
 ] as const;
 
 export const logoStatuses = ["verified", "needs-review", "deprecated"] as const;

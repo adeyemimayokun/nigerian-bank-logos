@@ -7,6 +7,12 @@ labels: logo-request
 
 ## Institution
 
+## Category
+
 ## Official Source URL
 
 ## Notes
+
+## Notification consent
+
+- [ ] Notify me through this GitHub issue when the logo is added.

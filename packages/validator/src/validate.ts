@@ -63,7 +63,7 @@ export function validateCatalog(): ValidationIssue[] {
 
     const sourcePath = join(assetsRoot, entry.source_path);
     if (!existsSync(sourcePath)) {
-      issues.push({ slug: entry.slug, message: `Missing official source asset: ${entry.source_path}` });
+      issues.push({ slug: entry.slug, message: `Missing source asset: ${entry.source_path}` });
     }
 
     if (!entry.svg_path) continue;

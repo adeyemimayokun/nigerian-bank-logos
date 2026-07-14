@@ -1,0 +1,472 @@
+{
+  "source": "https://github.com/PaystackHQ/nigerialogos",
+  "retrieved_at": "2026-07-14",
+  "total_entries": 202,
+  "financial_entries": 83,
+  "existing_canonical": 38,
+  "imported_needs_review": 40,
+  "excluded_inactive_or_superseded": 4,
+  "source_assets_missing": 1,
+  "entries": [
+    {
+      "title": "Abeg",
+      "filename": "abeg",
+      "action": "excluded",
+      "reason": "superseded by PocketApp; retained as a searchable alias"
+    },
+    {
+      "title": "Access Bank PLC",
+      "filename": "access_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Aella Credit",
+      "filename": "aella_credit",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Africa Fintech Foundry",
+      "filename": "africa_fintech_foundry",
+      "action": "imported-needs-review",
+      "slug": "africa-fintech-foundry"
+    },
+    {
+      "title": "Afrinvest",
+      "filename": "afrinvest",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "ALAT by Wema",
+      "filename": "alat_by_wema",
+      "action": "imported-needs-review",
+      "slug": "alat-by-wema"
+    },
+    {
+      "title": "Aso Savings",
+      "filename": "aso_savings_loans",
+      "action": "imported-needs-review",
+      "slug": "aso-savings-loans"
+    },
+    {
+      "title": "AXA Mansard",
+      "filename": "axa_mansard",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Barter",
+      "filename": "barter",
+      "action": "imported-needs-review",
+      "slug": "barter"
+    },
+    {
+      "title": "Branch",
+      "filename": "branch",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Brass",
+      "filename": "brass",
+      "action": "imported-needs-review",
+      "slug": "brass"
+    },
+    {
+      "title": "Busha",
+      "filename": "busha",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "BuyCoins",
+      "filename": "buycoins",
+      "action": "imported-needs-review",
+      "slug": "buycoins"
+    },
+    {
+      "title": "Carbon",
+      "filename": "carbon",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Cowrywise",
+      "filename": "cowrywise",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "CredPal",
+      "filename": "credpal",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Ecobank",
+      "filename": "ecobank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Ekondo Microfinance Bank",
+      "filename": "ekondo_microfinance_bank",
+      "action": "imported-needs-review",
+      "slug": "ekondo-microfinance-bank"
+    },
+    {
+      "title": "Eyowo",
+      "filename": "eyowo",
+      "action": "imported-needs-review",
+      "slug": "eyowo-integrated-payments"
+    },
+    {
+      "title": "Fidelity Bank Nigeria",
+      "filename": "fidelity_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Fidia",
+      "filename": "fidia",
+      "action": "imported-needs-review",
+      "slug": "fidia"
+    },
+    {
+      "title": "Fincra",
+      "filename": "fincra",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Fintellia Technologies",
+      "filename": "fintellia",
+      "action": "imported-needs-review",
+      "slug": "fintellia"
+    },
+    {
+      "title": "First Bank Nigeria",
+      "filename": "first_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "First City Monument Bank Ltd",
+      "filename": "fcmb",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "First Securities Discount House Limited",
+      "filename": "fsdh",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Fliqpay",
+      "filename": "fliqpay",
+      "action": "imported-needs-review",
+      "slug": "fliqpay"
+    },
+    {
+      "title": "Fluidcoins",
+      "filename": "fluidcoins",
+      "action": "imported-needs-review",
+      "slug": "fluidcoins"
+    },
+    {
+      "title": "Flutterwave",
+      "filename": "flutterwave",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Fundall",
+      "filename": "fundall",
+      "action": "imported-needs-review",
+      "slug": "fundall"
+    },
+    {
+      "title": "Globus Bank",
+      "filename": "globus_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Guaranty Trust Bank",
+      "filename": "guaranty_trust_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Heritage Bank PLC",
+      "filename": "heritage_bank",
+      "action": "excluded",
+      "reason": "revoked institution already recorded in the inactive ledger"
+    },
+    {
+      "title": "HerVest",
+      "filename": "hervest",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Indicina",
+      "filename": "indicina",
+      "action": "imported-needs-review",
+      "slug": "indicina"
+    },
+    {
+      "title": "Interswitch",
+      "filename": "interswitch",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Investment One",
+      "filename": "investment_one",
+      "action": "imported-needs-review",
+      "slug": "investment-one"
+    },
+    {
+      "title": "Keystone Bank Limited",
+      "filename": "keystone_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Kora",
+      "filename": "kora",
+      "action": "imported-needs-review",
+      "slug": "kora-payments"
+    },
+    {
+      "title": "Kuda Bank",
+      "filename": "kuda_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Mainstreet Bank",
+      "filename": "mainstreet_bank",
+      "action": "excluded",
+      "reason": "superseded bank brand"
+    },
+    {
+      "title": "Moniepoint",
+      "filename": "moniepoint",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Monnify",
+      "filename": "monnify",
+      "action": "imported-needs-review",
+      "slug": "monnify"
+    },
+    {
+      "title": "Mono",
+      "filename": "mono",
+      "action": "imported-needs-review",
+      "slug": "mono"
+    },
+    {
+      "title": "Nestcoin",
+      "filename": "nestcoin",
+      "action": "imported-needs-review",
+      "slug": "nestcoin"
+    },
+    {
+      "title": "Okra",
+      "filename": "okra",
+      "action": "imported-needs-review",
+      "slug": "okra"
+    },
+    {
+      "title": "OnePipe",
+      "filename": "onepipe",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Optimus by Afrinvest",
+      "filename": "optimus_by_afrinvest",
+      "action": "imported-needs-review",
+      "slug": "optimus-by-afrinvest"
+    },
+    {
+      "title": "Orchestrate",
+      "filename": "orchestrate",
+      "action": "imported-needs-review",
+      "slug": "orchestrate"
+    },
+    {
+      "title": "Paga",
+      "filename": "paga",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Pandabase",
+      "filename": "pandabase",
+      "action": "imported-needs-review",
+      "slug": "pandabase"
+    },
+    {
+      "title": "Pandascrow",
+      "filename": "pandascrow",
+      "action": "imported-needs-review",
+      "slug": "pandascrow"
+    },
+    {
+      "title": "Patricia",
+      "filename": "patricia",
+      "action": "imported-needs-review",
+      "slug": "patricia"
+    },
+    {
+      "title": "Paylater",
+      "filename": "paylater",
+      "action": "excluded",
+      "reason": "superseded by Carbon"
+    },
+    {
+      "title": "Paystack",
+      "filename": "paystack",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Peerstack",
+      "filename": "peerstack",
+      "action": "source-asset-missing",
+      "reason": "Nigeria Logos returned 404 for its indexed SVG"
+    },
+    {
+      "title": "Pettysave",
+      "filename": "pettysave",
+      "action": "imported-needs-review",
+      "slug": "pettysave"
+    },
+    {
+      "title": "PiggyVest",
+      "filename": "piggyvest",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "PoFela Nigeria",
+      "filename": "pofela",
+      "action": "imported-needs-review",
+      "slug": "pofela"
+    },
+    {
+      "title": "Polaris Bank",
+      "filename": "polaris_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Quickteller",
+      "filename": "quickteller",
+      "action": "imported-needs-review",
+      "slug": "quickteller"
+    },
+    {
+      "title": "Quidax",
+      "filename": "quidax",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Ren Money",
+      "filename": "ren_money",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Schoolable",
+      "filename": "schoolable",
+      "action": "imported-needs-review",
+      "slug": "schoolable"
+    },
+    {
+      "title": "SeamPay",
+      "filename": "seampay",
+      "action": "imported-needs-review",
+      "slug": "seampay"
+    },
+    {
+      "title": "Stanbic IBTC Bank",
+      "filename": "stanbic_ibtc",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Standard Chartered",
+      "filename": "standard_chartered",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Sterling Bank Plc",
+      "filename": "sterling_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Sycamore",
+      "filename": "sycamore",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "ThankUCash",
+      "filename": "thank_u_cash",
+      "action": "imported-needs-review",
+      "slug": "thank-u-cash"
+    },
+    {
+      "title": "Thepeer",
+      "filename": "thepeer",
+      "action": "imported-needs-review",
+      "slug": "thepeer"
+    },
+    {
+      "title": "UCARD",
+      "filename": "ucard_store",
+      "action": "imported-needs-review",
+      "slug": "ucard-store"
+    },
+    {
+      "title": "Union Bank Nigeria",
+      "filename": "union_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "United Bank for Africa",
+      "filename": "united_bank_for_africa",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Ventures Platform",
+      "filename": "ventures_platform",
+      "action": "imported-needs-review",
+      "slug": "ventures-platform"
+    },
+    {
+      "title": "Verifi",
+      "filename": "verifi",
+      "action": "imported-needs-review",
+      "slug": "verifi"
+    },
+    {
+      "title": "Verve",
+      "filename": "verve",
+      "action": "imported-needs-review",
+      "slug": "verve"
+    },
+    {
+      "title": "Wallets Africa",
+      "filename": "wallets_africa",
+      "action": "imported-needs-review",
+      "slug": "wallets-africa"
+    },
+    {
+      "title": "Wema Bank",
+      "filename": "wema_bank",
+      "action": "existing-canonical"
+    },
+    {
+      "title": "Yellowcard",
+      "filename": "yellowcard",
+      "action": "imported-needs-review",
+      "slug": "yellowcard"
+    },
+    {
+      "title": "Zap by Paystack",
+      "filename": "zap",
+      "action": "imported-needs-review",
+      "slug": "zap"
+    },
+    {
+      "title": "Zazuu",
+      "filename": "zazuu",
+      "action": "imported-needs-review",
+      "slug": "zazuu"
+    },
+    {
+      "title": "Zenith Bank",
+      "filename": "zenith_bank",
+      "action": "existing-canonical"
+    }
+  ]
+}

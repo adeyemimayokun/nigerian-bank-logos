@@ -1,0 +1,92 @@
+[
+  {
+    "institution_slug": "ab-microfinance-bank-nigeria",
+    "candidate_path": "institution-coverage-candidates/ab-microfinance-bank-nigeria/ab-microfinance-bank-nigeria.svg",
+    "website": "https://ab-mfbnigeria.com/",
+    "source_url": "https://ab-mfbnigeria.com/assets/img/logo/ablogo.svg",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "citizens-pensions",
+    "candidate_path": "institution-coverage-candidates/citizens-pensions/citizens-pensions.png",
+    "website": "https://citizenspensions.com/",
+    "source_url": "https://citizenspensions.com/wp-content/uploads/2025/03/CITIZENS-PENSIONS.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "npf-pension-managers",
+    "candidate_path": "institution-coverage-candidates/npf-pension-managers/npf-pension-managers.png",
+    "website": "https://npfpensions.com.ng/",
+    "source_url": "https://npfpensions.com.ng/images/logo.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "fcmb-pensions",
+    "candidate_path": "institution-coverage-candidates/fcmb-pensions/fcmb-pensions.png",
+    "website": "https://fcmbpensions.com/",
+    "source_url": "https://fcmbpensions.com/img/FCMBPensions-New-Logo-i.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "premium-pension",
+    "candidate_path": "institution-coverage-candidates/premium-pension/premium-pension.png",
+    "website": "https://premiumpension.com/",
+    "source_url": "https://premiumpension.com/favicon.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "guaranty-trust-pension-managers",
+    "candidate_path": "institution-coverage-candidates/guaranty-trust-pension-managers/guaranty-trust-pension-managers.png",
+    "website": "https://www.gtpensionmanagers.com/",
+    "source_url": "https://www.gtpensionmanagers.com/wp-content/uploads/2025/05/Pension-Managers-logo-new.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "veritas-glanvills-pensions",
+    "candidate_path": "institution-coverage-candidates/veritas-glanvills-pensions/veritas-glanvills-pensions.png",
+    "website": "https://vgpensions.com/",
+    "source_url": "https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-PNG-300x137-1.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "cardinal-stone-pensions",
+    "candidate_path": "institution-coverage-candidates/cardinal-stone-pensions/cardinal-stone-pensions.png",
+    "website": "https://cardinalstonepensions.com/",
+    "source_url": "https://cardinalstonepensions.com/wp-content/uploads/2024/11/cardinalstone-Pensions-2Artboard-4.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "parthian-pensions",
+    "candidate_path": "institution-coverage-candidates/parthian-pensions/parthian-pensions.png",
+    "website": "https://parthianpensions.com/",
+    "source_url": "https://parthianpensions.com/wp-content/uploads/2025/06/Logo1-PP.png",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  }
+]

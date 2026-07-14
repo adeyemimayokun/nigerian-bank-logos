@@ -64,16 +64,35 @@ pnpm logos:source
 The command only updates `packages/logos/sourcing/queue.json`; it never accepts
 or replaces catalog artwork automatically.
 
-Import matching SVG and PNG review candidates from Nigeria Logos with:
+Audit all financial entries in Nigeria Logos and import available community
+review assets with:
 
 ```bash
-pnpm logos:source:nigeria-logos
+pnpm logos:import:nigerialogos
 ```
 
-This writes a provenance report to `packages/logos/sourcing/nigeria-logos.json`
-and files to `packages/logos/sourcing/nigeria-logos-candidates`. Nigeria Logos is
-a third-party discovery source, so these candidates cannot enter the approved
-catalog until the artwork is confirmed on an institution-owned official source.
+This writes a provenance report to
+`packages/logos/sourcing/nigerialogos-report.json` and files to
+`packages/logos/sourcing/nigerialogos-candidates`. Nigeria Logos is a third-party
+discovery source, so imports are labeled `community-catalog` and `needs-review`
+until the artwork is confirmed on an institution-owned official source.
+
+Refresh the maintained official consumer-finance app set with:
+
+```bash
+pnpm logos:import:finance-apps
+pnpm logos:import:naicom
+pnpm institutions:generate
+pnpm logos:promote
+```
+
+Logo coverage across the institution master export is recorded in:
+
+- `packages/institutions/exports/logo-coverage-report.json`
+- `packages/institutions/exports/logo-coverage-unresolved.csv`
+
+These reports distinguish linked assets from institutions that still require
+an official website and verifiable artwork.
 
 If Corepack cannot write to your user cache, install pnpm directly and rerun the
 same commands.

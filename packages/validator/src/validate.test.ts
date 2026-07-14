@@ -4,7 +4,7 @@ import { validateCatalog } from "./validate";
 
 describe("logo catalog validation", () => {
   it("contains the seed and reviewed promotion catalog", () => {
-    expect(logoCatalog).toHaveLength(139);
+    expect(logoCatalog).toHaveLength(196);
     expect(logoCatalog.map((logo) => logo.slug)).toEqual(expect.arrayContaining([
       "flutterwave", "moniepoint", "opay", "kuda-microfinance-bank", "leadway-assurance-company",
       "busha-digital", "quidax-technologies", "paystack-payment", "united-bank-for-africa",
@@ -13,8 +13,21 @@ describe("logo catalog validation", () => {
       "nigeria-deposit-insurance-corporation", "federal-competition-and-consumer-protection-commission",
       "national-insurance-commission", "investnow", "piggyvest", "risevest", "trove-finance",
       "union-bank-of", "signature-bank", "meristem-securities", "cardinalstone-securities",
-      "chapel-hill-denham", "afrinvest-securities", "arm-securities", "cordros-securities"
+      "chapel-hill-denham", "afrinvest-securities", "arm-securities", "cordros-securities",
+      "alat-by-wema", "aso-savings-loans", "brass", "buycoins", "fundall", "kora-payments",
+      "monnify", "mono", "quickteller", "verve", "yellowcard", "zap",
+      "abeg-technologies", "investnaija", "i-invest", "getequity", "wahed", "chaka-technologies",
+      "ab-microfinance-bank-nigeria", "hilal-takaful", "xca-insurance-brokers",
+      "citizens-pensions", "fcmb-pensions", "guaranty-trust-pension-managers",
+      "npf-pension-managers", "premium-pension", "veritas-glanvills-pensions",
+      "cardinal-stone-pensions", "parthian-pensions"
     ]));
+  });
+
+  it("keeps Nigeria Logos imports visibly pending official verification", () => {
+    const imported = logoCatalog.filter((logo) => logo.source_type === "community-catalog");
+    expect(imported).toHaveLength(40);
+    expect(imported.every((logo) => logo.status === "needs-review")).toBe(true);
   });
 
   it("maps shared institution brands to accepted logos", () => {

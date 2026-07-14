@@ -1,0 +1,56 @@
+[
+  {
+    "institution_slug": "abeg-technologies",
+    "candidate_path": "finance-app-candidates/abeg-technologies/abeg-technologies.svg",
+    "source_url": "https://pocketapp.com/",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "investnaija",
+    "candidate_path": "finance-app-candidates/investnaija/investnaija.svg",
+    "source_url": "https://investnaija.com/assets/logowhite-D39P74iH.svg",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "i-invest",
+    "candidate_path": "finance-app-candidates/i-invest/i-invest.svg",
+    "source_url": "https://www.i-investng.com/brand/i-invest-logo.svg",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "getequity",
+    "candidate_path": "finance-app-candidates/getequity/getequity.svg",
+    "source_url": "https://www.getequity.io/_nuxt/img/logo-dark.1fe2717.svg",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "wahed",
+    "candidate_path": "finance-app-candidates/wahed/wahed.svg",
+    "source_url": "https://cdn.prod.website-files.com/6258aa32b493a205485f0800/62dfaab6938b2d03f0f43316_wahed-color-logo.svg",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "chaka-technologies",
+    "candidate_path": "finance-app-candidates/chaka-technologies/chaka-technologies.svg",
+    "source_url": "https://hisa.co/",
+    "source_type": "official-website",
+    "status": "verified",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  }
+]

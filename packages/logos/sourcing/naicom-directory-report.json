@@ -1,0 +1,408 @@
+{
+  "retrieved_at": "2026-07-14",
+  "regulator": "NAICOM",
+  "directory_targets": 57,
+  "imported_verified": 2,
+  "unresolved": 55,
+  "entries": [
+    {
+      "institution_slug": "alpha-choice-insurance-brokers-l-t-d",
+      "domain": "alphachoiceinsurance.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "ark-insurance-brokers-l-t-d",
+      "domain": "arkinsurancegroup.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "mip-insurance-brokers",
+      "domain": "mipfinancialsolutions.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "pinnacle-insurance-brokers-l-t-d",
+      "domain": "pinnacleinsurancebrokersinsng.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "prosure-insurance-brokers-l-t-d",
+      "domain": "ttafrica.net",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "yadah-g-global-insurance-brokers-l-t-d",
+      "domain": "ygginssurancebrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "fsl-insurance-brokers-l-t-d",
+      "domain": "fidelitybankbankplc.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "nasco-nigeria-insurance-brokers",
+      "domain": "nasconigeria.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "naicom-broker",
+      "domain": "company.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "blue-house-insurance-brokers",
+      "domain": "bluehouse.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "climax-insurance-brokers-l-t-d",
+      "domain": "climaxinsbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "brickred-insurance-brokers-l-t-d",
+      "domain": "brickred.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "buffer-insurance-brokers",
+      "domain": "bufferinsbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "threshold-insurance-brokers",
+      "domain": "threshold.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "square-four-insurance-brokers",
+      "domain": "square-four.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "remedium-insurance-broker",
+      "domain": "remedium.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "reatyme-insurance-brokers",
+      "domain": "reatymeinsbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "bestie-insurance-brokers",
+      "domain": "bestie.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "valanis-insurace-brokers",
+      "domain": "valanis.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "rbc-1165",
+      "domain": "bniinsurancebrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "profound-insurance-brokers",
+      "domain": "profoundibng.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "institution_slug": "bishop-and-knight-insurance-brokers-l-t-d",
+      "domain": "null",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "mission-insurance-brokers-l-t-d",
+      "domain": "null",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "smooth-way-insurance-brokers-l-t-d",
+      "domain": "null",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "xca-insurance-brokers",
+      "domain": "xcelloncapital.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "website": "https://xcelloncapital.com/",
+      "source_url": "https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+      "action": "imported-verified",
+      "promotion": {
+        "institution_slug": "xca-insurance-brokers",
+        "candidate_path": "naicom-directory-candidates/xca-insurance-brokers/xca-insurance-brokers.png",
+        "website": "https://xcelloncapital.com/",
+        "source_url": "https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+        "source_type": "official-website",
+        "status": "verified",
+        "added_at": "2026-07-14",
+        "updated_at": "2026-07-14"
+      }
+    },
+    {
+      "institution_slug": "brexton-insurance-brokers",
+      "domain": "brexton.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "sheron-insurance-brokers",
+      "domain": "sheronbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "westfield-ins-brokers",
+      "domain": "westfieldinsbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "viewpoint-insurance-brokers",
+      "domain": "viewpoint.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "avion-insurance-brokers",
+      "domain": "avionbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "danemteh-insurance-brokers",
+      "domain": "danemteh.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "institution_slug": "besthand-insurance-brokers",
+      "domain": "besthandbrokers.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "anchor-insurance-company",
+      "domain": "anchorinsuranceng.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "capital-express-assurance",
+      "domain": "capitexpressassurance.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "sanlam-allianz-life-insurance",
+      "domain": "sanlam.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "gold-link-insurance",
+      "domain": "goldlinkplc.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "kbl-general-insurance-company",
+      "domain": "keystonebankng.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "international-energy-insurance",
+      "domain": "ieiplcng.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "institution_slug": "nigerian-agricultural-insurance-corporation",
+      "domain": "naic.gov.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "staco-insurance",
+      "domain": "stacoplc.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "allianz-nigeria-insurance",
+      "domain": "allianz.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 403"
+    },
+    {
+      "institution_slug": "zenith-general-insurance-company",
+      "domain": "zenithinsurance.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "coronation-life-assurance-corporation",
+      "domain": "coronationinsurance.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "institution_slug": "linkage-assurance",
+      "domain": "linkageassurance.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "veritas-kapital-assurance",
+      "domain": "veritaskapital.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 307"
+    },
+    {
+      "institution_slug": "sanlam-allianz-general-insurance",
+      "domain": "sanlam.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "hilal-takaful",
+      "domain": "hilaltakaful.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "website": "https://hilaltakaful.com.ng/",
+      "source_url": "https://hilaltakaful.com.ng/web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd?unique=31eac42",
+      "action": "imported-verified",
+      "promotion": {
+        "institution_slug": "hilal-takaful",
+        "candidate_path": "naicom-directory-candidates/hilal-takaful/hilal-takaful.png",
+        "website": "https://hilaltakaful.com.ng/",
+        "source_url": "https://hilaltakaful.com.ng/web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd?unique=31eac42",
+        "source_type": "official-website",
+        "status": "verified",
+        "added_at": "2026-07-14",
+        "updated_at": "2026-07-14"
+      }
+    },
+    {
+      "institution_slug": "coronation-insurance",
+      "domain": "coronationinsurance.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "HTTP 404"
+    },
+    {
+      "institution_slug": "stanbic-ibtc-insurance",
+      "domain": "stanbicibtc.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "enterprise-nigeria-life-assurance-company",
+      "domain": "enterprisegroup.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "casava-microinsurance",
+      "domain": "casava.co",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    },
+    {
+      "institution_slug": "chi-microinsurance",
+      "domain": "chimicroinsure.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "prudent-choice-microinsurance",
+      "domain": "prudentchoice.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "yes-microinsurance",
+      "domain": "yesinsurance.com.ng",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "new-dawn-microinsurance",
+      "domain": "newdawnmicroinsuranceltd.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "ally-microinsurance",
+      "domain": "bas-capital.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "website-unavailable",
+      "reason": "fetch failed"
+    },
+    {
+      "institution_slug": "nassure-microinsurance",
+      "domain": "nassuregroup.com",
+      "source": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
+      "action": "no-valid-logo"
+    }
+  ]
+}

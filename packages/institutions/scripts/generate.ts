@@ -42,9 +42,14 @@ function json(records: Institution[]): string {
 }
 
 export async function generatedFiles(): Promise<Map<string, string>> {
-  const all = mergeCatalog(await sourceRecords());
+  const logoLinks = await readJson<Record<string, string>>(join(dataRoot, "logo-links.json"));
+  const all = mergeCatalog(await sourceRecords()).map((entry) => ({
+    ...entry,
+    logo_slug: entry.logo_slug ?? logoLinks[entry.slug] ?? null
+  }));
   const nigerian = all.filter((entry) => entry.nigeria_presence !== "foreign-authorized");
   const foreign = all.filter((entry) => entry.nigeria_presence === "foreign-authorized");
+  const unresolvedLogos = nigerian.filter((entry) => !entry.logo_slug);
   const categoryTotals = Object.fromEntries(institutionCategories
     .map((category) => [category, all.filter((entry) => entry.categories.includes(category)).length]));
   const report = {
@@ -72,8 +77,44 @@ export async function generatedFiles(): Promise<Map<string, string>> {
     [join(exportsRoot, "institutions-ng.csv"), toCsv(nigerian)],
     [join(exportsRoot, "foreign-authorized-ng.json"), json(foreign)],
     [join(exportsRoot, "foreign-authorized-ng.csv"), toCsv(foreign)],
-    [join(exportsRoot, "source-report.json"), JSON.stringify(report, null, 2) + "\n"]
+    [join(exportsRoot, "source-report.json"), JSON.stringify(report, null, 2) + "\n"],
+    [join(exportsRoot, "logo-coverage-report.json"), JSON.stringify({
+      snapshot_date: snapshotDate,
+      total_institutions: nigerian.length,
+      linked_to_logo: nigerian.length - unresolvedLogos.length,
+      unresolved: unresolvedLogos.length,
+      unresolved_with_website: unresolvedLogos.filter((entry) => entry.website).length,
+      unresolved_without_website: unresolvedLogos.filter((entry) => !entry.website).length,
+      unresolved_by_category: Object.fromEntries(institutionCategories.map((category) => [
+        category,
+        unresolvedLogos.filter((entry) => entry.categories.includes(category)).length
+      ])),
+      institutions: unresolvedLogos.map((entry) => ({
+        slug: entry.slug,
+        legal_name: entry.legal_name,
+        brand_name: entry.brand_name,
+        primary_category: entry.primary_category,
+        website: entry.website,
+        verification_status: entry.verification_status,
+        reason: entry.website ? "official-logo-not-yet-sourced" : "official-website-and-logo-source-required"
+      }))
+    }, null, 2) + "\n"],
+    [join(exportsRoot, "logo-coverage-unresolved.csv"), toCoverageCsv(unresolvedLogos)]
   ]);
+}
+
+function toCoverageCsv(records: Institution[]): string {
+  const headers = ["slug", "legal_name", "brand_name", "primary_category", "website", "verification_status", "reason"];
+  const rows = records.map((entry) => [
+    entry.slug,
+    entry.legal_name,
+    entry.brand_name,
+    entry.primary_category,
+    entry.website,
+    entry.verification_status,
+    entry.website ? "official-logo-not-yet-sourced" : "official-website-and-logo-source-required"
+  ]);
+  return [headers.map(csvCell).join(","), ...rows.map((row) => row.map(csvCell).join(","))].join("\n") + "\n";
 }
 
 async function main(): Promise<void> {
