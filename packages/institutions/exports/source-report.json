@@ -2,13 +2,13 @@
   "snapshot_date": "2026-07-13",
   "generated_at": "2026-07-13",
   "totals": {
-    "nigerian": 1676,
+    "nigerian": 1690,
     "foreign_authorized": 58
   },
   "category_totals": {
-    "commercial-bank": 26,
+    "commercial-bank": 25,
     "microfinance-bank": 10,
-    "fintech": 2,
+    "fintech": 4,
     "crypto-vasp": 7,
     "financial-holding-company": 7,
     "remittance-imto": 108,
@@ -31,14 +31,17 @@
     "credit-bureau": 0,
     "digital-lender": 563,
     "crowdfunding-platform": 3,
-    "robo-adviser": 1,
-    "digital-broker": 4,
-    "investment-manager": 1,
+    "robo-adviser": 2,
+    "digital-broker": 6,
+    "investment-manager": 7,
     "insurer": 75,
     "reinsurer": 3,
     "insurance-broker": 675,
     "pension-fund-administrator": 19,
-    "pension-fund-custodian": 3
+    "pension-fund-custodian": 3,
+    "regulator": 5,
+    "finance-app": 4,
+    "stockbroker": 6
   },
   "sources": [
     {

@@ -4122,7 +4122,7 @@
       "Zenith Bank Plc"
     ],
     "website": "https://www.zenithbank.com/",
-    "source_url": "https://www.zenithbank.com/",
+    "source_url": "https://selfservice.zenithbank.com/logo.gif",
     "source_type": "official-website",
     "source_path": "sources/zenith-bank.svg",
     "svg_path": "assets/zenith-bank.svg",
@@ -4144,6 +4144,707 @@
       {
         "type": "webp",
         "path": "assets/zenith-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "PALMPAY",
+    "slug": "palmpay",
+    "category": "fintech",
+    "aliases": [
+      "PALMPAY",
+      "PALMPAY AGENT",
+      "PALMPAY BUSSINESS",
+      "PalmPay Limited"
+    ],
+    "website": "https://www.palmpay.com/",
+    "source_url": "https://www.palmpay.com/_next/static/media/logo.0wv~imdq~cwkl.png",
+    "source_type": "official-website",
+    "source_path": "sources/palmpay.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/palmpay.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/palmpay.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "FairMoney",
+    "slug": "fairmoney-microfinance-bank",
+    "category": "microfinance-bank",
+    "aliases": [
+      "FAIR MONEY MICROFINANCE BANK",
+      "FAIRMONEY APP.",
+      "FairMoney Microfinance Bank Limited"
+    ],
+    "website": "https://fairmoney.io/",
+    "source_url": "https://fairmoney.io/assets/fairmoney-logo-DR-jkARz.png",
+    "source_type": "official-website",
+    "source_path": "sources/fairmoney-microfinance-bank.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/fairmoney-microfinance-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fairmoney-microfinance-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "VBank",
+    "slug": "vfd-microfinance-bank",
+    "category": "microfinance-bank",
+    "aliases": [
+      "VFD Microfinance Bank Limited"
+    ],
+    "website": "https://vbank.ng/",
+    "source_url": "https://play.google.com/store/apps/details?id=com.vfd.app",
+    "source_type": "other-official",
+    "source_path": "sources/vfd-microfinance-bank.jpg",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/vfd-microfinance-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/vfd-microfinance-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "jpeg",
+        "path": "assets/vfd-microfinance-bank.jpg",
+        "mime_type": "image/jpeg",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Central Bank of Nigeria",
+    "slug": "central-bank-of-nigeria",
+    "category": "other",
+    "aliases": [
+      "CBN"
+    ],
+    "website": "https://www.cbn.gov.ng/",
+    "source_url": "https://www.cbn.gov.ng/images/CBN_Logo_Wordmark.png",
+    "source_type": "official-website",
+    "source_path": "sources/central-bank-of-nigeria.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/central-bank-of-nigeria.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/central-bank-of-nigeria.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "SEC Nigeria",
+    "slug": "securities-and-exchange-commission-nigeria",
+    "category": "other",
+    "aliases": [
+      "SEC",
+      "Securities and Exchange Commission Nigeria"
+    ],
+    "website": "https://sec.gov.ng/",
+    "source_url": "https://sec.gov.ng/static/icons/logo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/securities-and-exchange-commission-nigeria.svg",
+    "svg_path": "assets/securities-and-exchange-commission-nigeria.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/securities-and-exchange-commission-nigeria.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/securities-and-exchange-commission-nigeria.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/securities-and-exchange-commission-nigeria.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "NDIC",
+    "slug": "nigeria-deposit-insurance-corporation",
+    "category": "other",
+    "aliases": [
+      "Nigeria Deposit Insurance Corporation"
+    ],
+    "website": "https://ndic.gov.ng/",
+    "source_url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo_v2.png",
+    "source_type": "official-website",
+    "source_path": "sources/nigeria-deposit-insurance-corporation.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/nigeria-deposit-insurance-corporation.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/nigeria-deposit-insurance-corporation.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "FCCPC",
+    "slug": "federal-competition-and-consumer-protection-commission",
+    "category": "other",
+    "aliases": [
+      "Federal Competition & Consumer Protection Commission"
+    ],
+    "website": "https://fccpc.gov.ng/",
+    "source_url": "https://fccpc.gov.ng/wp-content/uploads/2022/07/transparent-bg-min.png",
+    "source_type": "official-website",
+    "source_path": "sources/federal-competition-and-consumer-protection-commission.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/federal-competition-and-consumer-protection-commission.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/federal-competition-and-consumer-protection-commission.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "NAICOM",
+    "slug": "national-insurance-commission",
+    "category": "other",
+    "aliases": [
+      "National Insurance Commission Nigeria"
+    ],
+    "website": "https://naicom.gov.ng/",
+    "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/national-insurance-commission.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/national-insurance-commission.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/national-insurance-commission.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "InvestNow",
+    "slug": "investnow",
+    "category": "other",
+    "aliases": [
+      "InvesNow",
+      "InvestNow.ng",
+      "United Capital InvestNow"
+    ],
+    "website": "https://www.investnow.ng/",
+    "source_url": "https://www.investnow.ng/",
+    "source_type": "official-website",
+    "source_path": "sources/investnow.svg",
+    "svg_path": "assets/investnow.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/investnow.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/investnow.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/investnow.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "PiggyVest",
+    "slug": "piggyvest",
+    "category": "other",
+    "aliases": [
+      "Piggybank.ng",
+      "PiggyTech Global Limited"
+    ],
+    "website": "https://www.piggyvest.com/",
+    "source_url": "https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
+    "source_type": "official-website",
+    "source_path": "sources/piggyvest.svg",
+    "svg_path": "assets/piggyvest.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/piggyvest.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/piggyvest.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/piggyvest.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Risevest",
+    "slug": "risevest",
+    "category": "other",
+    "aliases": [
+      "Rise",
+      "Rise Vest"
+    ],
+    "website": "https://www.risevest.com/",
+    "source_url": "https://www.risevest.com/",
+    "source_type": "official-website",
+    "source_path": "sources/risevest.svg",
+    "svg_path": "assets/risevest.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/risevest.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/risevest.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/risevest.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Trove",
+    "slug": "trove-finance",
+    "category": "other",
+    "aliases": [
+      "Trove Africa Holdings",
+      "Trove Finance"
+    ],
+    "website": "https://www.trovefinance.com/",
+    "source_url": "https://www.trovefinance.com/wp-content/uploads/2022/07/Trove-logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/trove-finance.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/trove-finance.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/trove-finance.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Union Bank",
+    "slug": "union-bank-of",
+    "category": "commercial-bank",
+    "aliases": [
+      "Union Bank Nigeria",
+      "Union Bank of Nigeria Plc"
+    ],
+    "website": "https://www.unionbankng.com/",
+    "source_url": "https://www.unionbankng.com/wp-content/uploads/2026/04/UnionHorseLogo.png",
+    "source_type": "official-website",
+    "source_path": "sources/union-bank-of.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/union-bank-of.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/union-bank-of.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Signature Bank",
+    "slug": "signature-bank",
+    "category": "commercial-bank",
+    "aliases": [
+      "Signature Bank Limited"
+    ],
+    "website": "https://signaturebankng.com/",
+    "source_url": "https://cba.signaturebankng.com/assets/images/single-logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/signature-bank.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/signature-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/signature-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Meristem",
+    "slug": "meristem-securities",
+    "category": "other",
+    "aliases": [
+      "Meristem Securities",
+      "Meristem Stockbrokers",
+      "Meritrade"
+    ],
+    "website": "https://stockbroking.meristemng.com/",
+    "source_url": "https://stockbroking.meristemng.com/_next/static/media/meristem%20logos%202.a03e6543.png",
+    "source_type": "official-website",
+    "source_path": "sources/meristem-securities.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/meristem-securities.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/meristem-securities.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "CardinalStone",
+    "slug": "cardinalstone-securities",
+    "category": "other",
+    "aliases": [
+      "CardinalStone Partners",
+      "CardinalStone Securities"
+    ],
+    "website": "https://cardinalstonesecurities.com/",
+    "source_url": "https://www.cardinalstone.com/wp-content/uploads/2019/09/cardinalstone-logo.png",
+    "source_type": "official-website",
+    "source_path": "sources/cardinalstone-securities.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/cardinalstone-securities.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/cardinalstone-securities.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Chapel Hill Denham",
+    "slug": "chapel-hill-denham",
+    "category": "other",
+    "aliases": [
+      "Chapel Hill",
+      "Chapel Hill Denham Securities"
+    ],
+    "website": "https://chapelhilldenham.com/",
+    "source_url": "https://chapelhilldenham.com/wp-content/uploads/2024/04/chapel-hill-denham-logo-retina-white-version.png",
+    "source_type": "official-website",
+    "source_path": "sources/chapel-hill-denham.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/chapel-hill-denham.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/chapel-hill-denham.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Afrinvest",
+    "slug": "afrinvest-securities",
+    "category": "other",
+    "aliases": [
+      "Afrinvest Securities",
+      "Afrinvest West Africa"
+    ],
+    "website": "https://www.afrinvest.com/",
+    "source_url": "https://afrinvest.com/wp-content/uploads/2024/10/logo-full.svg",
+    "source_type": "official-website",
+    "source_path": "sources/afrinvest-securities.svg",
+    "svg_path": "assets/afrinvest-securities.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/afrinvest-securities.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/afrinvest-securities.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/afrinvest-securities.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "ARM Securities",
+    "slug": "arm-securities",
+    "category": "other",
+    "aliases": [
+      "A.R.M Securities",
+      "Asset and Resource Management Securities"
+    ],
+    "website": "https://www.arm.com.ng/securities/",
+    "source_url": "https://www.arm.com.ng/wp-content/uploads/2021/07/securities-logo.webp",
+    "source_type": "official-website",
+    "source_path": "sources/arm-securities.webp",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/arm-securities.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/arm-securities.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Cordros",
+    "slug": "cordros-securities",
+    "category": "other",
+    "aliases": [
+      "Cordros Capital",
+      "Cordros Securities"
+    ],
+    "website": "https://cordros.com/",
+    "source_url": "https://cordros.com/_next/static/media/capital-logo.1ezr-1cy8xqkf.png",
+    "source_type": "official-website",
+    "source_path": "sources/cordros-securities.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/cordros-securities.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/cordros-securities.webp",
         "mime_type": "image/webp",
         "width": null,
         "height": null

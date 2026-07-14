@@ -75,6 +75,9 @@ export function validateCatalog(): ValidationIssue[] {
     }
 
     const rootSvgTag = svg.match(/^<svg\b[^>]*>/i)?.[0] ?? "";
+    if (!/\bviewBox\s*=\s*["'][^"']+["']/i.test(rootSvgTag)) {
+      issues.push({ slug: entry.slug, message: "Root SVG must declare a viewBox to prevent clipped previews." });
+    }
     if (/preserveAspectRatio=["']none["']/i.test(rootSvgTag)) {
       issues.push({ slug: entry.slug, message: "Root SVG must preserve its aspect ratio." });
     }

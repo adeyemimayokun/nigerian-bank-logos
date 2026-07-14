@@ -10,7 +10,8 @@ export const institutionCategories = [
   "super-agent", "payment-service-holding-company", "card-scheme",
   "clearing-house", "credit-bureau", "digital-lender", "crowdfunding-platform",
   "robo-adviser", "digital-broker", "investment-manager", "insurer", "reinsurer",
-  "insurance-broker", "pension-fund-administrator", "pension-fund-custodian"
+  "insurance-broker", "pension-fund-administrator", "pension-fund-custodian",
+  "regulator", "finance-app", "stockbroker"
 ] as const;
 
 export const nigeriaPresenceValues = [

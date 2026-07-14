@@ -6,5 +6,13 @@
     "effective_at": "2024-06-03",
     "source_url": "https://www.cbn.gov.ng/Out/2024/CCD/CBN%20PRESS%20RELEASE_HERITAGE%20BANK.pdf",
     "retrieved_at": "2026-07-13"
+  },
+  {
+    "name": "Titan Trust Bank Limited",
+    "former_categories": ["commercial-bank"],
+    "reason": "superseded",
+    "effective_at": null,
+    "source_url": "https://titantrustbank.com/contact-us/",
+    "retrieved_at": "2026-07-14"
   }
 ]

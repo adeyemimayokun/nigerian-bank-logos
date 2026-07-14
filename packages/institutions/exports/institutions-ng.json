@@ -1694,6 +1694,47 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "afrinvest-securities",
+    "legal_name": "Afrinvest Securities Limited",
+    "brand_name": "Afrinvest",
+    "aliases": [
+      "Afrinvest Securities",
+      "Afrinvest West Africa"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Broker/dealer",
+      "Fund/portfolio manager"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://www.afrinvest.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.afrinvest.com/home/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "afrinvest-securities",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "afrisurge-technologies",
     "legal_name": "AFRISURGE TECHNOLOGIES LIMITED",
     "brand_name": "AFRISURGE TECHNOLOGIES",
@@ -3319,6 +3360,45 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "arm-securities",
+    "legal_name": "ARM Securities Limited",
+    "brand_name": "ARM Securities",
+    "aliases": [
+      "A.R.M Securities",
+      "Asset and Resource Management Securities"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Stockbroker"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://www.arm.com.ng/securities/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/?page=2",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://www.arm.com.ng/securities/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "arm-securities",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "armstrong-insurance-brokers",
@@ -7162,6 +7242,45 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "cardinalstone-securities",
+    "legal_name": "CardinalStone Securities Limited",
+    "brand_name": "CardinalStone",
+    "aliases": [
+      "CardinalStone Partners",
+      "CardinalStone Securities"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Broker/dealer"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://cardinalstonesecurities.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://cardinalstonesecurities.com/about-us/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "cardinalstone-securities",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "care-credit",
     "legal_name": "CARE CREDIT LIMITED",
     "brand_name": "CARE CREDIT",
@@ -8074,6 +8193,35 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "central-bank-of-nigeria",
+    "legal_name": "Central Bank of Nigeria",
+    "brand_name": "Central Bank of Nigeria",
+    "aliases": [
+      "CBN"
+    ],
+    "primary_category": "regulator",
+    "categories": [
+      "regulator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://www.cbn.gov.ng/",
+    "sources": [
+      {
+        "url": "https://www.cbn.gov.ng/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "central-bank-of-nigeria",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "centrelinks-insurance-brokers",
     "legal_name": "Centrelinks Insurance Brokers Limited",
     "brand_name": "Centrelinks Insurance Brokers",
@@ -8304,6 +8452,47 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "chapel-hill-denham",
+    "legal_name": "Chapel Hill Denham Securities Limited",
+    "brand_name": "Chapel Hill Denham",
+    "aliases": [
+      "Chapel Hill",
+      "Chapel Hill Denham Securities"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Broker/dealer",
+      "Fund/portfolio manager"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://chapelhilldenham.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://chapelhilldenham.com/overview/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "chapel-hill-denham",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "charles-and-gerald-insurance-brokers",
@@ -9620,6 +9809,47 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "cordros-securities",
+    "legal_name": "Cordros Securities Limited",
+    "brand_name": "Cordros",
+    "aliases": [
+      "Cordros Capital",
+      "Cordros Securities"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Broker/dealer",
+      "Fund/portfolio manager"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://cordros.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://cordros.com/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "cordros-securities",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "cordros-insurance-brokers",
@@ -15206,6 +15436,35 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "federal-competition-and-consumer-protection-commission",
+    "legal_name": "Federal Competition and Consumer Protection Commission",
+    "brand_name": "FCCPC",
+    "aliases": [
+      "Federal Competition & Consumer Protection Commission"
+    ],
+    "primary_category": "regulator",
+    "categories": [
+      "regulator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://fccpc.gov.ng/",
+    "sources": [
+      {
+        "url": "https://fccpc.gov.ng/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "federal-competition-and-consumer-protection-commission",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "fcmb-group",
@@ -22839,6 +23098,39 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "investnow",
+    "legal_name": null,
+    "brand_name": "InvestNow",
+    "aliases": [
+      "InvesNow",
+      "InvestNow.ng",
+      "United Capital InvestNow"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "digital-broker",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.investnow.ng/",
+    "sources": [
+      {
+        "url": "https://www.investnow.ng/faq",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "investnow",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "irecharge-technology-innovations",
     "legal_name": "Irecharge Technology Innovations Limited",
     "brand_name": "Irecharge Technology Innovations",
@@ -29200,6 +29492,48 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "meristem-securities",
+    "legal_name": "Meristem Securities Limited",
+    "brand_name": "Meristem",
+    "aliases": [
+      "Meristem Securities",
+      "Meristem Stockbrokers",
+      "Meritrade"
+    ],
+    "primary_category": "stockbroker",
+    "categories": [
+      "stockbroker",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [
+      "SEC Nigeria"
+    ],
+    "licence_types": [
+      "Broker/dealer",
+      "Fund/portfolio manager"
+    ],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://stockbroking.meristemng.com/",
+    "sources": [
+      {
+        "url": "https://home.sec.gov.ng/for-investors/find-a-registered-operator/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      },
+      {
+        "url": "https://stockbroking.meristemng.com/about-us",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "meristem-securities",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "meti-insurance-brokers-l-t-d",
     "legal_name": "Meti Insurance Brokers L.t.d",
     "brand_name": "Meti Insurance Brokers L.t.d",
@@ -31337,6 +31671,35 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "national-insurance-commission",
+    "legal_name": "National Insurance Commission",
+    "brand_name": "NAICOM",
+    "aliases": [
+      "National Insurance Commission Nigeria"
+    ],
+    "primary_category": "regulator",
+    "categories": [
+      "regulator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://naicom.gov.ng/",
+    "sources": [
+      {
+        "url": "https://naicom.gov.ng/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "national-insurance-commission",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "naicom-broker",
     "legal_name": "NAICOM Broker",
     "brand_name": "NAICOM Broker",
@@ -32200,6 +32563,35 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "nigeria-deposit-insurance-corporation",
+    "legal_name": "Nigeria Deposit Insurance Corporation",
+    "brand_name": "NDIC",
+    "aliases": [
+      "Nigeria Deposit Insurance Corporation"
+    ],
+    "primary_category": "regulator",
+    "categories": [
+      "regulator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://ndic.gov.ng/",
+    "sources": [
+      {
+        "url": "https://ndic.gov.ng/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "nigeria-deposit-insurance-corporation",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "new-extension-allround-trust",
@@ -37730,6 +38122,37 @@
     "logo_slug": null,
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13"
+  },
+  {
+    "slug": "piggyvest",
+    "legal_name": "Piggytech Global Limited",
+    "brand_name": "PiggyVest",
+    "aliases": [
+      "Piggybank.ng",
+      "PiggyTech Global Limited"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "fintech"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.piggyvest.com/",
+    "sources": [
+      {
+        "url": "https://www.piggyvest.com/terms",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "piggyvest",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "pilla-technology-resource",
@@ -43295,6 +43718,38 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "risevest",
+    "legal_name": "Rise Vest Technologies Limited",
+    "brand_name": "Risevest",
+    "aliases": [
+      "Rise",
+      "Rise Vest"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "robo-adviser",
+      "investment-manager"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.risevest.com/",
+    "sources": [
+      {
+        "url": "https://www.risevest.com/terms-of-use",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "risevest",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "risk-allianz-insurance-brokers",
     "legal_name": "Risk Allianz Insurance Brokers Ltd",
     "brand_name": "Risk Allianz Insurance Brokers",
@@ -45227,6 +45682,36 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "securities-and-exchange-commission-nigeria",
+    "legal_name": "Securities and Exchange Commission, Nigeria",
+    "brand_name": "SEC Nigeria",
+    "aliases": [
+      "SEC",
+      "Securities and Exchange Commission Nigeria"
+    ],
+    "primary_category": "regulator",
+    "categories": [
+      "regulator"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "nigerian-company",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "active",
+    "verification_status": "officially-verified",
+    "website": "https://sec.gov.ng/",
+    "sources": [
+      {
+        "url": "https://sec.gov.ng/",
+        "source_type": "regulator",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "securities-and-exchange-commission-nigeria",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "securerisk-insurance-brokers",
     "legal_name": "Securerisk Insurance Brokers Ltd",
     "brand_name": "Securerisk Insurance Brokers",
@@ -45825,7 +46310,7 @@
     ],
     "regulatory_status": "active",
     "verification_status": "officially-verified",
-    "website": null,
+    "website": "https://signaturebankng.com/",
     "sources": [
       {
         "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
@@ -45833,9 +46318,9 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "signature-bank",
     "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "silver-coin-insurance-brokers",
@@ -49851,39 +50336,6 @@
     "updated_at": "2026-07-13"
   },
   {
-    "slug": "titan-trust-bank",
-    "legal_name": "Titan Trust Bank Limited",
-    "brand_name": "Titan Trust Bank",
-    "aliases": [
-      "Titan Trust Bank Limited"
-    ],
-    "primary_category": "commercial-bank",
-    "categories": [
-      "commercial-bank"
-    ],
-    "country_code": "NG",
-    "nigeria_presence": "nigerian-company",
-    "regulators": [
-      "CBN"
-    ],
-    "licence_types": [
-      "Commercial bank"
-    ],
-    "regulatory_status": "active",
-    "verification_status": "officially-verified",
-    "website": null,
-    "sources": [
-      {
-        "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
-        "source_type": "regulator",
-        "retrieved_at": "2026-07-13"
-      }
-    ],
-    "logo_slug": null,
-    "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
-  },
-  {
     "slug": "tiva-finance-services",
     "legal_name": "TIVA FINANCE SERVICES LIMITED",
     "brand_name": "TIVA MOBILE",
@@ -50979,6 +51431,38 @@
     "updated_at": "2026-07-13"
   },
   {
+    "slug": "trove-finance",
+    "legal_name": "Trove Africa Holdings, Inc.",
+    "brand_name": "Trove",
+    "aliases": [
+      "Trove Africa Holdings",
+      "Trove Finance"
+    ],
+    "primary_category": "finance-app",
+    "categories": [
+      "finance-app",
+      "digital-broker",
+      "fintech"
+    ],
+    "country_code": "NG",
+    "nigeria_presence": "market-only",
+    "regulators": [],
+    "licence_types": [],
+    "regulatory_status": "status-unknown",
+    "verification_status": "market-verified",
+    "website": "https://www.trovefinance.com/",
+    "sources": [
+      {
+        "url": "https://www.trovefinance.com/trove-terms-and-conditions/",
+        "source_type": "official-website",
+        "retrieved_at": "2026-07-14"
+      }
+    ],
+    "logo_slug": "trove-finance",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
     "slug": "trovotech",
     "legal_name": "Trovotech Ltd",
     "brand_name": "Trovotech",
@@ -51875,8 +52359,11 @@
   {
     "slug": "union-bank-of",
     "legal_name": "Union Bank of Nigeria Plc",
-    "brand_name": "Union Bank of",
+    "brand_name": "Union Bank",
     "aliases": [
+      "Titan Trust Bank",
+      "Titan Trust Bank Limited",
+      "Union Bank Nigeria",
       "Union Bank of Nigeria Plc"
     ],
     "primary_category": "commercial-bank",
@@ -51893,7 +52380,7 @@
     ],
     "regulatory_status": "active",
     "verification_status": "officially-verified",
-    "website": null,
+    "website": "https://www.unionbankng.com/",
     "sources": [
       {
         "url": "https://www.cbn.gov.ng/Out/2024/CCD/LIST%20OF%20DEPOSIT%20MONEY%20BANKS%20AS%20AT%2026TH%20APRIL%2C%202024%20%281%29.pdf",
@@ -51901,9 +52388,9 @@
         "retrieved_at": "2026-07-13"
       }
     ],
-    "logo_slug": null,
+    "logo_slug": "union-bank-of",
     "added_at": "2026-07-13",
-    "updated_at": "2026-07-13"
+    "updated_at": "2026-07-14"
   },
   {
     "slug": "union-commercial-insurance-brokers",

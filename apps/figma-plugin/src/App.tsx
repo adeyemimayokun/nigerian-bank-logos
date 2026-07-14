@@ -9,6 +9,12 @@ import {
   Building2,
   ChartLine,
   Check,
+  Copy,
+  FileCode2,
+  FileImage,
+  History,
+  Image as ImageIcon,
+  Images,
   Landmark,
   Layers3,
   LayoutGrid,
@@ -19,6 +25,7 @@ import {
   RefreshCw,
   Search,
   Send,
+  Scale,
   ShieldCheck,
   Smartphone,
   Sun,
@@ -36,6 +43,7 @@ import {
   categoryLabel,
   type CatalogItem
 } from "./catalog-data";
+import { searchScore } from "./catalog-search";
 import type { LogoWithSvg } from "./logo-data";
 import "./styles.css";
 
@@ -43,7 +51,7 @@ type PluginMessage =
   | { type: "inserted"; name: string }
   | { type: "error"; message: string };
 
-type ProjectPanel = "contribute" | "trademarks";
+type ProjectPanel = "changelog" | "contribute" | "trademarks";
 type ThemeMode = "system" | "light" | "dark";
 
 const PAGE_SIZE = 48;
@@ -54,6 +62,7 @@ const categoryIcons: Partial<Record<InstitutionCategory, LucideIcon>> = {
   "digital-broker": ChartLine,
   "digital-lender": BadgeDollarSign,
   "financial-holding-company": Layers3,
+  "finance-app": Smartphone,
   "insurance-broker": BriefcaseBusiness,
   "insurer": ShieldCheck,
   "investment-manager": WalletCards,
@@ -64,12 +73,26 @@ const categoryIcons: Partial<Record<InstitutionCategory, LucideIcon>> = {
   "payment-service-holding-company": Layers3,
   "payment-service-bank": WalletCards,
   "remittance-imto": Send,
+  "regulator": Scale,
   "super-agent": Network,
-  "switching-processing": RefreshCw
+  "switching-processing": RefreshCw,
+  "stockbroker": ChartLine
+};
+const darkPreviewSlugs = new Set([
+  "union-bank-of",
+  "meristem-securities",
+  "cardinalstone-securities",
+  "chapel-hill-denham"
+]);
+const formatIcons: Record<LogoFormatType, LucideIcon> = {
+  svg: FileCode2,
+  png: FileImage,
+  webp: Images,
+  jpeg: ImageIcon
 };
 const categoryCounts = new Map(availableInstitutionCategories.map((category) => [
   category,
-  catalogItems.filter((item) => item.institution.categories.includes(category)).length
+  catalogItems.filter((item) => item.categories.includes(category)).length
 ]));
 const dateFormatter = new Intl.DateTimeFormat("en-NG", {
   day: "numeric",
@@ -77,19 +100,6 @@ const dateFormatter = new Intl.DateTimeFormat("en-NG", {
   year: "numeric",
   timeZone: "Africa/Lagos"
 });
-
-function matchesQuery(item: CatalogItem, query: string) {
-  const institution = item.institution;
-  const haystack = [
-    institution.brand_name,
-    institution.legal_name ?? "",
-    institution.slug,
-    ...institution.aliases,
-    ...institution.regulators,
-    ...institution.licence_types
-  ].join(" ").toLowerCase();
-  return haystack.includes(query.trim().toLowerCase());
-}
 
 function formatDate(date: string) {
   return dateFormatter.format(new Date(`${date}T00:00:00+01:00`));
@@ -101,6 +111,10 @@ function getSourceDomain(sourceUrl: string) {
 
 function getAvailableFormats(logo: LogoWithSvg) {
   return logo.formats.map((format) => format.type.toUpperCase()).join(" · ");
+}
+
+function getCategorySummary(categories: InstitutionCategory[]) {
+  return categories.map(categoryLabel).join(" · ");
 }
 
 function previewUrl(logo: LogoWithSvg) {
@@ -169,11 +183,15 @@ function App() {
 
   useEffect(() => setVisibleLimit(PAGE_SIZE), [selectedCategories, query]);
 
-  const filteredItems = useMemo(() => catalogItems.filter((item) => {
-    const categoryMatches = selectedCategories.length === 0 ||
-      selectedCategories.some((category) => item.institution.categories.includes(category));
-    return categoryMatches && matchesQuery(item, query);
-  }), [selectedCategories, query]);
+  const filteredItems = useMemo(() => catalogItems
+    .map((item) => ({ item, score: searchScore(item, query) }))
+    .filter(({ item, score }) => {
+      const categoryMatches = selectedCategories.length === 0 ||
+        selectedCategories.some((category) => item.categories.includes(category));
+      return categoryMatches && Number.isFinite(score);
+    })
+    .sort((a, b) => a.score - b.score || a.item.displayName.localeCompare(b.item.displayName))
+    .map(({ item }) => item), [selectedCategories, query]);
 
   const visibleItems = filteredItems.slice(0, visibleLimit);
 
@@ -181,6 +199,27 @@ function App() {
     parent.postMessage({
       pluginMessage: { type: "insert-logo", name: logo.name, svg: logo.svg }
     }, "*");
+  }
+
+  async function copySvg(logo: LogoWithSvg) {
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(logo.svg);
+      } else {
+        const textarea = document.createElement("textarea");
+        textarea.value = logo.svg;
+        textarea.style.position = "fixed";
+        textarea.style.opacity = "0";
+        document.body.appendChild(textarea);
+        textarea.select();
+        const copied = document.execCommand("copy");
+        textarea.remove();
+        if (!copied) throw new Error("Copy command was rejected");
+      }
+      setToast(`${logo.name} SVG copied`);
+    } catch {
+      setToast("Unable to copy SVG");
+    }
   }
 
   function openDetails(item: CatalogItem) {
@@ -205,11 +244,12 @@ function App() {
   }
 
   function downloadCatalog() {
-    const data = catalogItems.map(({ institution, logo }) => ({
-      name: institution.brand_name,
-      slug: institution.slug,
-      category: institution.primary_category,
-      aliases: institution.aliases,
+    const data = catalogItems.map(({ institutions, logo, displayName, categories }) => ({
+      name: displayName,
+      slug: logo.slug,
+      institution_slugs: institutions.map((institution) => institution.slug),
+      categories,
+      aliases: [...new Set(institutions.flatMap((institution) => [institution.brand_name, ...institution.aliases]))],
       website: logo.website,
       source_url: logo.source_url,
       formats: logo.formats.map((format) => format.type),
@@ -385,24 +425,24 @@ function App() {
         <>
           <section className="logo-grid" aria-label="Financial institutions">
             {visibleItems.map((item, index) => {
-              const { institution, logo } = item;
+              const { logo, displayName, categories } = item;
               return (
                 <button
                   className="logo-tile"
-                  key={institution.slug}
+                  key={logo.slug}
                   type="button"
                   onClick={() => openDetails(item)}
                   style={{ animationDelay: `${(index % 12) * 30}ms` }}
-                  aria-label={`View ${institution.brand_name} details`}
+                  aria-label={`View ${displayName} details`}
                 >
                   {logo.svg ? (
-                    <span className="tile-preview" dangerouslySetInnerHTML={{ __html: logo.svg }} />
+                    <span className={`tile-preview${darkPreviewSlugs.has(logo.slug) ? " logo-preview-dark" : ""}`} dangerouslySetInnerHTML={{ __html: logo.svg }} />
                   ) : (
-                    <span className="tile-preview"><img src={previewUrl(logo)} alt="" /></span>
+                    <span className={`tile-preview${darkPreviewSlugs.has(logo.slug) ? " logo-preview-dark" : ""}`}><img src={previewUrl(logo)} alt="" /></span>
                   )}
                   <span className="tile-copy">
-                    <strong>{institution.brand_name}</strong>
-                    <small>{categoryLabel(institution.primary_category)}</small>
+                    <strong>{displayName}</strong>
+                    <small>{getCategorySummary(categories)}</small>
                   </span>
                   <span className="tile-meta">
                     <span>{getAvailableFormats(logo)}</span>
@@ -442,6 +482,10 @@ function App() {
             <ArrowUpRight aria-hidden="true" size={18} strokeWidth={1.6} />
             <span>Trademark policy</span>
           </button>
+          <button type="button" onClick={() => setProjectPanel("changelog")} aria-haspopup="dialog" title="View project updates">
+            <History aria-hidden="true" size={18} strokeWidth={1.6} />
+            <span>Changelog</span>
+          </button>
         </nav>
 
         <div className="footer-outro">
@@ -476,6 +520,7 @@ function App() {
           selectedFormat={selectedFormat}
           onClose={() => setSelectedItem(null)}
           onFormatChange={setSelectedFormat}
+          onCopySvg={copySvg}
           onDownload={downloadLogo}
           onInsert={insertLogo}
         />
@@ -504,6 +549,13 @@ function ProjectInfoSheet({
   onCopySourcingCommand: () => void;
 }) {
   const isContributionGuide = panel === "contribute";
+  const isChangelog = panel === "changelog";
+  const title = isContributionGuide ? "Contribute a logo" : isChangelog ? "Changelog" : "Trademark policy";
+  const description = isContributionGuide
+    ? "Help keep the catalog accurate and current."
+    : isChangelog
+      ? "New assets, features, and catalog improvements."
+      : "Logo ownership and acceptable use.";
 
   return (
     <div className="detail-backdrop project-backdrop" onMouseDown={onClose}>
@@ -518,8 +570,8 @@ function ProjectInfoSheet({
         <header className="detail-header">
           <div>
             <span className="verified-label">Open source project</span>
-            <h2 id="project-sheet-title">{isContributionGuide ? "Contribute a logo" : "Trademark policy"}</h2>
-            <p>{isContributionGuide ? "Help keep the catalog accurate and current." : "Logo ownership and acceptable use."}</p>
+            <h2 id="project-sheet-title">{title}</h2>
+            <p>{description}</p>
           </div>
           <button className="close-button" type="button" onClick={onClose} aria-label="Close" title="Close">×</button>
         </header>
@@ -537,6 +589,39 @@ function ProjectInfoSheet({
                 Copy sourcing command
               </button>
             </>
+          ) : isChangelog ? (
+            <div className="changelog-list">
+              <article className="changelog-entry">
+                <header>
+                  <div>
+                    <time dateTime="2026-07-14">14 July 2026</time>
+                    <h3>Catalog expansion</h3>
+                  </div>
+                  <span>Latest</span>
+                </header>
+                <ul>
+                  <li>Expanded the verified catalog to 139 listings, including banks, stockbrokers, regulators, and consumer finance apps.</li>
+                  <li>Added PNG and WebP downloads alongside available SVG files.</li>
+                  <li>Merged duplicate institution brands under familiar display names.</li>
+                  <li>Added relevance-ranked search and multi-category filtering.</li>
+                  <li>Added official website links, theme controls, and floating project panels.</li>
+                </ul>
+              </article>
+              <article className="changelog-entry">
+                <header>
+                  <div>
+                    <time dateTime="2026-07-13">13 July 2026</time>
+                    <h3>Initial release</h3>
+                  </div>
+                </header>
+                <ul>
+                  <li>Launched the searchable Nigerian financial institution logo catalog.</li>
+                  <li>Added verified source metadata and logo detail previews.</li>
+                  <li>Introduced editable SVG insertion for the Figma plugin.</li>
+                  <li>Added catalog validation and an open source contribution workflow.</li>
+                </ul>
+              </article>
+            </div>
           ) : (
             <>
               <p>Code, metadata, and project tooling are MIT licensed. Logo artwork is not included in that licence.</p>
@@ -555,6 +640,7 @@ function DetailSheet({
   selectedFormat,
   onClose,
   onFormatChange,
+  onCopySvg,
   onDownload,
   onInsert
 }: {
@@ -562,31 +648,54 @@ function DetailSheet({
   selectedFormat: LogoFormatType;
   onClose: () => void;
   onFormatChange: (format: LogoFormatType) => void;
+  onCopySvg: (logo: LogoWithSvg) => void;
   onDownload: (logo: LogoWithSvg, format: LogoFormatType) => void;
   onInsert: (logo: LogoWithSvg) => void;
 }) {
-  const { institution, logo } = item;
-  const sourceUrl = logo.source_url;
+  const { logo, displayName, categories } = item;
+  const websiteUrl = logo.website;
   return (
     <div className="detail-backdrop" onMouseDown={onClose}>
-      <aside className="detail-sheet" aria-label={`${institution.brand_name} details`} onMouseDown={(event) => event.stopPropagation()}>
+      <aside className="detail-sheet" aria-label={`${displayName} details`} onMouseDown={(event) => event.stopPropagation()}>
         <div className="sheet-handle" aria-hidden="true" />
         <header className="detail-header">
           <div>
             <span className="verified-label">
               <span aria-hidden="true" /> Verified source
             </span>
-            <h2>{institution.brand_name}</h2>
-            <p>{categoryLabel(institution.primary_category)}</p>
+            <h2>{displayName}</h2>
+            <p>{getCategorySummary(categories)}</p>
           </div>
           <button className="close-button" type="button" onClick={onClose} aria-label="Close details" title="Close">×</button>
         </header>
 
-        {logo.svg ? (
-          <div className="detail-preview" dangerouslySetInnerHTML={{ __html: logo.svg }} />
-        ) : (
-          <div className="detail-preview"><img src={previewUrl(logo)} alt="" /></div>
-        )}
+        <div className="detail-media">
+          <div className="format-picker" aria-label="Download format">
+            {logo.formats.map((format) => {
+              const FormatIcon = formatIcons[format.type];
+              const label = format.type.toUpperCase();
+              return (
+                <button
+                  key={format.type}
+                  type="button"
+                  className={selectedFormat === format.type ? "active" : ""}
+                  onClick={() => onFormatChange(format.type)}
+                  aria-label={`Select ${label} format`}
+                  aria-pressed={selectedFormat === format.type}
+                  title={label}
+                >
+                  <FormatIcon aria-hidden="true" size={15} strokeWidth={1.8} />
+                  <span>{label}</span>
+                </button>
+              );
+            })}
+          </div>
+          {logo.svg ? (
+            <div className={`detail-preview${darkPreviewSlugs.has(logo.slug) ? " logo-preview-dark" : ""}`} dangerouslySetInnerHTML={{ __html: logo.svg }} />
+          ) : (
+            <div className={`detail-preview${darkPreviewSlugs.has(logo.slug) ? " logo-preview-dark" : ""}`}><img src={previewUrl(logo)} alt="" /></div>
+          )}
+        </div>
 
         <dl className="detail-facts">
           <div>
@@ -598,34 +707,26 @@ function DetailSheet({
             <dd>{formatDate(logo.added_at)}</dd>
           </div>
           <div className="source-row">
-            <dt>Official brand source</dt>
-            <dd><a href={sourceUrl} target="_blank" rel="noreferrer">{getSourceDomain(sourceUrl)}</a></dd>
+            <dt>Official website</dt>
+            <dd>
+              <a href={websiteUrl} target="_blank" rel="noreferrer" title={`Visit ${displayName} website`}>
+                {getSourceDomain(websiteUrl)}
+              </a>
+            </dd>
           </div>
         </dl>
 
-        <div
-          className="format-picker"
-          aria-label="Download format"
-          style={{ gridTemplateColumns: `repeat(${logo.formats.length}, minmax(0, 1fr))` }}
-        >
-          {logo.formats.map((format) => (
-            <button
-              key={format.type}
-              type="button"
-              className={selectedFormat === format.type ? "active" : ""}
-              onClick={() => onFormatChange(format.type)}
-              aria-pressed={selectedFormat === format.type}
-            >
-              {format.type.toUpperCase()}
-            </button>
-          ))}
-        </div>
         <div className={`detail-actions${logo.svg ? "" : " single"}`}>
           <button className="download-button" type="button" onClick={() => onDownload(logo, selectedFormat)}>
             Download {selectedFormat.toUpperCase()}
           </button>
           {logo.svg ? (
-            <button className="insert-button" type="button" onClick={() => onInsert(logo)}>Insert {logo.name}</button>
+            <>
+              <button className="copy-button" type="button" onClick={() => onCopySvg(logo)}>
+                <Copy aria-hidden="true" size={15} strokeWidth={1.8} /> Copy SVG
+              </button>
+              <button className="insert-button" type="button" onClick={() => onInsert(logo)}>Insert {displayName}</button>
+            </>
           ) : null}
         </div>
       </aside>

@@ -5,7 +5,10 @@ import { logos, type LogoWithSvg } from "./logo-data";
 
 export type CatalogItem = {
   institution: Institution;
+  institutions: Institution[];
   logo: LogoWithSvg;
+  displayName: string;
+  categories: InstitutionCategory[];
 };
 
 const institutions = institutionsJson as Institution[];
@@ -21,24 +24,57 @@ const categoryOverrides: Partial<Record<InstitutionCategory, string>> = {
   "remittance-imto": "Remittance / IMTO",
   "switching-processing": "Switching / processing"
 };
+const commonBrandNames: Record<string, string> = {
+  "cordros-insurance-brokers": "Cordros Insurance Brokers",
+  "custodian-and-allied-insurance": "Custodian",
+  "fairmoney-microfinance-bank": "FairMoney",
+  "kiakia-bits": "KiaKia",
+  "palmpay": "PalmPay",
+  "pagatech": "Paga",
+  "renmoney-microfinance-bank": "Renmoney",
+  "vfd-microfinance-bank": "VBank"
+};
 
-export const catalogItems: CatalogItem[] = institutions.flatMap((institution) => {
+const institutionsByLogo = new Map<string, Institution[]>();
+for (const institution of institutions) {
   const logoSlug = institution.logo_slug ?? institutionLogoLinks[institution.slug] ??
     (logosBySlug.has(institution.slug) ? institution.slug : undefined);
-  const logo = logoSlug ? logosBySlug.get(logoSlug) : undefined;
-  if (!logo) return [];
-  return [{
-    institution,
-    logo
-  }];
-}).sort((a, b) => a.institution.brand_name.localeCompare(b.institution.brand_name));
+  if (!logoSlug || !logosBySlug.has(logoSlug)) continue;
+  institutionsByLogo.set(logoSlug, [...(institutionsByLogo.get(logoSlug) ?? []), institution]);
+}
+
+export const catalogItems: CatalogItem[] = [...institutionsByLogo.entries()].map(([logoSlug, groupedInstitutions]) => {
+  const logo = logosBySlug.get(logoSlug)!;
+  const displayName = commonBrandNames[logoSlug] ?? logo.name;
+  const representative = [...groupedInstitutions].sort((a, b) =>
+    nameDistance(a.brand_name, displayName) - nameDistance(b.brand_name, displayName)
+  )[0];
+  return {
+    institution: representative,
+    institutions: groupedInstitutions,
+    logo,
+    displayName,
+    categories: [...new Set(groupedInstitutions.flatMap((institution) => institution.categories))]
+  };
+}).sort((a, b) => a.displayName.localeCompare(b.displayName));
 
 export const availableLogoCount = catalogItems.length;
 export const canonicalLogoCount = logos.length;
 
 export const availableInstitutionCategories = [...new Set(
-  catalogItems.flatMap((item) => item.institution.categories)
+  catalogItems.flatMap((item) => item.categories)
 )].sort((a, b) => categoryLabel(a).localeCompare(categoryLabel(b)));
+
+function nameDistance(name: string, displayName: string): number {
+  const normalize = (value: string) => value.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const normalizedName = normalize(name);
+  const normalizedDisplayName = normalize(displayName);
+  if (normalizedName === normalizedDisplayName) return 0;
+  if (normalizedName.includes(normalizedDisplayName) || normalizedDisplayName.includes(normalizedName)) {
+    return Math.abs(normalizedName.length - normalizedDisplayName.length) + 1;
+  }
+  return normalizedName.length + normalizedDisplayName.length;
+}
 
 export function categoryLabel(category: InstitutionCategory): string {
   return categoryOverrides[category] ?? category

@@ -208,7 +208,187 @@
   {
     "institution_slug": "zenith-bank",
     "candidate_path": "nigeria-logos-candidates/zenith-bank/zenith_bank.svg",
-    "source_url": "https://www.zenithbank.com/",
+    "source_url": "https://selfservice.zenithbank.com/logo.gif",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "palmpay",
+    "candidate_path": "official-candidates/palmpay/palmpay.png",
+    "website": "https://www.palmpay.com/",
+    "source_url": "https://www.palmpay.com/_next/static/media/logo.0wv~imdq~cwkl.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "fairmoney-microfinance-bank",
+    "candidate_path": "official-candidates/fairmoney-microfinance-bank/fairmoney.png",
+    "website": "https://fairmoney.io/",
+    "source_url": "https://fairmoney.io/assets/fairmoney-logo-DR-jkARz.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "vfd-microfinance-bank",
+    "candidate_path": "official-candidates/vfd-microfinance-bank/vbank.jpg",
+    "website": "https://vbank.ng/",
+    "source_url": "https://play.google.com/store/apps/details?id=com.vfd.app",
+    "source_type": "other-official",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "central-bank-of-nigeria",
+    "candidate_path": "official-candidates/central-bank-of-nigeria/cbn.png",
+    "website": "https://www.cbn.gov.ng/",
+    "source_url": "https://www.cbn.gov.ng/images/CBN_Logo_Wordmark.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "securities-and-exchange-commission-nigeria",
+    "candidate_path": "official-candidates/securities-and-exchange-commission-nigeria/sec.svg",
+    "website": "https://sec.gov.ng/",
+    "source_url": "https://sec.gov.ng/static/icons/logo.svg",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "nigeria-deposit-insurance-corporation",
+    "candidate_path": "official-candidates/nigeria-deposit-insurance-corporation/ndic.png",
+    "website": "https://ndic.gov.ng/",
+    "source_url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo_v2.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "federal-competition-and-consumer-protection-commission",
+    "candidate_path": "official-candidates/federal-competition-and-consumer-protection-commission/fccpc.png",
+    "website": "https://fccpc.gov.ng/",
+    "source_url": "https://fccpc.gov.ng/wp-content/uploads/2022/07/transparent-bg-min.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "national-insurance-commission",
+    "candidate_path": "official-candidates/national-insurance-commission/naicom.png",
+    "website": "https://naicom.gov.ng/",
+    "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "investnow",
+    "candidate_path": "official-candidates/investnow/investnow.svg",
+    "website": "https://www.investnow.ng/",
+    "source_url": "https://www.investnow.ng/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "piggyvest",
+    "candidate_path": "official-candidates/piggyvest/piggyvest.svg",
+    "website": "https://www.piggyvest.com/",
+    "source_url": "https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "risevest",
+    "candidate_path": "official-candidates/risevest/risevest.svg",
+    "website": "https://www.risevest.com/",
+    "source_url": "https://www.risevest.com/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "trove-finance",
+    "candidate_path": "official-candidates/trove-finance/trove.png",
+    "website": "https://www.trovefinance.com/",
+    "source_url": "https://www.trovefinance.com/wp-content/uploads/2022/07/Trove-logo.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "union-bank-of",
+    "candidate_path": "official-candidates/union-bank-of/union-bank.png",
+    "website": "https://www.unionbankng.com/",
+    "source_url": "https://www.unionbankng.com/wp-content/uploads/2026/04/UnionHorseLogo.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "signature-bank",
+    "candidate_path": "official-candidates/signature-bank/signature-bank.png",
+    "website": "https://signaturebankng.com/",
+    "source_url": "https://cba.signaturebankng.com/assets/images/single-logo.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "meristem-securities",
+    "candidate_path": "official-candidates/meristem-securities/meristem.png",
+    "website": "https://stockbroking.meristemng.com/",
+    "source_url": "https://stockbroking.meristemng.com/_next/static/media/meristem%20logos%202.a03e6543.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "cardinalstone-securities",
+    "candidate_path": "official-candidates/cardinalstone-securities/cardinalstone.png",
+    "website": "https://cardinalstonesecurities.com/",
+    "source_url": "https://www.cardinalstone.com/wp-content/uploads/2019/09/cardinalstone-logo.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "chapel-hill-denham",
+    "candidate_path": "official-candidates/chapel-hill-denham/chapel-hill-denham.png",
+    "website": "https://chapelhilldenham.com/",
+    "source_url": "https://chapelhilldenham.com/wp-content/uploads/2024/04/chapel-hill-denham-logo-retina-white-version.png",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "afrinvest-securities",
+    "candidate_path": "official-candidates/afrinvest-securities/afrinvest.svg",
+    "website": "https://www.afrinvest.com/",
+    "source_url": "https://afrinvest.com/wp-content/uploads/2024/10/logo-full.svg",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "arm-securities",
+    "candidate_path": "official-candidates/arm-securities/arm.webp",
+    "website": "https://www.arm.com.ng/securities/",
+    "source_url": "https://www.arm.com.ng/wp-content/uploads/2021/07/securities-logo.webp",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "cordros-securities",
+    "candidate_path": "official-candidates/cordros-securities/cordros.png",
+    "website": "https://cordros.com/",
+    "source_url": "https://cordros.com/_next/static/media/capital-logo.1ezr-1cy8xqkf.png",
     "source_type": "official-website",
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14"
