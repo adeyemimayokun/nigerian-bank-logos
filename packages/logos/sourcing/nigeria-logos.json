@@ -1,0 +1,530 @@
+{
+  "generated_at": "2026-07-14T01:29:33.740Z",
+  "source": {
+    "website": "https://nigerialogos.com",
+    "dataset": "https://nigerialogos.com/logos.json",
+    "repository": "https://github.com/PaystackHQ/nigerialogos",
+    "license": "MIT",
+    "note": "Nigeria Logos is a third-party discovery source. Logo trademarks remain owned by their respective institutions."
+  },
+  "policy": "These files are review candidates only. Do not add them to the approved catalog until the artwork is confirmed on an institution-owned official source.",
+  "summary": {
+    "source_entries": 202,
+    "institutions": 1676,
+    "accepted_logos": 106,
+    "pending_institutions": 1561,
+    "matched_institutions": 17,
+    "downloaded_files": 34,
+    "download_failures": 0,
+    "ambiguous_source_entries": 0
+  },
+  "entries": [
+    {
+      "institution_slug": "abeg-technologies",
+      "brand_name": "Abeg Technologies",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "Abeg",
+      "source_filename": "abeg",
+      "source_categories": [
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.abeg.app/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/abeg/abeg.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/abeg-technologies/abeg.svg",
+          "sha256": "5d473c58e6ad1687a65207af95c642b10d956775d3ebde4afa8dc418a7437aeb"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/abeg/abeg.png",
+          "local_path": "sourcing/nigeria-logos-candidates/abeg-technologies/abeg.png",
+          "sha256": "7d67b1b7579a6a244b53f75c870024286c84d3ba59176a889502b05884588bcf"
+        }
+      ]
+    },
+    {
+      "institution_slug": "access-bank",
+      "brand_name": "Access Bank",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Access Bank PLC",
+      "source_filename": "access_bank",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.accessbankplc.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/access_bank/access_bank.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/access-bank/access_bank.svg",
+          "sha256": "88f03b295546b6489be269060af50d955a40b8ee2177bff687992bcd10a3c77e"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/access_bank/access_bank.png",
+          "local_path": "sourcing/nigeria-logos-candidates/access-bank/access_bank.png",
+          "sha256": "bafd9c8086fb73fe2e6ef3c3712adc9f10ab87aefcf9dfbfc2a08cb2abc5b654"
+        }
+      ]
+    },
+    {
+      "institution_slug": "axa-mansard-insurance",
+      "brand_name": "AXA Mansard Insurance",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "AXA Mansard",
+      "source_filename": "axa_mansard",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.axamansard.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/axa_mansard/axa_mansard.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/axa-mansard-insurance/axa_mansard.svg",
+          "sha256": "7f9c2b6350b8d40f1cfabbd6340766d7692ecc5a41c50b11dceb2bf87faf421a"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/axa_mansard/axa_mansard.png",
+          "local_path": "sourcing/nigeria-logos-candidates/axa-mansard-insurance/axa_mansard.png",
+          "sha256": "f07ca4523529b5e0ce5b2de87444eb293eafd518c1bbb9a632596f91c9a669f7"
+        }
+      ]
+    },
+    {
+      "institution_slug": "busha-digital",
+      "brand_name": "Busha",
+      "verification_status": "officially-verified",
+      "regulatory_status": "approval-in-principle",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Busha",
+      "source_filename": "busha",
+      "source_categories": [
+        "Cryptocurrency"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://busha.co/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/busha/busha.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/busha-digital/busha.svg",
+          "sha256": "fb3b12ef00df028cb51eaf44978e9985cdd60512f4945494f53b3dbe158f6dca"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/busha/busha.png",
+          "local_path": "sourcing/nigeria-logos-candidates/busha-digital/busha.png",
+          "sha256": "8526ef467e40ba8fa04cd07d41e82beae95b8bf5cf0e57a02925845551eb89b3"
+        }
+      ]
+    },
+    {
+      "institution_slug": "ecobank",
+      "brand_name": "Ecobank",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Ecobank",
+      "source_filename": "ecobank",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://ecobank.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/ecobank/ecobank.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/ecobank/ecobank.svg",
+          "sha256": "1d79e46f3dc40702c072ce6bca488c38ec3ccdff9549223654f0e985b2b52978"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/ecobank/ecobank.png",
+          "local_path": "sourcing/nigeria-logos-candidates/ecobank/ecobank.png",
+          "sha256": "96b8985a42d536eeed956afe0b0071e9aee3f99e91e2866b24f0d352a047859f"
+        }
+      ]
+    },
+    {
+      "institution_slug": "ekondo-microfinance-bank",
+      "brand_name": "EK-PAY",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Ekondo Microfinance Bank",
+      "source_filename": "ekondo_microfinance_bank",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "http://www.ekondomfbank.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/ekondo_microfinance_bank/ekondo_microfinance_bank.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/ekondo-microfinance-bank/ekondo_microfinance_bank.svg",
+          "sha256": "ba07cf69dbe8d3cc8a015117b3efc4f9a2657d2c4b7a9bf6acd4228a99e760fd"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/ekondo_microfinance_bank/ekondo_microfinance_bank.png",
+          "local_path": "sourcing/nigeria-logos-candidates/ekondo-microfinance-bank/ekondo_microfinance_bank.png",
+          "sha256": "cce50a2dc6a8a26528cc869193a1e4d4e78bd089e823e9027c1df16127769e8f"
+        }
+      ]
+    },
+    {
+      "institution_slug": "xtra-mfs",
+      "brand_name": "EXTRA CASH",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Quickteller",
+      "source_filename": "quickteller",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.quickteller.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/quickteller/quickteller.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/xtra-mfs/quickteller.svg",
+          "sha256": "26dba8735e16b0fa63d414821cc4d4e09ffc875dc03ddac12fae595da4cf5cdd"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/quickteller/quickteller.png",
+          "local_path": "sourcing/nigeria-logos-candidates/xtra-mfs/quickteller.png",
+          "sha256": "f8a2710cf8a3fa1d1183f8e6064e7c52b4a0234ac45c65ab8226f388f41829b6"
+        }
+      ]
+    },
+    {
+      "institution_slug": "fincra-technologies",
+      "brand_name": "Fincra Technologies",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "Fincra",
+      "source_filename": "fincra",
+      "source_categories": [
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://fincra.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/fincra/fincra.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/fincra-technologies/fincra.svg",
+          "sha256": "1b8c7f29b7ad08354ee6b6521d715808d0c188eaa165060ac676136796d8df0d"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/fincra/fincra.png",
+          "local_path": "sourcing/nigeria-logos-candidates/fincra-technologies/fincra.png",
+          "sha256": "1744acb36025b53a7666809d8cefce48f27bfb952b079e1f35265926d4e883c8"
+        }
+      ]
+    },
+    {
+      "institution_slug": "first-city-monument-bank",
+      "brand_name": "First City Monument Bank",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "First City Monument Bank Ltd",
+      "source_filename": "fcmb",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.fcmb.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/fcmb/fcmb.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/first-city-monument-bank/fcmb.svg",
+          "sha256": "6bb01dad1b12cbd8beb6260d5efa566ea3594afecd32b8bf74eeb25293bf0528"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/fcmb/fcmb.png",
+          "local_path": "sourcing/nigeria-logos-candidates/first-city-monument-bank/fcmb.png",
+          "sha256": "6c166830e64920863f522619dafca528adcd9daf0f2f21afb40bb799e6c3a43e"
+        }
+      ]
+    },
+    {
+      "institution_slug": "guaranty-trust-bank",
+      "brand_name": "Guaranty Trust Bank",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Guaranty Trust Bank",
+      "source_filename": "guaranty_trust_bank",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.gtbank.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/guaranty_trust_bank/guaranty_trust_bank.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/guaranty-trust-bank/guaranty_trust_bank.svg",
+          "sha256": "98e7381dc6a8c829a03a67ed74a90342a17c5161b0eeda9091d06bd07093e1ab"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/guaranty_trust_bank/guaranty_trust_bank.png",
+          "local_path": "sourcing/nigeria-logos-candidates/guaranty-trust-bank/guaranty_trust_bank.png",
+          "sha256": "e701308ca07c05c2e1c461d923774cfc8092c866276a7c4a4e72b703958b6c36"
+        }
+      ]
+    },
+    {
+      "institution_slug": "hervest-for-women",
+      "brand_name": "HERVEST",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "HerVest",
+      "source_filename": "hervest",
+      "source_categories": [
+        "Agritech",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://hervest.ng",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/hervest/hervest.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/hervest-for-women/hervest.svg",
+          "sha256": "a1780ee3a0ab0c685cc180dc661f757df1a2266fb30dbfdc659b3bdfb81fdfbd"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/hervest/hervest.png",
+          "local_path": "sourcing/nigeria-logos-candidates/hervest-for-women/hervest.png",
+          "sha256": "17f26b57a14bf88102c9d679b107a1e6704af39774192155515a75ff0f8013cd"
+        }
+      ]
+    },
+    {
+      "institution_slug": "okra-technologies",
+      "brand_name": "Okra Technologies",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "Okra",
+      "source_filename": "okra",
+      "source_categories": [
+        "Financial Services",
+        "Software"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://okra.ng/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/okra/okra.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/okra-technologies/okra.svg",
+          "sha256": "cfd42eb06fecfde324dc796f9be28b0b0a1d079166960f8350100f036b2e8c41"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/okra/okra.png",
+          "local_path": "sourcing/nigeria-logos-candidates/okra-technologies/okra.png",
+          "sha256": "c76772830d8e3506178ab57619f8fb3bf2fef55fe953a0b6fb06d683bb0664b4"
+        }
+      ]
+    },
+    {
+      "institution_slug": "onepipe-io-services",
+      "brand_name": "Onepipe.Io Services",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "OnePipe",
+      "source_filename": "onepipe",
+      "source_categories": [
+        "Software",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.onepipe.io/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/onepipe/onepipe.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/onepipe-io-services/onepipe.svg",
+          "sha256": "980e0624ff921721727984f5cc7c97c7d49a2579e75ddd1467d545d9d5b64e95"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/onepipe/onepipe.png",
+          "local_path": "sourcing/nigeria-logos-candidates/onepipe-io-services/onepipe.png",
+          "sha256": "1704c520c43119719d3c4d71289383ef1222121bb907e16637ebed522e562bff"
+        }
+      ]
+    },
+    {
+      "institution_slug": "paystack-payment",
+      "brand_name": "Paystack Payment",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "generic-legal-suffix",
+      "source_title": "Paystack",
+      "source_filename": "paystack",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://paystack.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/paystack/paystack.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/paystack-payment/paystack.svg",
+          "sha256": "a288a39e40e7a4b6d0c0a89fd53161a9511dbd8d140876ae8a7e71434a266e78"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/paystack/paystack.png",
+          "local_path": "sourcing/nigeria-logos-candidates/paystack-payment/paystack.png",
+          "sha256": "e5bcda1e3f748523bbb5e77810b31dc126ce13b089ba38140d1a6ed932d03170"
+        }
+      ]
+    },
+    {
+      "institution_slug": "quidax-technologies",
+      "brand_name": "Quidax",
+      "verification_status": "officially-verified",
+      "regulatory_status": "approval-in-principle",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Quidax",
+      "source_filename": "quidax",
+      "source_categories": [
+        "Cryptocurrency"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.quidax.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/quidax/quidax.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/quidax-technologies/quidax.svg",
+          "sha256": "902009c00dd6db1e80105dc72f30824941220710a806dc4bd8827d3877a24154"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/quidax/quidax.png",
+          "local_path": "sourcing/nigeria-logos-candidates/quidax-technologies/quidax.png",
+          "sha256": "db5585425f9496ee844316424b826b798147f2444772512115ef3542bf0cbb38"
+        }
+      ]
+    },
+    {
+      "institution_slug": "united-bank-for-africa",
+      "brand_name": "United Bank for Africa",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "United Bank for Africa",
+      "source_filename": "united_bank_for_africa",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.ubagroup.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/united_bank_for_africa/united_bank_for_africa.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/united-bank-for-africa/united_bank_for_africa.svg",
+          "sha256": "370bc9fcfe17184c7783e73daca79b0334dc0906cbd3da0e9cb07e242e4bb33c"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/united_bank_for_africa/united_bank_for_africa.png",
+          "local_path": "sourcing/nigeria-logos-candidates/united-bank-for-africa/united_bank_for_africa.png",
+          "sha256": "e9334d754d7384f4e474bb24c55fd54ead8cd26b3f81d540d2996e012b6480a0"
+        }
+      ]
+    },
+    {
+      "institution_slug": "zenith-bank",
+      "brand_name": "Zenith Bank",
+      "verification_status": "officially-verified",
+      "regulatory_status": "active",
+      "match_basis": "exact-name-or-alias",
+      "source_title": "Zenith Bank",
+      "source_filename": "zenith_bank",
+      "source_categories": [
+        "Banking",
+        "Financial Services"
+      ],
+      "source_page": "https://nigerialogos.com",
+      "official_website_hint": "https://www.zenithbank.com/",
+      "status": "needs-official-source",
+      "candidate_assets": [
+        {
+          "format": "svg",
+          "source_url": "https://nigerialogos.com/logos/zenith_bank/zenith_bank.svg",
+          "local_path": "sourcing/nigeria-logos-candidates/zenith-bank/zenith_bank.svg",
+          "sha256": "eca5427e24d70e620048fca18d33a26d3441696e76b24392aa77e929fe47e39d"
+        },
+        {
+          "format": "png",
+          "source_url": "https://nigerialogos.com/logos/zenith_bank/zenith_bank.png",
+          "local_path": "sourcing/nigeria-logos-candidates/zenith-bank/zenith_bank.png",
+          "sha256": "ac13d9a69dbe5baf0f3cc5d9b72793a3e8d6a8700f57eb7981b8d8fb5196b3e9"
+        }
+      ]
+    }
+  ],
+  "ambiguous": []
+}

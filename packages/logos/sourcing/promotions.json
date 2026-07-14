@@ -93,7 +93,12 @@
   { "institution_slug": "pagatech", "candidate_path": "candidates/pagatech-01.png" },
   { "institution_slug": "remita-payment-service", "candidate_path": "candidates/remita-payment-service-01.svg" },
   { "institution_slug": "renmoney-microfinance-bank", "candidate_path": "candidates/renmoney-microfinance-bank-01.svg" },
-  { "institution_slug": "sycamore-integrated-solutions", "candidate_path": "candidates/sycamore-integrated-solutions-01.svg" },
+  {
+    "institution_slug": "sycamore-integrated-solutions",
+    "candidate_path": "candidates/sycamore-integrated-solutions-01.svg",
+    "source_url": "https://www.sycamore.ng/press",
+    "source_type": "official-brand-page"
+  },
   { "institution_slug": "bamboo-system-technology", "candidate_path": "candidates/bamboo-system-technology-01.svg" },
   { "institution_slug": "ckk-insurance-brokers", "candidate_path": "candidates/ckk-insurance-brokers-01.png" },
   { "institution_slug": "cordros-insurance-brokers", "candidate_path": "candidates/cordros-insurance-brokers-01.png" },
@@ -101,5 +106,111 @@
   { "institution_slug": "nova-bank", "candidate_path": "candidates/nova-bank-01.png" },
   { "institution_slug": "premiumtrust-bank", "candidate_path": "candidates/premiumtrust-bank-01.svg" },
   { "institution_slug": "stanbic-ibtc-bank", "candidate_path": "candidates/stanbic-ibtc-bank-01.png" },
-  { "institution_slug": "stanbic-ibtc-holdings", "candidate_path": "candidates/stanbic-ibtc-holdings-01.png" }
+  { "institution_slug": "stanbic-ibtc-holdings", "candidate_path": "candidates/stanbic-ibtc-holdings-01.png" },
+  {
+    "institution_slug": "busha-digital",
+    "candidate_path": "candidates/busha-digital-02.svg",
+    "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "quidax-technologies",
+    "candidate_path": "candidates/quidax-technologies-01.svg",
+    "website": "https://www.quidax.io/",
+    "source_url": "https://nynm-quidax-strapi.s3.amazonaws.com/quidax_logo_0b49871396.svg",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "access-bank",
+    "candidate_path": "nigeria-logos-candidates/access-bank/access_bank.svg",
+    "source_url": "https://www.accessbankplc.com/access-more",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "axa-mansard-insurance",
+    "candidate_path": "nigeria-logos-candidates/axa-mansard-insurance/axa_mansard.svg",
+    "source_url": "https://www.axamansard.com/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "ecobank",
+    "candidate_path": "nigeria-logos-candidates/ecobank/ecobank.svg",
+    "source_url": "https://www.ecobank.com/ng/personal-banking",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "fincra-technologies",
+    "candidate_path": "nigeria-logos-candidates/fincra-technologies/fincra.svg",
+    "website": "https://fincra.com/",
+    "source_url": "https://blog.fincra.com/building-our-brand-fincras-creative-digital-style/",
+    "source_type": "official-brand-page",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "first-city-monument-bank",
+    "candidate_path": "nigeria-logos-candidates/first-city-monument-bank/fcmb.svg",
+    "source_url": "https://www.fcmb.com/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "guaranty-trust-bank",
+    "candidate_path": "nigeria-logos-candidates/guaranty-trust-bank/guaranty_trust_bank.svg",
+    "source_url": "https://www.gtbank.com/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "hervest-for-women",
+    "candidate_path": "nigeria-logos-candidates/hervest-for-women/hervest.svg",
+    "source_url": "https://hervest.ng/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "onepipe-io-services",
+    "candidate_path": "nigeria-logos-candidates/onepipe-io-services/onepipe.svg",
+    "source_url": "https://www.onepipe.io/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "paystack-payment",
+    "candidate_path": "nigeria-logos-candidates/paystack-payment/paystack.svg",
+    "source_url": "https://paystack.com/assets/website/downloads/paystack-visual-identity.pdf",
+    "source_type": "verified-pdf",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "united-bank-for-africa",
+    "candidate_path": "nigeria-logos-candidates/united-bank-for-africa/united_bank_for_africa.svg",
+    "source_url": "https://www.ubagroup.com/the-brand/",
+    "source_type": "official-brand-page",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  },
+  {
+    "institution_slug": "zenith-bank",
+    "candidate_path": "nigeria-logos-candidates/zenith-bank/zenith_bank.svg",
+    "source_url": "https://www.zenithbank.com/",
+    "source_type": "official-website",
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14"
+  }
 ]

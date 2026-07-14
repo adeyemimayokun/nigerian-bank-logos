@@ -1,6 +1,9 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useLayoutEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import {
+  ArrowDownToLine,
+  ArrowUp,
+  ArrowUpRight,
   BadgeDollarSign,
   BriefcaseBusiness,
   Building2,
@@ -9,6 +12,8 @@ import {
   Landmark,
   Layers3,
   LayoutGrid,
+  Monitor,
+  Moon,
   Network,
   RadioTower,
   RefreshCw,
@@ -16,6 +21,7 @@ import {
   Send,
   ShieldCheck,
   Smartphone,
+  Sun,
   WalletCards,
   X,
   type LucideIcon
@@ -25,6 +31,7 @@ import type { InstitutionCategory } from "@nigerian-bank-logos/institutions";
 import {
   availableInstitutionCategories,
   availableLogoCount,
+  canonicalLogoCount,
   catalogItems,
   categoryLabel,
   type CatalogItem
@@ -36,7 +43,11 @@ type PluginMessage =
   | { type: "inserted"; name: string }
   | { type: "error"; message: string };
 
+type ProjectPanel = "contribute" | "trademarks";
+type ThemeMode = "system" | "light" | "dark";
+
 const PAGE_SIZE = 48;
+const THEME_STORAGE_KEY = "nigerian-bank-logos-theme";
 const categoryIcons: Partial<Record<InstitutionCategory, LucideIcon>> = {
   "commercial-bank": Landmark,
   "development-finance-institution": Building2,
@@ -96,6 +107,16 @@ function previewUrl(logo: LogoWithSvg) {
   return logo.asset_urls.png ?? logo.asset_urls.webp ?? logo.asset_urls.jpeg;
 }
 
+function getInitialTheme(): ThemeMode {
+  try {
+    const storedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+    if (storedTheme === "light" || storedTheme === "dark" || storedTheme === "system") return storedTheme;
+  } catch {
+    // Figma or browser privacy settings may disable storage.
+  }
+  return "system";
+}
+
 function App() {
   const [query, setQuery] = useState("");
   const [selectedCategories, setSelectedCategories] = useState<InstitutionCategory[]>([]);
@@ -103,6 +124,27 @@ function App() {
   const [selectedFormat, setSelectedFormat] = useState<LogoFormatType>("svg");
   const [visibleLimit, setVisibleLimit] = useState(PAGE_SIZE);
   const [toast, setToast] = useState("");
+  const [projectPanel, setProjectPanel] = useState<ProjectPanel | null>(null);
+  const [themeMode, setThemeMode] = useState<ThemeMode>(getInitialTheme);
+
+  useLayoutEffect(() => {
+    const systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
+    const applyTheme = () => {
+      const resolvedTheme = themeMode === "system" ? (systemTheme.matches ? "dark" : "light") : themeMode;
+      document.documentElement.dataset.theme = resolvedTheme;
+      document.documentElement.dataset.themeMode = themeMode;
+    };
+
+    applyTheme();
+    if (themeMode === "system") systemTheme.addEventListener("change", applyTheme);
+    try {
+      localStorage.setItem(THEME_STORAGE_KEY, themeMode);
+    } catch {
+      // Keep the active session theme when persistence is unavailable.
+    }
+
+    return () => systemTheme.removeEventListener("change", applyTheme);
+  }, [themeMode]);
 
   useEffect(() => {
     function handlePluginMessage(event: MessageEvent<{ pluginMessage?: PluginMessage }>) {
@@ -116,7 +158,10 @@ function App() {
 
   useEffect(() => {
     function closeOnEscape(event: KeyboardEvent) {
-      if (event.key === "Escape") setSelectedItem(null);
+      if (event.key === "Escape") {
+        setSelectedItem(null);
+        setProjectPanel(null);
+      }
     }
     window.addEventListener("keydown", closeOnEscape);
     return () => window.removeEventListener("keydown", closeOnEscape);
@@ -147,6 +192,47 @@ function App() {
     setSelectedCategories((current) => current.includes(category)
       ? current.filter((value) => value !== category)
       : [...current, category]);
+  }
+
+  function resetCatalog() {
+    setQuery("");
+    setSelectedCategories([]);
+    setVisibleLimit(PAGE_SIZE);
+    setProjectPanel(null);
+    requestAnimationFrame(() => {
+      document.getElementById("catalog-results")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  }
+
+  function downloadCatalog() {
+    const data = catalogItems.map(({ institution, logo }) => ({
+      name: institution.brand_name,
+      slug: institution.slug,
+      category: institution.primary_category,
+      aliases: institution.aliases,
+      website: logo.website,
+      source_url: logo.source_url,
+      formats: logo.formats.map((format) => format.type),
+      added_at: logo.added_at
+    }));
+    const url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 2)], { type: "application/json" }));
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "nigerian-financial-logo-catalog.json";
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+    setToast("Catalog JSON downloaded");
+  }
+
+  async function copySourcingCommand() {
+    try {
+      await navigator.clipboard.writeText("pnpm logos:source");
+      setToast("Sourcing command copied");
+    } catch {
+      setToast("Run pnpm logos:source to prepare logo candidates");
+    }
   }
 
   function downloadLogo(logo: LogoWithSvg, formatType: LogoFormatType) {
@@ -180,9 +266,40 @@ function App() {
             <small>Open source financial brand directory</small>
           </div>
         </div>
-        <span className="asset-count" title={`${availableLogoCount} approved logos`}>
-          {catalogItems.length}
-        </span>
+        <div className="topbar-actions">
+          <div className="theme-toggle" role="group" aria-label="Color theme">
+            <button
+              type="button"
+              aria-label="Use system theme"
+              aria-pressed={themeMode === "system"}
+              title="System theme"
+              onClick={() => setThemeMode("system")}
+            >
+              <Monitor aria-hidden="true" size={14} strokeWidth={1.75} />
+            </button>
+            <button
+              type="button"
+              aria-label="Use light theme"
+              aria-pressed={themeMode === "light"}
+              title="Light theme"
+              onClick={() => setThemeMode("light")}
+            >
+              <Sun aria-hidden="true" size={14} strokeWidth={1.75} />
+            </button>
+            <button
+              type="button"
+              aria-label="Use dark theme"
+              aria-pressed={themeMode === "dark"}
+              title="Dark theme"
+              onClick={() => setThemeMode("dark")}
+            >
+              <Moon aria-hidden="true" size={14} strokeWidth={1.75} />
+            </button>
+          </div>
+          <span className="asset-count" title={`${availableLogoCount} approved logos`}>
+            {catalogItems.length}
+          </span>
+        </div>
       </header>
 
       <section className="catalog-intro">
@@ -253,7 +370,7 @@ function App() {
         </div>
       </section>
 
-      <div className="results-summary" aria-live="polite">
+      <div className="results-summary" id="catalog-results" aria-live="polite">
         <span>{filteredItems.length.toLocaleString("en-NG")} {filteredItems.length === 1 ? "result" : "results"}</span>
         <span>{availableLogoCount} approved logos</span>
       </div>
@@ -307,6 +424,52 @@ function App() {
         </>
       )}
 
+      <footer className="site-footer">
+        <nav className="footer-links" aria-label="Project links">
+          <button type="button" onClick={resetCatalog} title="Browse the complete logo catalog">
+            <ArrowUpRight aria-hidden="true" size={18} strokeWidth={1.6} />
+            <span>Browse all {availableLogoCount} logos</span>
+          </button>
+          <button type="button" onClick={downloadCatalog} title="Download catalog metadata as JSON">
+            <ArrowDownToLine aria-hidden="true" size={18} strokeWidth={1.6} />
+            <span>Download catalog JSON</span>
+          </button>
+          <button type="button" onClick={() => setProjectPanel("contribute")} aria-haspopup="dialog" title="Open the contribution guide">
+            <ArrowUpRight aria-hidden="true" size={18} strokeWidth={1.6} />
+            <span>Contribute a logo</span>
+          </button>
+          <button type="button" onClick={() => setProjectPanel("trademarks")} aria-haspopup="dialog" title="Read the trademark policy">
+            <ArrowUpRight aria-hidden="true" size={18} strokeWidth={1.6} />
+            <span>Trademark policy</span>
+          </button>
+        </nav>
+
+        <div className="footer-outro">
+          <button
+            className="back-to-top"
+            type="button"
+            aria-label="Back to top"
+            title="Back to top"
+            onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          >
+            <ArrowUp aria-hidden="true" size={30} strokeWidth={1.5} />
+          </button>
+          <div className="footer-copy">
+            <p className="footer-lead">Nigerian Bank Logos is a community-maintained collection for designers and developers.</p>
+            <p>Every asset is reviewed against an official source before it reaches the catalog. Code and tooling are MIT licensed; logo trademarks remain the property of their respective institutions.</p>
+            <div className="footer-actions">
+              <button type="button" onClick={downloadCatalog} title="Download catalog metadata as JSON">
+                <ArrowDownToLine aria-hidden="true" size={16} /> Download catalog
+              </button>
+              <button type="button" onClick={() => setProjectPanel("contribute")} aria-haspopup="dialog" title="Open the contribution guide">
+                <ArrowUpRight aria-hidden="true" size={16} /> Contribute a logo
+              </button>
+            </div>
+            <small>{availableLogoCount} institution listings · {canonicalLogoCount} canonical assets · Updated 14 July 2026</small>
+          </div>
+        </div>
+      </footer>
+
       {selectedItem ? (
         <DetailSheet
           item={selectedItem}
@@ -318,8 +481,72 @@ function App() {
         />
       ) : null}
 
+      {projectPanel ? (
+        <ProjectInfoSheet
+          panel={projectPanel}
+          onClose={() => setProjectPanel(null)}
+          onCopySourcingCommand={copySourcingCommand}
+        />
+      ) : null}
+
       {toast ? <div className="toast" role="status" onAnimationEnd={() => setToast("")}>{toast}</div> : null}
     </main>
+  );
+}
+
+function ProjectInfoSheet({
+  panel,
+  onClose,
+  onCopySourcingCommand
+}: {
+  panel: ProjectPanel;
+  onClose: () => void;
+  onCopySourcingCommand: () => void;
+}) {
+  const isContributionGuide = panel === "contribute";
+
+  return (
+    <div className="detail-backdrop project-backdrop" onMouseDown={onClose}>
+      <aside
+        className="detail-sheet project-sheet"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="project-sheet-title"
+        onMouseDown={(event) => event.stopPropagation()}
+      >
+        <div className="sheet-handle" aria-hidden="true" />
+        <header className="detail-header">
+          <div>
+            <span className="verified-label">Open source project</span>
+            <h2 id="project-sheet-title">{isContributionGuide ? "Contribute a logo" : "Trademark policy"}</h2>
+            <p>{isContributionGuide ? "Help keep the catalog accurate and current." : "Logo ownership and acceptable use."}</p>
+          </div>
+          <button className="close-button" type="button" onClick={onClose} aria-label="Close" title="Close">×</button>
+        </header>
+
+        <div className="project-sheet-content">
+          {isContributionGuide ? (
+            <>
+              <p>Only submit current artwork from an institution-owned website, official media kit, annual report, investor document, or another verifiable official source.</p>
+              <ol>
+                <li>Add the original SVG or raster file under <code>packages/logos/src</code>.</li>
+                <li>Add its metadata and official source URL to the logo catalog.</li>
+                <li>Generate available formats and run validation before opening a pull request.</li>
+              </ol>
+              <button className="project-sheet-action" type="button" onClick={onCopySourcingCommand}>
+                Copy sourcing command
+              </button>
+            </>
+          ) : (
+            <>
+              <p>Code, metadata, and project tooling are MIT licensed. Logo artwork is not included in that licence.</p>
+              <p>Each institution retains ownership of its trademarks. Using an asset from this catalog does not grant ownership or permission to imply endorsement, partnership, or affiliation.</p>
+              <p>Maintainers may remove artwork when its source cannot be verified, it becomes outdated, or its owner requests removal.</p>
+            </>
+          )}
+        </div>
+      </aside>
+    </div>
   );
 }
 

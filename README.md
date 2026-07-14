@@ -20,7 +20,7 @@ Initial verified seed:
 | OPay | Fintech | <https://gstatic.opayweb.com/website-ng/img/opay-logo.684aa98.svg> |
 | Flutterwave | Fintech | <https://flutterwave.com/images/logo/full.svg> |
 
-The catalog now contains 106 reviewed official logos. Coverage expands through an
+The catalog now contains 119 reviewed official logos. Coverage expands through an
 institution-driven sourcing queue. Raster sources are preserved and never traced
 or redrawn into SVG.
 
@@ -63,6 +63,17 @@ pnpm logos:source
 
 The command only updates `packages/logos/sourcing/queue.json`; it never accepts
 or replaces catalog artwork automatically.
+
+Import matching SVG and PNG review candidates from Nigeria Logos with:
+
+```bash
+pnpm logos:source:nigeria-logos
+```
+
+This writes a provenance report to `packages/logos/sourcing/nigeria-logos.json`
+and files to `packages/logos/sourcing/nigeria-logos-candidates`. Nigeria Logos is
+a third-party discovery source, so these candidates cannot enter the approved
+catalog until the artwork is confirmed on an institution-owned official source.
 
 If Corepack cannot write to your user cache, install pnpm directly and rerun the
 same commands.

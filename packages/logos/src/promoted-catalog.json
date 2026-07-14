@@ -3340,8 +3340,8 @@
       "SYCAMORE INTEGRATED SOLUTIONS LIMITED"
     ],
     "website": "https://www.sycamore.ng/",
-    "source_url": "https://res.cloudinary.com/dnbcoboei/image/upload/v1733306937/logo_ejpzns.svg",
-    "source_type": "official-website",
+    "source_url": "https://www.sycamore.ng/press",
+    "source_type": "official-brand-page",
     "source_path": "sources/sycamore-integrated-solutions.svg",
     "svg_path": "assets/sycamore-integrated-solutions.svg",
     "formats": [
@@ -3368,7 +3368,7 @@
       }
     ],
     "added_at": "2026-07-13",
-    "updated_at": "2026-07-13",
+    "updated_at": "2026-07-14",
     "status": "verified"
   },
   {
@@ -3640,6 +3640,517 @@
     ],
     "added_at": "2026-07-13",
     "updated_at": "2026-07-13",
+    "status": "verified"
+  },
+  {
+    "name": "Busha",
+    "slug": "busha-digital",
+    "category": "fintech",
+    "aliases": [
+      "Busha",
+      "Busha Digital Limited"
+    ],
+    "website": "https://busha.io/",
+    "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+    "source_type": "official-website",
+    "source_path": "sources/busha-digital.svg",
+    "svg_path": "assets/busha-digital.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/busha-digital.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/busha-digital.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/busha-digital.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Quidax",
+    "slug": "quidax-technologies",
+    "category": "fintech",
+    "aliases": [
+      "Quidax",
+      "Quidax Technologies Limited"
+    ],
+    "website": "https://www.quidax.io/",
+    "source_url": "https://nynm-quidax-strapi.s3.amazonaws.com/quidax_logo_0b49871396.svg",
+    "source_type": "official-website",
+    "source_path": "sources/quidax-technologies.svg",
+    "svg_path": "assets/quidax-technologies.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/quidax-technologies.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/quidax-technologies.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/quidax-technologies.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Access Bank",
+    "slug": "access-bank",
+    "category": "commercial-bank",
+    "aliases": [
+      "Access Bank Plc"
+    ],
+    "website": "https://www.accessbankplc.com/",
+    "source_url": "https://www.accessbankplc.com/access-more",
+    "source_type": "official-website",
+    "source_path": "sources/access-bank.svg",
+    "svg_path": "assets/access-bank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/access-bank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/access-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/access-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "AXA Mansard Insurance",
+    "slug": "axa-mansard-insurance",
+    "category": "other",
+    "aliases": [
+      "AXA Mansard Insurance plc",
+      "MIPL"
+    ],
+    "website": "https://axamansard.com/",
+    "source_url": "https://www.axamansard.com/",
+    "source_type": "official-website",
+    "source_path": "sources/axa-mansard-insurance.svg",
+    "svg_path": "assets/axa-mansard-insurance.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/axa-mansard-insurance.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/axa-mansard-insurance.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/axa-mansard-insurance.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Ecobank",
+    "slug": "ecobank",
+    "category": "commercial-bank",
+    "aliases": [
+      "Ecobank Nigeria Limited"
+    ],
+    "website": "https://www.ecobank.com/ng/personal-banking",
+    "source_url": "https://www.ecobank.com/ng/personal-banking",
+    "source_type": "official-website",
+    "source_path": "sources/ecobank.svg",
+    "svg_path": "assets/ecobank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/ecobank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/ecobank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/ecobank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Fincra Technologies",
+    "slug": "fincra-technologies",
+    "category": "other",
+    "aliases": [
+      "FINCRA TECHNOLOGIES LIMITED"
+    ],
+    "website": "https://fincra.com/",
+    "source_url": "https://blog.fincra.com/building-our-brand-fincras-creative-digital-style/",
+    "source_type": "official-brand-page",
+    "source_path": "sources/fincra-technologies.svg",
+    "svg_path": "assets/fincra-technologies.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/fincra-technologies.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/fincra-technologies.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/fincra-technologies.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "First City Monument Bank",
+    "slug": "first-city-monument-bank",
+    "category": "commercial-bank",
+    "aliases": [
+      "First City Monument Bank Limited"
+    ],
+    "website": "https://www.fcmb.com/",
+    "source_url": "https://www.fcmb.com/",
+    "source_type": "official-website",
+    "source_path": "sources/first-city-monument-bank.svg",
+    "svg_path": "assets/first-city-monument-bank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/first-city-monument-bank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/first-city-monument-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/first-city-monument-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Guaranty Trust Bank",
+    "slug": "guaranty-trust-bank",
+    "category": "commercial-bank",
+    "aliases": [
+      "Guaranty Trust Bank Limited"
+    ],
+    "website": "https://www.gtbank.com/",
+    "source_url": "https://www.gtbank.com/",
+    "source_type": "official-website",
+    "source_path": "sources/guaranty-trust-bank.svg",
+    "svg_path": "assets/guaranty-trust-bank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/guaranty-trust-bank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/guaranty-trust-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/guaranty-trust-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "HERVEST",
+    "slug": "hervest-for-women",
+    "category": "fintech",
+    "aliases": [
+      "HERVEST",
+      "HERVEST FOR WOMEN LIMITED"
+    ],
+    "website": "https://hervest.ng/",
+    "source_url": "https://hervest.ng/",
+    "source_type": "official-website",
+    "source_path": "sources/hervest-for-women.svg",
+    "svg_path": "assets/hervest-for-women.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/hervest-for-women.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/hervest-for-women.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/hervest-for-women.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Onepipe.Io Services",
+    "slug": "onepipe-io-services",
+    "category": "other",
+    "aliases": [
+      "Onepipe.Io Services Ltd"
+    ],
+    "website": "https://www.onepipe.io/",
+    "source_url": "https://www.onepipe.io/",
+    "source_type": "official-website",
+    "source_path": "sources/onepipe-io-services.svg",
+    "svg_path": "assets/onepipe-io-services.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/onepipe-io-services.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/onepipe-io-services.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/onepipe-io-services.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Paystack Payment",
+    "slug": "paystack-payment",
+    "category": "other",
+    "aliases": [
+      "Paystack Payment Limited"
+    ],
+    "website": "https://paystack.com/",
+    "source_url": "https://paystack.com/assets/website/downloads/paystack-visual-identity.pdf",
+    "source_type": "verified-pdf",
+    "source_path": "sources/paystack-payment.svg",
+    "svg_path": "assets/paystack-payment.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/paystack-payment.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/paystack-payment.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/paystack-payment.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "United Bank for Africa",
+    "slug": "united-bank-for-africa",
+    "category": "commercial-bank",
+    "aliases": [
+      "United Bank for Africa Plc"
+    ],
+    "website": "https://www.ubagroup.com/",
+    "source_url": "https://www.ubagroup.com/the-brand/",
+    "source_type": "official-brand-page",
+    "source_path": "sources/united-bank-for-africa.svg",
+    "svg_path": "assets/united-bank-for-africa.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/united-bank-for-africa.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/united-bank-for-africa.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/united-bank-for-africa.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
+    "status": "verified"
+  },
+  {
+    "name": "Zenith Bank",
+    "slug": "zenith-bank",
+    "category": "commercial-bank",
+    "aliases": [
+      "Zenith Bank Plc"
+    ],
+    "website": "https://www.zenithbank.com/",
+    "source_url": "https://www.zenithbank.com/",
+    "source_type": "official-website",
+    "source_path": "sources/zenith-bank.svg",
+    "svg_path": "assets/zenith-bank.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/zenith-bank.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/zenith-bank.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/zenith-bank.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-14",
+    "updated_at": "2026-07-14",
     "status": "verified"
   }
 ]

@@ -4,12 +4,17 @@ import { dirname, extname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { InstitutionCategory } from "../../institutions/src";
 import { institutions } from "../../institutions/src";
-import type { LogoCategory, LogoEntry, LogoFormat } from "../src/schema";
+import type { LogoCategory, LogoEntry, LogoFormat, SourceType } from "../src/schema";
 
 const packageRoot = join(dirname(fileURLToPath(import.meta.url)), "..");
 const promotions = JSON.parse(await readFile(join(packageRoot, "sourcing/promotions.json"), "utf8")) as Array<{
   institution_slug: string;
   candidate_path: string;
+  source_url?: string;
+  source_type?: SourceType;
+  website?: string;
+  added_at?: string;
+  updated_at?: string;
 }>;
 const queue = JSON.parse(await readFile(join(packageRoot, "sourcing/queue.json"), "utf8")) as {
   entries: Array<{
@@ -30,8 +35,8 @@ for (const promotion of promotions) {
   const queued = queue.entries.find((entry) => entry.institution_slug === promotion.institution_slug);
   const candidate = queued?.candidate_assets.find((asset) => asset.local_path === promotion.candidate_path);
   const previous = previousCatalog.find((entry) => entry.slug === promotion.institution_slug);
-  const website = queued?.website ?? previous?.website;
-  const sourceUrl = candidate?.source_url ?? previous?.source_url;
+  const website = promotion.website ?? queued?.website ?? previous?.website ?? institution?.website;
+  const sourceUrl = promotion.source_url ?? candidate?.source_url ?? previous?.source_url;
   if (!institution || !website || !sourceUrl) throw new Error(`Incomplete promotion: ${promotion.institution_slug}`);
 
   const sourceExtension = normalizeExtension(extname(promotion.candidate_path));
@@ -40,6 +45,13 @@ for (const promotion of promotions) {
   const stableSourceFile = join(packageRoot, "src", sourceRelativePath);
   if (existsSync(candidateFile)) await copyFile(candidateFile, stableSourceFile);
   else if (!existsSync(stableSourceFile)) throw new Error(`Missing promoted source: ${promotion.institution_slug}`);
+
+  if (sourceExtension === "svg") {
+    const source = await readFile(stableSourceFile, "utf8");
+    const svgStart = source.search(/<svg[\s>]/i);
+    if (svgStart < 0) throw new Error(`Missing SVG root: ${promotion.institution_slug}`);
+    await writeFile(stableSourceFile, source.slice(svgStart));
+  }
 
   const formats: LogoFormat[] = [];
   let svgPath: string | null = null;
@@ -65,12 +77,12 @@ for (const promotion of promotions) {
     aliases: institution.aliases,
     website,
     source_url: sourceUrl.startsWith("data:") ? website : sourceUrl,
-    source_type: "official-website",
+    source_type: promotion.source_type ?? previous?.source_type ?? "official-website",
     source_path: sourceRelativePath,
     svg_path: svgPath,
     formats,
-    added_at: "2026-07-13",
-    updated_at: "2026-07-13",
+    added_at: promotion.added_at ?? previous?.added_at ?? "2026-07-13",
+    updated_at: promotion.updated_at ?? previous?.updated_at ?? "2026-07-13",
     status: "verified"
   });
 }

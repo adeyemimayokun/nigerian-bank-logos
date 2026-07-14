@@ -2,6 +2,9 @@
   "bamboo-system-technology": [
     "https://investbamboo.com/navbar/logo-desktop-light.svg"
   ],
+  "busha-digital": [
+    "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg"
+  ],
   "cordros-insurance-brokers": [
     "https://cordros.com/_next/static/media/capital-logo.1ezr-1cy8xqkf.png"
   ],
@@ -16,6 +19,9 @@
   ],
   "premiumtrust-bank": [
     "https://premiumtrustbank.com/_next/static/media/logo-premiumtrustbank.a98b0a68.svg"
+  ],
+  "quidax-technologies": [
+    "https://nynm-quidax-strapi.s3.amazonaws.com/quidax_logo_0b49871396.svg"
   ],
   "remita-payment-service": [
     "https://www.remita.net/assets/minimal/images/remita_orange_new_logo.svg"
@@ -33,8 +39,7 @@
     "https://www.stanbicibtcbank.com/static_file/Nigeria/nigeriabank/Downloads/Media%20Toolkit/Images/Stanbic_IBTC_Holdings_Logo.png"
   ],
   "sycamore-integrated-solutions": [
-    "https://res.cloudinary.com/dnbcoboei/image/upload/v1733306937/logo_ejpzns.svg",
-    "https://www.sycamore.ng/images/icons/logo.svg"
+    "https://www.sycamore.ng/_nuxt/logo.Dq-x-WR6.png"
   ],
   "union-bank-of": [
     "https://unionbankng.com/wp-content/uploads/2024/12/unionhorse.png"

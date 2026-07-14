@@ -34,6 +34,7 @@ export const catalogItems: CatalogItem[] = institutions.flatMap((institution) =>
 }).sort((a, b) => a.institution.brand_name.localeCompare(b.institution.brand_name));
 
 export const availableLogoCount = catalogItems.length;
+export const canonicalLogoCount = logos.length;
 
 export const availableInstitutionCategories = [...new Set(
   catalogItems.flatMap((item) => item.institution.categories)

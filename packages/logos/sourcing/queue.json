@@ -6,14 +6,18 @@
     "accepted_logos": 106,
     "pending": 1561,
     "catalog_websites": 3,
-    "curated_domain_overrides": 19,
+    "curated_domain_overrides": 23,
     "regulator_domain_hints": 58,
-    "websites_attempted": 80,
-    "websites_unavailable": 1481,
-    "source_failures": 80,
-    "institutions_with_candidates": 0,
-    "candidate_files": 0,
-    "candidate_formats": {}
+    "websites_attempted": 84,
+    "websites_unavailable": 1477,
+    "source_failures": 49,
+    "institutions_with_candidates": 12,
+    "candidate_files": 36,
+    "candidate_formats": {
+      "png": 33,
+      "svg": 8,
+      "jpeg": 13
+    }
   },
   "entries": [
     {
@@ -214,7 +218,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "access-holdings",
@@ -631,7 +635,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "allstream-information-technology-solutions",
@@ -660,9 +664,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "alsan-insurance-brokers",
@@ -716,9 +719,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "andray-finance",
@@ -853,9 +855,17 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://arkinsurancegroup.com/wp-content/themes/Divi/images/logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "ARK Insurance logo https://arkinsurancegroup.com/wp-content/themes/Divi/images/logo.png",
+          "local_path": "candidates/ark-insurance-brokers-l-t-d-01.png",
+          "sha256": "cf520886e248a0fad2dffd2e44bd9ba546d0d8f5e750f182397be7d16680b20f"
+        }
+      ]
     },
     {
       "institution_slug": "arlington-insurance-brokers",
@@ -1217,13 +1227,12 @@
     {
       "institution_slug": "bestie-insurance-brokers",
       "brand_name": "BESTIE INSURANCE BROKERS",
-      "website": "https://bestie.com/",
+      "website": "http://bestie.com/",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "pisi-technologies",
@@ -1417,13 +1426,12 @@
     {
       "institution_slug": "blue-house-insurance-brokers",
       "brand_name": "BLUE HOUSE INSURANCE BROKERS",
-      "website": "https://bluehouse.com/",
+      "website": "https://sites.google.com/view/bluehousecom",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "fetch failed"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "blue-waters-insurance-brokers",
@@ -1522,9 +1530,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "bri-capital",
@@ -1544,7 +1551,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 409"
     },
     {
       "institution_slug": "bridgegate-insurance-brokers",
@@ -1636,7 +1643,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "bullionmonie",
@@ -1668,11 +1675,52 @@
     {
       "institution_slug": "busha-digital",
       "brand_name": "Busha",
-      "website": null,
-      "website_source": "unavailable",
+      "website": "https://busha.io/",
+      "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "website-unavailable",
-      "candidate_assets": []
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg",
+          "format": "svg",
+          "confidence": "high",
+          "descriptor": "c-image image-contain u-background-transparent u-align-top u-ratio-2-1 c-image-wrap u-background-transparent u-align-top u-ratio-2-1 https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg",
+          "local_path": "candidates/busha-digital-01.svg",
+          "sha256": "a537297872f8499ca86ff233c841b23408d597d173dff056388f2fcc001cc143"
+        },
+        {
+          "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+          "format": "svg",
+          "confidence": "high",
+          "descriptor": "c-image image-contain u-ratio-16-9 u-background-transparent c-image-wrap u-ratio-16-9 u-background-transparent https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+          "local_path": "candidates/busha-digital-02.svg",
+          "sha256": "e2f4d20dd96660917fff96d75773a3adbc54be4e16d397e6b609e7b3beb5c04c"
+        },
+        {
+          "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/695d06bebdc03d129b74fe3d_busha%20website%20preview.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "og:image https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/695d06bebdc03d129b74fe3d_busha%20website%20preview.png",
+          "local_path": "candidates/busha-digital-03.png",
+          "sha256": "8cef95928bc93513a1adebd3b4f3c0f0a8418b01f1ba28b80e52937900f7b5b2"
+        },
+        {
+          "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f2c749b293a11163790a7b_Favicon%20Busha.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "shortcut icon https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f2c749b293a11163790a7b_Favicon%20Busha.png",
+          "local_path": "candidates/busha-digital-04.png",
+          "sha256": "9c537f0f5960fa95240346dddfa6aae533a9837167486880844dafad119493c9"
+        },
+        {
+          "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f2c757e7e2327b3ba8fc6e_Webclip%20Busha.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "apple-touch-icon https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f2c757e7e2327b3ba8fc6e_Webclip%20Busha.png",
+          "local_path": "candidates/busha-digital-05.png",
+          "sha256": "3cbdff96ddcdbdda08adf9b64a9178ae2323785a5925069ef2fbd846bb1a8a01"
+        }
+      ]
     },
     {
       "institution_slug": "busiyard",
@@ -1791,7 +1839,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "capitalwise-dynamic-pay-c",
@@ -1850,13 +1898,12 @@
     {
       "institution_slug": "casava-microinsurance",
       "brand_name": "Casava Microinsurance",
-      "website": "https://casava.co/",
+      "website": "https://casava.com/",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "cash-advance",
@@ -2182,7 +2229,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "bluprimvertex",
@@ -2310,7 +2357,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "wrapped-cbdc",
@@ -2438,7 +2485,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "coopvest-digital",
@@ -2476,7 +2523,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 404"
     },
     {
       "institution_slug": "coronation-life-assurance-corporation",
@@ -2487,7 +2534,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 404"
     },
     {
       "institution_slug": "cosmic-insurance-brokers",
@@ -2858,7 +2905,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 404"
     },
     {
       "institution_slug": "davisther-insurance-brokers",
@@ -3336,7 +3383,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "econ-credit-fintech",
@@ -3509,7 +3556,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "enterprise-trust-insurance-brokers",
@@ -3649,10 +3696,10 @@
     {
       "institution_slug": "xtra-mfs",
       "brand_name": "EXTRA CASH",
-      "website": null,
-      "website_source": "unavailable",
+      "website": "https://www.quickteller.com/",
+      "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "website-unavailable",
+      "status": "no-candidate",
       "candidate_assets": []
     },
     {
@@ -3706,9 +3753,16 @@
       "website": "https://fairmoney.io/",
       "website_source": "catalog",
       "verification_status": "market-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": [
+        {
+          "source_url": "https://fairmoney.io/og-image-home.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "https://fairmoney.io/og-image-home.jpg",
+          "error": "asset HTTP 403"
+        }
+      ]
     },
     {
       "institution_slug": "fairsure-payments",
@@ -3799,18 +3853,26 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 503"
     },
     {
       "institution_slug": "fbs-reinsurance",
       "brand_name": "FBS Reinsurance",
-      "website": "https://fbsre.com/",
+      "website": "http://fbsre.com/",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "data:image/svg+xml;base64,[inline-svg]",
+          "format": "svg",
+          "confidence": "medium",
+          "descriptor": "navbar-brand-svg logo-aruba inline svg",
+          "local_path": "candidates/fbs-reinsurance-01.svg",
+          "sha256": "d8692e9a5b1d141dbac60673a208d93fe3d6f765d62c59efc9a1a9b6546dabe7"
+        }
+      ]
     },
     {
       "institution_slug": "fcmb-pensions",
@@ -4025,9 +4087,8 @@
       "website": "https://www.fcmb.com/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "first-cornerstone-insurance-brokers",
@@ -4064,7 +4125,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "first-insurance-brokers",
@@ -4354,7 +4415,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "bridgepoint-finance",
@@ -4759,9 +4820,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "goldcrest-insurance-brokers",
@@ -5190,11 +5250,76 @@
     {
       "institution_slug": "hervest-for-women",
       "brand_name": "HERVEST",
-      "website": null,
-      "website_source": "unavailable",
+      "website": "https://hervest.ng/",
+      "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "website-unavailable",
-      "candidate_assets": []
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://cms.hervest.ng/uploads/hijabi_hervest_00062a06f6.jpg?updated_at=2022-05-31T13:58:35.049Z",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "slide-image hero-image-block https://cms.hervest.ng/uploads/hijabi_hervest_00062a06f6.jpg?updated_at=2022-05-31T13:58:35.049Z",
+          "local_path": "candidates/hervest-for-women-01.jpg",
+          "sha256": "450424f5839beabe05b73f2a630aa10aa62b832e0ce692754a7386268e65063c"
+        },
+        {
+          "source_url": "https://cms.hervest.ng/uploads/epe_3c766d16c7.jpg?updated_at=2023-04-23T23:02:18.690Z",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "slide-image hero-image-block https://cms.hervest.ng/uploads/epe_3c766d16c7.jpg?updated_at=2023-04-23T23:02:18.690Z",
+          "local_path": "candidates/hervest-for-women-02.jpg",
+          "sha256": "6517234c2c8ff3f30d3d1d5dbfd8028811bd570aacf802955717b8b6abf30e55"
+        },
+        {
+          "source_url": "https://cms.hervest.ng/uploads/young_woman_47c5d05a3c.jpg?updated_at=2022-05-31T14:21:39.372Z",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "slide-image hero-image-block https://cms.hervest.ng/uploads/young_woman_47c5d05a3c.jpg?updated_at=2022-05-31T14:21:39.372Z",
+          "local_path": "candidates/hervest-for-women-03.jpg",
+          "sha256": "a61d094466761c1a9a8b1742f952b7e6345408efaa4e4628b659d1ca2f4746e2"
+        },
+        {
+          "source_url": "https://hervest.ng/_nuxt/img/google-logo.ab02010.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "partner-logo /_nuxt/img/google-logo.ab02010.png",
+          "local_path": "candidates/hervest-for-women-04.png",
+          "sha256": "568021f29eeb0a4f083aff29e82c3e1fd59ae1db9c311f4e7fc5fcd479dab32f"
+        },
+        {
+          "source_url": "https://hervest.ng/_nuxt/img/vc4a-logo.e6eb9d9.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "partner-logo /_nuxt/img/vc4a-logo.e6eb9d9.png",
+          "local_path": "candidates/hervest-for-women-05.png",
+          "sha256": "3d365bac4f527aba8c703fb758825da6f2dc5f6b8bcc20cb8ffd1a99fbc743ac"
+        },
+        {
+          "source_url": "https://hervest.ng/_nuxt/img/katapult-logo.9a55c17.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "partner-logo /_nuxt/img/katapult-logo.9a55c17.png",
+          "local_path": "candidates/hervest-for-women-06.png",
+          "sha256": "d0ed170ed1d97318f22fb3938b4e238a27e218b90e2f0715722eb8669e516cfc"
+        },
+        {
+          "source_url": "https://cms.hervest.ng/uploads/62209635b2846c60fa266ffb_testimonial_20image_8360c09939.jpg?updated_at=2022-04-14T11:45:42.157Z",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "testimonial-image testimony-image-block https://cms.hervest.ng/uploads/62209635b2846c60fa266ffb_testimonial_20image_8360c09939.jpg?updated_at=2022-04-14T11:45:42.157Z",
+          "local_path": "candidates/hervest-for-women-07.jpg",
+          "sha256": "6180f18a5afd5a8f0fbf7d75a9f0b6a7061642f28115b9736e472840b8e167c2"
+        },
+        {
+          "source_url": "https://cms.hervest.ng/uploads/thumbnail_CA_2_A2942_1_e8aa3a6a63.jpg?updated_at=2022-06-01T11:45:19.564Z",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "testimonial-image testimony-image-block https://cms.hervest.ng/uploads/thumbnail_CA_2_A2942_1_e8aa3a6a63.jpg?updated_at=2022-06-01T11:45:19.564Z",
+          "local_path": "candidates/hervest-for-women-08.jpg",
+          "sha256": "a90f03470ea28e2e516e1d408bff5fd78dea8abef7aeabf57ec79b619c65913f"
+        }
+      ]
     },
     {
       "institution_slug": "hhl-insurance-brokers",
@@ -5239,9 +5364,41 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://hilaltakaful.com.ng/web/image/20710-20dac151/Lotus_Bank_logo.webp.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "img-fluid mx-auto d-block rounded-circle o_colored_level pb0 pt24 col-lg-2 o_cc o_cc1 /web/image/20710-20dac151/Lotus_Bank_logo.webp.png",
+          "local_path": "candidates/hilal-takaful-01.png",
+          "sha256": "9528acf77f608ba355813266439e2e74b12300445c4f9654da7071529b77cfc1"
+        },
+        {
+          "source_url": "https://hilaltakaful.com.ng/web/image/82711-85702566/HILAL%20TAKAFUL%20NIGERIA%20LIMITED%20-%20AUDIT%20COMPLAINCE%20TRUSTMARK%20%281%29%20%281%29_page-0001.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "img-fluid mx-auto d-block shadow rounded Logo of MyCompany o_footer_logo logo /web/image/82711-85702566/HILAL%20TAKAFUL%20NIGERIA%20LIMITED%20-%20AUDIT%20COMPLAINCE%20TRUSTMARK%20%281%29%20%281%29_page-0001.jpg",
+          "local_path": "candidates/hilal-takaful-02.jpg",
+          "sha256": "2d1e58e832d5623eaaee817c7578252c9128e1322bcaa0d8c8d7888f7df9459e"
+        },
+        {
+          "source_url": "https://hilaltakaful.com.ng/web/image/20774-3de610c7/NAICOM%20LOGO.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "img-fluid o_we_custom_image rounded-circle list-inline mb-0 /web/image/20774-3de610c7/NAICOM%20LOGO.png",
+          "local_path": "candidates/hilal-takaful-03.png",
+          "sha256": "915cd5a0145f8dcac21d7a2da2535f8bbfbc1da4f21ea62de5af3e5714a49ed2"
+        },
+        {
+          "source_url": "https://hilaltakaful.com.ng/web/image/53970-cb43ca29/NIA%20LOGO.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "img-fluid o_we_custom_image rounded-circle shadow rounded list-inline mb-0 /web/image/53970-cb43ca29/NIA%20LOGO.png",
+          "local_path": "candidates/hilal-takaful-04.png",
+          "sha256": "b34cf45d979b7223c65c03d4c90e619f29ef565d3d0173f1bb2a3cd3726cb9fd"
+        }
+      ]
     },
     {
       "institution_slug": "hilltop-insurance-brokers-l-t-d",
@@ -5621,7 +5778,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "international-trust-insurance-brokers-l-t-d",
@@ -5986,13 +6143,29 @@
     {
       "institution_slug": "kbl-general-insurance-company",
       "brand_name": "KBL General Insurance Company",
-      "website": "https://keystonebankng.com/",
+      "website": "https://www.keystonebankng.com/",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://www.keystonebankng.com/wp-content/uploads/2020/11/cropped-keystone-bank-logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "Keystone Bank Nigeria navbar-brand https://www.keystonebankng.com/wp-content/uploads/2020/11/cropped-keystone-bank-logo.png",
+          "local_path": "candidates/kbl-general-insurance-company-01.png",
+          "sha256": "236ba5d205a1fbf53099d5438e9cdf89d3b7d10dded25e69cd1b2ec65254cdec"
+        },
+        {
+          "source_url": "https://www.keystonebankng.com/wp-content/uploads/2021/11/cropped-kb-logo-1.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "logo https://www.keystonebankng.com/wp-content/uploads/2021/11/cropped-kb-logo-1.png",
+          "local_path": "candidates/kbl-general-insurance-company-02.png",
+          "sha256": "3d4e4a2a06b50370406a5516d0a416fb48939b6903380ed9f9b84a57c7039182"
+        }
+      ]
     },
     {
       "institution_slug": "kedge-insurance-brokers",
@@ -6726,13 +6899,69 @@
     {
       "institution_slug": "linkage-assurance",
       "brand_name": "Linkage Assurance",
-      "website": "https://linkageassurance.com/",
+      "website": "https://www.linkageassurance.com/",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": [
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2021/05/logo-01.png",
+          "format": "png",
+          "confidence": "high",
+          "descriptor": "https://www.linkageassurance.com/wp-content/uploads/2021/05/logo-01.png",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2021/05/gdpr.png",
+          "format": "png",
+          "confidence": "high",
+          "descriptor": "img-responsive moove-gdpr-company-logo-holder https://www.linkageassurance.com/wp-content/uploads/2021/05/gdpr.png",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2021/05/Facebook-profile-pic.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "icon https://www.linkageassurance.com/wp-content/uploads/2021/05/Facebook-profile-pic.jpg",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2026/06/Linkage_Motor_Insurance_App.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "skip-lazy jetpack-lazy-image skip-lazy jetpack-lazy-image //www.linkageassurance.com/wp-content/uploads/2026/06/Linkage_Motor_Insurance_App.jpg",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2025/08/AM_Best_Rating_Banner.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "skip-lazy jetpack-lazy-image skip-lazy jetpack-lazy-image //www.linkageassurance.com/wp-content/uploads/2025/08/AM_Best_Rating_Banner.jpg",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_motor_insurance.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "skip-lazy jetpack-lazy-image skip-lazy jetpack-lazy-image //www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_motor_insurance.png",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_retail_insurance_products.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "skip-lazy jetpack-lazy-image skip-lazy jetpack-lazy-image //www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_retail_insurance_products.jpg",
+          "error": "asset HTTP 403"
+        },
+        {
+          "source_url": "https://www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_oil_and_gas_insurance.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "skip-lazy jetpack-lazy-image skip-lazy jetpack-lazy-image //www.linkageassurance.com/wp-content/uploads/2026/05/Linkage_oil_and_gas_insurance.jpg",
+          "error": "asset HTTP 403"
+        }
+      ]
     },
     {
       "institution_slug": "linkall-insurance-brokers",
@@ -7373,7 +7602,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "mission-insurance-brokers-l-t-d",
@@ -7471,9 +7700,8 @@
       "website": "https://moneymasterpsb.com/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "orcom-and-orcom-business-support",
@@ -7734,9 +7962,73 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-32x32.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "icon https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-32x32.png",
+          "local_path": "candidates/naicom-broker-01.png",
+          "sha256": "2a774bcec73cc8933e50af2f5b9cecd666c44c03bec181a45563b633911d890a"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-192x192.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "icon https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-192x192.png",
+          "local_path": "candidates/naicom-broker-02.png",
+          "sha256": "9b460e586ab5ec1fcfab0a9643d8fd487c276077c278ba8942abb991045e8846"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-180x180.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "apple-touch-icon https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-180x180.png",
+          "local_path": "candidates/naicom-broker-03.png",
+          "sha256": "2ace161caecd97b12e1f77e8df8c14d10d798aa277047a9e6452315aacc2be80"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-270x270.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "https://naicom.gov.ng/wp-content/uploads/2020/07/cropped-NAICOM-Small-Size-Logo-270x270.png",
+          "local_path": "candidates/naicom-broker-04.png",
+          "sha256": "40c57270d1ef457ea4e4841f428fcc00f9f13df053d84e0daa78cda82df2917a"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "NAICOM https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+          "local_path": "candidates/naicom-broker-05.png",
+          "sha256": "052f4bb19e6b92deea30a8eb20557db817e27780c3297ca0819b9965a641d63b"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "NAICOM logo-fixed ova_logo version_1 https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png",
+          "local_path": "candidates/naicom-broker-06.png",
+          "sha256": "6961db324e64b7d81eef7b42b7b455fa451a1e7826f44205b1dbb2072713907c"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2025/07/NAICOM-Logo-Handshake.jpg",
+          "format": "jpeg",
+          "confidence": "medium",
+          "descriptor": "NAICOM Logo Handshake attachment-large size-large wp-image-9406 elementor-widget-container https://naicom.gov.ng/wp-content/uploads/2025/07/NAICOM-Logo-Handshake.jpg",
+          "local_path": "candidates/naicom-broker-07.jpg",
+          "sha256": "64ae11864ef900a9ff2ae0650a413528c479923e21f75c292ecb1615dceebd50"
+        },
+        {
+          "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo-150x145.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "attachment-thumbnail size-thumbnail wp-image-5911 https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo-150x145.png",
+          "local_path": "candidates/naicom-broker-08.png",
+          "sha256": "b8299b418927ccad4761362f9f701015e7601f31c0782452461d68527e7a7d77"
+        }
+      ]
     },
     {
       "institution_slug": "naicom-insurance-regulator",
@@ -7894,13 +8186,12 @@
     {
       "institution_slug": "nasco-nigeria-insurance-brokers",
       "brand_name": "Nasco Nigeria Insurance Brokers",
-      "website": "https://nasconigeria.com/",
+      "website": "https://nascoinsurancegroup.com/OurOperations/Detail/48/NASCONIGERIA",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "nasd-otc-securities-exchange",
@@ -7936,9 +8227,17 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://nassuregroup.com/wp-content/plugins/under-construction-page/themes/plain_text/ucp-cog.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "Site is Under Construction logo logo-wrap https://nassuregroup.com/wp-content/plugins/under-construction-page/themes/plain_text/ucp-cog.png",
+          "local_path": "candidates/nassure-microinsurance-01.png",
+          "sha256": "8386858d306bc25e56bce985206c92c1cfb06466a5cd98c6cc935383417277e0"
+        }
+      ]
     },
     {
       "institution_slug": "nathaniels-insurance-brokers",
@@ -8048,7 +8347,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "new-season-insurance-brokers-l-t-d",
@@ -8112,7 +8411,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "nigeria-inter-bank-settlement-system",
@@ -8130,9 +8429,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "nigerian-agricultural-insurance-corporation",
@@ -8141,9 +8439,58 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": [
+        {
+          "source_url": "http://beta.naic.gov.ng/wp-content/uploads/2020/05/h6-logo-dark.png",
+          "format": "png",
+          "confidence": "high",
+          "descriptor": "Nigerian Agricultural Insurance Corporation logo-dark http://beta.naic.gov.ng/wp-content/uploads/2020/05/h6-logo-dark.png",
+          "error": "asset HTTP 500"
+        },
+        {
+          "source_url": "http://naic.gov.ng/wp-content/uploads/2025/09/logo.png",
+          "format": "png",
+          "confidence": "high",
+          "descriptor": "Nigerian Agricultural Insurance Corporation logo-light http://naic.gov.ng/wp-content/uploads/2025/09/logo.png",
+          "error": "invalid PNG"
+        },
+        {
+          "source_url": "http://beta.naic.gov.ng/wp-content/uploads/2025/10/naic-favicon.png",
+          "format": "png",
+          "confidence": "high",
+          "descriptor": "Nigerian Agricultural Insurance Corporation logo-mobile http://beta.naic.gov.ng/wp-content/uploads/2025/10/naic-favicon.png",
+          "error": "asset HTTP 500"
+        },
+        {
+          "source_url": "http://naic.gov.ng/wp-content/uploads/2020/03/award-logo1.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "attachment-full item--logo http://naic.gov.ng/wp-content/uploads/2020/03/award-logo1.png",
+          "error": "invalid PNG"
+        },
+        {
+          "source_url": "http://naic.gov.ng/wp-content/uploads/2025/09/cbnfinallogo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "attachment-full http://naic.gov.ng/wp-content/uploads/2025/09/cbnfinallogo.png",
+          "error": "invalid PNG"
+        },
+        {
+          "source_url": "http://naic.gov.ng/wp-content/uploads/2025/09/boa-logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "attachment-full http://naic.gov.ng/wp-content/uploads/2025/09/boa-logo.png",
+          "error": "invalid PNG"
+        },
+        {
+          "source_url": "http://naic.gov.ng/wp-content/uploads/2025/09/lapo-logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "attachment-full http://naic.gov.ng/wp-content/uploads/2025/09/lapo-logo.png",
+          "error": "The operation was aborted due to timeout"
+        }
+      ]
     },
     {
       "institution_slug": "nigerian-life-and-provident-company",
@@ -8634,11 +8981,20 @@
     {
       "institution_slug": "onepipe-io-services",
       "brand_name": "Onepipe.Io Services",
-      "website": null,
-      "website_source": "unavailable",
+      "website": "https://www.onepipe.io/",
+      "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "website-unavailable",
-      "candidate_assets": []
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://www.onepipe.io/img/logo-light.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "navbar-brand js-scroll-trigger ./img/logo-light.png",
+          "local_path": "candidates/onepipe-io-services-01.png",
+          "sha256": "fd51534a46712e6094b5e6152ec7116c28ca47262f82f62c262f145ad9562b5c"
+        }
+      ]
     },
     {
       "institution_slug": "onif-insurance-brokers",
@@ -8900,7 +9256,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "palmpay",
@@ -8908,9 +9264,8 @@
       "website": "https://www.palmpay.com/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "palms-insurance-brokers",
@@ -9181,7 +9536,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "paysure-technologies",
@@ -9372,7 +9727,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "pitch-capital",
@@ -9707,7 +10062,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "propcrowdy",
@@ -9763,7 +10118,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "provest",
@@ -9792,7 +10147,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "prudential-alliance-insurance-brokers",
@@ -9887,12 +10242,11 @@
     {
       "institution_slug": "arve",
       "brand_name": "QUICKCHECK",
-      "website": "https://quickcheck.ng/",
+      "website": "https://www.quickcheck.ng/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "quickcred",
@@ -10414,9 +10768,25 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://bniinsurancebrokers.com/images/bni_logo_new@2x.svg",
+          "format": "svg",
+          "confidence": "medium",
+          "descriptor": "BNI Logo logo-image d-none d-lg-inline-block https://bniinsurancebrokers.com/images/bni_logo_new@2x.svg",
+          "local_path": "candidates/rbc-1165-01.svg",
+          "sha256": "26d816557d741786f06cf5e75d77f0efbb5981dbefd3a0d7c83fc337a31ebcfc"
+        },
+        {
+          "source_url": "https://bniinsurancebrokers.com/images/bni_logo_new@1x.svg",
+          "format": "svg",
+          "confidence": "medium",
+          "descriptor": "BNI Logo logo-image-phone d-inline-block d-lg-none https://bniinsurancebrokers.com/images/bni_logo_new@1x.svg",
+          "local_path": "candidates/rbc-1165-02.svg",
+          "sha256": "5a1855c42aff0e90d10d689dc443069ef211d6a8f4a6c0dc052c323ea1cd7fab"
+        }
+      ]
     },
     {
       "institution_slug": "rbc-1167",
@@ -10499,7 +10869,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "red-harbour-fintech",
@@ -10589,9 +10959,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "renners-investment",
@@ -11151,7 +11520,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "sanlam-allianz-life-insurance",
@@ -11162,7 +11531,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "sanrisk-insurance-brokers",
@@ -11344,7 +11713,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "shield-insurance-brokers-l-t-d",
@@ -11408,7 +11777,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "silver-coin-insurance-brokers",
@@ -11707,7 +12076,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "staco-insurance",
@@ -11738,7 +12107,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "stanbic-ibtc-insurance-brokers",
@@ -12234,7 +12603,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "the-lenders",
@@ -12279,9 +12648,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "thrive-combined-all-risk-insurance-brokers",
@@ -12336,7 +12704,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "tiva-finance-services",
@@ -12868,7 +13236,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "union-commercial-insurance-brokers",
@@ -12930,9 +13298,16 @@
       "website": "https://www.ubagroup.com/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": [
+        {
+          "source_url": "https://www.ubagroup.com/wp-content/uploads/2025/03/UBA-18567.svg",
+          "format": "svg",
+          "confidence": "high",
+          "descriptor": "curated official asset",
+          "error": "invalid SVG"
+        }
+      ]
     },
     {
       "institution_slug": "united-vanguard-insurance-brokers",
@@ -13022,9 +13397,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "vale-finance",
@@ -13097,7 +13471,7 @@
       "verification_status": "market-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 403"
     },
     {
       "institution_slug": "veendhq",
@@ -13180,7 +13554,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "HTTP 307"
     },
     {
       "institution_slug": "vertex-microinsurance-company",
@@ -13266,13 +13640,29 @@
     {
       "institution_slug": "viewpoint-insurance-brokers",
       "brand_name": "VIEWPOINT INSURANCE BROKERS",
-      "website": "https://viewpoint.com/",
+      "website": "https://www.trimble.com/en/products/viewpoint",
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://images.ctfassets.net/citn2sn5tdjr/5K3bjaD0rAHfTBLJnBOG0F/4724f023136ec940a6d828b363466b9b/TrimbleR-Horiz-RGB-_White.svg",
+          "format": "svg",
+          "confidence": "medium",
+          "descriptor": "Trimble Logo tt-flyout__logo https://images.ctfassets.net/citn2sn5tdjr/5K3bjaD0rAHfTBLJnBOG0F/4724f023136ec940a6d828b363466b9b/TrimbleR-Horiz-RGB-_White.svg",
+          "local_path": "candidates/viewpoint-insurance-brokers-01.svg",
+          "sha256": "80b70ed7c88e7dffd77dfc20b6f51ffaead2f296e59bbc05dd6aefb3a9133e5c"
+        },
+        {
+          "source_url": "data:image/svg+xml,[inline-svg]",
+          "format": "svg",
+          "confidence": "medium",
+          "descriptor": "open flyout t2-navbar__flyout-mobile--logo data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='26'%20height='28'%20viewBox='0%200%2026%2028'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M1.7",
+          "local_path": "candidates/viewpoint-insurance-brokers-02.svg",
+          "sha256": "b801cbf2f63f17ddde6f35ce0f6295535474bbd7e43a3bfa6e4a5c9b0f589f2f"
+        }
+      ]
     },
     {
       "institution_slug": "virtusso-marvellous-insurance-brokers-l-t-d",
@@ -13454,7 +13844,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "whitesands-insurance-brokers-l-t-d",
@@ -13832,9 +14222,24 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllBrokers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "needs-review",
+      "candidate_assets": [
+        {
+          "source_url": "https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "logo dark-n https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+          "local_path": "candidates/xca-insurance-brokers-01.png",
+          "sha256": "a5c212e8057117ad3e7f34d39f09953c9198e4a409a9d74b38c27f6f3ec5cdf7"
+        },
+        {
+          "source_url": "http://wpuidemos.com/wp-content/themes/conbix/assets/img/logo-7.png",
+          "format": "png",
+          "confidence": "medium",
+          "descriptor": "logo light-n http://wpuidemos.com/wp-content/themes/conbix/assets/img/logo-7.png",
+          "error": "fetch failed"
+        }
+      ]
     },
     {
       "institution_slug": "majatech",
@@ -13899,7 +14304,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "yalo-technologies",
@@ -13937,7 +14342,7 @@
       "verification_status": "officially-verified",
       "status": "source-unavailable",
       "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "error": "fetch failed"
     },
     {
       "institution_slug": "yesbee-insurance-brokers",
@@ -14062,9 +14467,8 @@
       "website": "https://www.zenithbank.com/",
       "website_source": "curated-official-domain",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "zenith-general-insurance-company",
@@ -14073,9 +14477,8 @@
       "website_source": "regulator-email-domain",
       "website_evidence_url": "https://portal.naicom.gov.ng/Download/AllInsurers.xlsx",
       "verification_status": "officially-verified",
-      "status": "source-unavailable",
-      "candidate_assets": [],
-      "error": "The operation was aborted due to timeout"
+      "status": "no-candidate",
+      "candidate_assets": []
     },
     {
       "institution_slug": "zenith-pensions-custodian",
