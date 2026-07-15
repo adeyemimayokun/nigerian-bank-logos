@@ -35,6 +35,7 @@ import {
   X,
   type LucideIcon
 } from "lucide-react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import type { LogoFormatType } from "@nigerian-bank-logos/core";
 import type { InstitutionCategory } from "@nigerian-bank-logos/institutions";
 import {
@@ -590,6 +591,7 @@ function App() {
       ) : null}
 
       {toast ? <div className="toast" role="status" onAnimationEnd={() => setToast("")}>{toast}</div> : null}
+      <SpeedInsights />
     </main>
   );
 }
