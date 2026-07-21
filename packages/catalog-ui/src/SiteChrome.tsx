@@ -15,7 +15,7 @@ import awalogoLogoUrl from "./assets/awalogo-logo.svg";
 export const FIGMA_PLUGIN_URL = "https://www.figma.com/community/plugin/1661356348996631383";
 
 export type ThemeMode = "system" | "light" | "dark";
-export type SitePage = "catalog" | "docs";
+export type SitePage = "catalog" | "docs" | "not-found";
 
 type SiteHeaderProps = {
   currentPage: SitePage;

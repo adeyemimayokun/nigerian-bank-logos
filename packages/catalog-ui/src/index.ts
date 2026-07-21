@@ -5,3 +5,4 @@ export {
   type CatalogPluginResponse
 } from "./CatalogApp";
 export { DocsApp } from "./DocsApp";
+export { NotFoundApp } from "./NotFoundApp";
