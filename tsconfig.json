@@ -1,7 +1,10 @@
 {
   "files": [],
   "references": [
+    { "path": "./api" },
+    { "path": "./apps/web" },
     { "path": "./apps/figma-plugin" },
+    { "path": "./packages/catalog-ui" },
     { "path": "./packages/logos" },
     { "path": "./packages/institutions" },
     { "path": "./packages/validator" }

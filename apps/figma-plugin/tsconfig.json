@@ -8,6 +8,8 @@
   "include": [
     "src",
     "vite.config.ts",
+    "vite.plugin.config.ts",
+    "vite.logo-assets.ts",
     "vite.main.config.ts",
     "../../packages/logos/src",
     "../../packages/institutions/src"

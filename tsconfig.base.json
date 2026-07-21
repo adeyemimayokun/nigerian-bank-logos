@@ -18,8 +18,10 @@
     "types": ["node"],
     "baseUrl": ".",
     "paths": {
-      "@nigerian-bank-logos/core": ["packages/logos/src/index.ts"],
-      "@nigerian-bank-logos/institutions": ["packages/institutions/src/index.ts"]
+      "@awalogo/catalog-ui": ["packages/catalog-ui/src/index.ts"],
+      "@awalogo/catalog-ui/admin": ["packages/catalog-ui/src/admin.ts"],
+      "@awalogo/core": ["packages/logos/src/index.ts"],
+      "@awalogo/institutions": ["packages/institutions/src/index.ts"]
     }
   }
 }

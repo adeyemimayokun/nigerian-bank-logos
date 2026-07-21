@@ -1,6 +1,7 @@
 node_modules
 .pnpm-store
 dist
+figma-dist
 .turbo
 .DS_Store
 coverage

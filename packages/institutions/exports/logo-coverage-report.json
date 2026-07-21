@@ -1,10 +1,10 @@
 {
   "snapshot_date": "2026-07-13",
   "total_institutions": 1693,
-  "linked_to_logo": 170,
-  "unresolved": 1523,
+  "linked_to_logo": 173,
+  "unresolved": 1520,
   "unresolved_with_website": 0,
-  "unresolved_without_website": 1523,
+  "unresolved_without_website": 1520,
   "unresolved_by_category": {
     "commercial-bank": 0,
     "microfinance-bank": 0,
@@ -22,14 +22,14 @@
     "discount-house": 0,
     "finance-company": 0,
     "switching-processing": 14,
-    "payment-solution-service-provider": 120,
+    "payment-solution-service-provider": 119,
     "payment-terminal-service-provider": 46,
-    "super-agent": 60,
+    "super-agent": 59,
     "payment-service-holding-company": 0,
     "card-scheme": 8,
     "clearing-house": 2,
     "credit-bureau": 0,
-    "digital-lender": 547,
+    "digital-lender": 546,
     "crowdfunding-platform": 3,
     "robo-adviser": 0,
     "digital-broker": 2,
@@ -2322,15 +2322,6 @@
       "reason": "official-website-and-logo-source-required"
     },
     {
-      "slug": "connectpoint-technology-solutions",
-      "legal_name": "Connectpoint Technology Solutions Limited",
-      "brand_name": "Connectpoint Technology Solutions",
-      "primary_category": "super-agent",
-      "website": null,
-      "verification_status": "officially-verified",
-      "reason": "official-website-and-logo-source-required"
-    },
-    {
       "slug": "connex-insurance-brokers",
       "legal_name": "Connex Insurance Brokers Ltd",
       "brand_name": "Connex Insurance Brokers",
@@ -3973,15 +3964,6 @@
       "legal_name": "Flawless Insurance Brokers L.t.d",
       "brand_name": "Flawless Insurance Brokers L.t.d",
       "primary_category": "insurance-broker",
-      "website": null,
-      "verification_status": "officially-verified",
-      "reason": "official-website-and-logo-source-required"
-    },
-    {
-      "slug": "flex-financial-technologies",
-      "legal_name": "FLEX FINANCIAL TECHNOLOGIES",
-      "brand_name": "FLEXFINANCE",
-      "primary_category": "digital-lender",
       "website": null,
       "verification_status": "officially-verified",
       "reason": "official-website-and-logo-source-required"
@@ -8770,15 +8752,6 @@
       "legal_name": "PAYFINANCIALS TECHNOLOGY SERVICES LIMITED",
       "brand_name": "PAYFI",
       "primary_category": "digital-lender",
-      "website": null,
-      "verification_status": "officially-verified",
-      "reason": "official-website-and-logo-source-required"
-    },
-    {
-      "slug": "payfixy",
-      "legal_name": "Payfixy Nigeria Limited",
-      "brand_name": "Payfixy",
-      "primary_category": "payment-solution-service-provider",
       "website": null,
       "verification_status": "officially-verified",
       "reason": "official-website-and-logo-source-required"

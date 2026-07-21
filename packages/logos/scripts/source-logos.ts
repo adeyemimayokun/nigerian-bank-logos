@@ -193,7 +193,7 @@ async function fetchWebsite(url: string): Promise<Response> {
   for (const attempt of attempts) {
     try {
       const response = await fetch(attempt, {
-        headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source logo sourcing)" },
+        headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source logo sourcing)" },
         redirect: "follow",
         signal: AbortSignal.timeout(10_000)
       });
@@ -293,7 +293,7 @@ async function saveCandidate(asset: CandidateAsset, slug: string, index: number)
 
 async function downloadAsset(url: string): Promise<Buffer> {
   const response = await fetch(url, {
-    headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source logo sourcing)" },
+    headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source logo sourcing)" },
     signal: AbortSignal.timeout(10_000)
   });
   if (!response.ok) throw new Error(`asset HTTP ${response.status}`);

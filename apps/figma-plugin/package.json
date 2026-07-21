@@ -1,16 +1,23 @@
 {
-  "name": "@nigerian-bank-logos/figma-plugin",
+  "name": "@awalogo/figma-plugin",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "vite build && vite build --config vite.main.config.ts",
+    "build": "pnpm validate:manifest && pnpm build:plugin-ui && pnpm build:controller && pnpm validate:plugin-build",
+    "build:ui": "vite build",
+    "build:plugin-ui": "vite build --config vite.plugin.config.ts",
+    "build:controller": "vite build --config vite.main.config.ts",
     "dev": "vite --host 127.0.0.1",
+    "validate:manifest": "node scripts/validate-manifest.mjs",
+    "watch:ui": "vite build --config vite.plugin.config.ts --watch",
+    "watch:controller": "vite build --config vite.main.config.ts --watch",
+    "validate:plugin-build": "node scripts/validate-plugin-build.mjs",
     "typecheck": "tsc -p tsconfig.json"
   },
   "dependencies": {
-    "@nigerian-bank-logos/core": "workspace:*",
-    "@nigerian-bank-logos/institutions": "workspace:*",
+    "@awalogo/core": "workspace:*",
+    "@awalogo/institutions": "workspace:*",
     "@vitejs/plugin-react": "^4.3.4",
     "lucide-react": "^1.24.0",
     "react": "^19.0.0",

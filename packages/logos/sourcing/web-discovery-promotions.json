@@ -1,0 +1,62 @@
+[
+  {
+    "institution_slug": "connectpoint-technology-solutions",
+    "candidate_path": "web-candidates/connectpoint-technology-solutions/01.png",
+    "source_url": "https://connectpoint.com.ng/wp-content/uploads/2025/07/ConnectPoint-favicon-1.png",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://connectpoint.com.ng/",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  },
+  {
+    "institution_slug": "errandpay",
+    "candidate_path": "web-candidates/errandpay/01.svg",
+    "source_url": "https://errandpay.com/errandpaylogo.svg",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://errandpay.com/",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  },
+  {
+    "institution_slug": "flex-financial-technologies",
+    "candidate_path": "web-candidates/flex-financial-technologies/02.webp",
+    "source_url": "https://useflexfinance.com/assets/img/photos/Logo.webp",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://useflexfinance.com/",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  },
+  {
+    "institution_slug": "payfixy",
+    "candidate_path": "web-candidates/payfixy/01.png",
+    "source_url": "https://stage.payfixy.com/wp-content/uploads/2022/09/cropped-Payfixy_3@2400x-e1664296465560.png",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://stage.payfixy.com/",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  },
+  {
+    "institution_slug": "reliance-hmo",
+    "candidate_path": "web-candidates/reliance-hmo/03.svg",
+    "source_url": "https://getreliancehealth.com/nigeria/wp-content/uploads/sites/3/2024/01/Reliance-HMO-horizontal.svg",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://getreliancehealth.com/nigeria/",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  },
+  {
+    "institution_slug": "youverify",
+    "candidate_path": "web-candidates/youverify/01.svg",
+    "source_url": "https://youverify.co/assets/logos/logo.svg",
+    "source_type": "official-website",
+    "status": "needs-review",
+    "website": "https://youverify.co/en",
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15"
+  }
+]

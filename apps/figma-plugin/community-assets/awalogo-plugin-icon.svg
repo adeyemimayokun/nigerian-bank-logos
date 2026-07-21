@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">awalogo plugin icon</title>
+  <desc id="desc">An interlocking a and w monogram representing a shared logo library.</desc>
+  <rect width="512" height="512" rx="96" fill="#c9e45d"/>
+  <path fill="#f5f6f2" d="M104 88h108l68 68v64h-32c-18 0-32 14-32 32v8c0 18 14 32 32 32h32v64l-52 68H104c-35 0-64-29-64-64V152c0-35 29-64 64-64Z"/>
+  <path fill="#151715" d="M408 88H300l-68 68v64h32c18 0 32 14 32 32v8c0 18-14 32-32 32h-32v64l52 68h122c35 0 64-29 64-64V152c0-35-29-64-64-64Z"/>
+  <path fill="#151715" fill-rule="evenodd" d="M164 170c-52 0-92 39-92 88s40 88 92 88c20 0 37-6 51-17v17h37v-88c0-49-34-88-88-88Zm1 38c29 0 50 21 50 50s-21 50-50 50-50-21-50-50 21-50 50-50Z"/>
+  <path fill="#c9e45d" d="M272 180h40l27 106 31-82h32l31 82 27-106h40l-47 166h-37l-30-80-31 80h-37l-46-166Z"/>
+</svg>

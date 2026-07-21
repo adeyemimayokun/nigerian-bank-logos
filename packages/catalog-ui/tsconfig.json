@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "types": ["vite/client", "react", "react-dom"],
+    "rootDir": "../.."
+  },
+  "include": [
+    "src",
+    "../../packages/logos/src",
+    "../../packages/institutions/src"
+  ]
+}

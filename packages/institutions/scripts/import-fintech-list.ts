@@ -12,7 +12,7 @@ const repositoryRoot = join(packageRoot, "../..");
 const sourcePath = join(repositoryRoot, "docs/research/nigerian-fintech-companies.md");
 const candidatesPath = join(packageRoot, "data/community-candidates.json");
 const reportPath = join(packageRoot, "exports/fintech-list-comparison.json");
-const sourceUrl = "https://github.com/adeyemimayokun/nigerian-bank-logos/blob/main/docs/research/nigerian-fintech-companies.md";
+const sourceUrl = "https://github.com/adeyemimayokun/awalogo/blob/main/docs/research/nigerian-fintech-companies.md";
 const importDate = "2026-07-14";
 
 type CategoryRule = {

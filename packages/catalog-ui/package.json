@@ -1,0 +1,17 @@
+{
+  "name": "@awalogo/catalog-ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./admin": "./src/admin.ts",
+    "./logo-data.plugin": "./src/logo-data.plugin.ts"
+  },
+  "dependencies": {
+    "@awalogo/core": "workspace:*",
+    "@awalogo/institutions": "workspace:*",
+    "lucide-react": "^1.24.0",
+    "react": "^19.0.0"
+  }
+}

@@ -7049,5 +7049,214 @@
     "added_at": "2026-07-14",
     "updated_at": "2026-07-14",
     "status": "verified"
+  },
+  {
+    "name": "Connectpoint Technology Solutions",
+    "slug": "connectpoint-technology-solutions",
+    "category": "other",
+    "aliases": [
+      "Connectpoint Technology Solutions Limited"
+    ],
+    "website": "https://connectpoint.com.ng/",
+    "source_url": "https://connectpoint.com.ng/wp-content/uploads/2025/07/ConnectPoint-favicon-1.png",
+    "source_type": "official-website",
+    "source_path": "sources/connectpoint-technology-solutions.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/connectpoint-technology-solutions.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/connectpoint-technology-solutions.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
+  },
+  {
+    "name": "ErrandPay",
+    "slug": "errandpay",
+    "category": "other",
+    "aliases": [],
+    "website": "https://errandpay.com/",
+    "source_url": "https://errandpay.com/errandpaylogo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/errandpay.svg",
+    "svg_path": "assets/errandpay.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/errandpay.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/errandpay.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/errandpay.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
+  },
+  {
+    "name": "FLEXFINANCE",
+    "slug": "flex-financial-technologies",
+    "category": "fintech",
+    "aliases": [
+      "FLEX FINANCIAL TECHNOLOGIES",
+      "FLEXFINANCE"
+    ],
+    "website": "https://useflexfinance.com/",
+    "source_url": "https://useflexfinance.com/assets/img/photos/Logo.webp",
+    "source_type": "official-website",
+    "source_path": "sources/flex-financial-technologies.webp",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/flex-financial-technologies.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/flex-financial-technologies.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
+  },
+  {
+    "name": "Payfixy",
+    "slug": "payfixy",
+    "category": "other",
+    "aliases": [
+      "Innovate 1 Pay Limited",
+      "Payfixy Nigeria Limited"
+    ],
+    "website": "https://stage.payfixy.com/",
+    "source_url": "https://stage.payfixy.com/wp-content/uploads/2022/09/cropped-Payfixy_3@2400x-e1664296465560.png",
+    "source_type": "official-website",
+    "source_path": "sources/payfixy.png",
+    "svg_path": null,
+    "formats": [
+      {
+        "type": "png",
+        "path": "assets/payfixy.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/payfixy.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
+  },
+  {
+    "name": "Reliance HMO",
+    "slug": "reliance-hmo",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://getreliancehealth.com/nigeria/",
+    "source_url": "https://getreliancehealth.com/nigeria/wp-content/uploads/sites/3/2024/01/Reliance-HMO-horizontal.svg",
+    "source_type": "official-website",
+    "source_path": "sources/reliance-hmo.svg",
+    "svg_path": "assets/reliance-hmo.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/reliance-hmo.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/reliance-hmo.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/reliance-hmo.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
+  },
+  {
+    "name": "Youverify",
+    "slug": "youverify",
+    "category": "fintech",
+    "aliases": [],
+    "website": "https://youverify.co/en",
+    "source_url": "https://youverify.co/assets/logos/logo.svg",
+    "source_type": "official-website",
+    "source_path": "sources/youverify.svg",
+    "svg_path": "assets/youverify.svg",
+    "formats": [
+      {
+        "type": "svg",
+        "path": "assets/youverify.svg",
+        "mime_type": "image/svg+xml",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "png",
+        "path": "assets/youverify.png",
+        "mime_type": "image/png",
+        "width": null,
+        "height": null
+      },
+      {
+        "type": "webp",
+        "path": "assets/youverify.webp",
+        "mime_type": "image/webp",
+        "width": null,
+        "height": null
+      }
+    ],
+    "added_at": "2026-07-15",
+    "updated_at": "2026-07-15",
+    "status": "needs-review"
   }
 ]

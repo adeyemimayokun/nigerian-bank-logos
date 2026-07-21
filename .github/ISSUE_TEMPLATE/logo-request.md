@@ -11,6 +11,8 @@ labels: logo-request
 
 ## Official Source URL
 
+## Contact email (optional, public)
+
 ## Notes
 
 ## Notification consent

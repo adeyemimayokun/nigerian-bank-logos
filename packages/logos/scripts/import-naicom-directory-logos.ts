@@ -208,7 +208,7 @@ async function fetchWebsite(domain: string): Promise<{ html: string; url: string
     try {
       const response = await fetch(url, {
         redirect: "follow",
-        headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source asset verification)" },
+        headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source asset verification)" },
         signal: AbortSignal.timeout(8_000)
       });
       if (!response.ok) {
@@ -226,7 +226,7 @@ async function fetchWebsite(domain: string): Promise<{ html: string; url: string
 async function fetchBuffer(url: string): Promise<Buffer> {
   const response = await fetch(url, {
     redirect: "follow",
-    headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source asset verification)" },
+    headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source asset verification)" },
     signal: AbortSignal.timeout(12_000)
   });
   if (!response.ok) throw new Error(`${url} returned HTTP ${response.status}`);

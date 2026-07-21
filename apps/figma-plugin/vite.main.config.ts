@@ -7,12 +7,12 @@ const root = dirname(fileURLToPath(import.meta.url));
 export default defineConfig({
   root,
   build: {
-    outDir: "dist",
+    outDir: "figma-dist",
     emptyOutDir: false,
     lib: {
       entry: resolve(root, "src/main.ts"),
       formats: ["iife"],
-      name: "NigerianBankLogosPlugin",
+      name: "AwalogoPlugin",
       fileName: () => "main.js"
     }
   }

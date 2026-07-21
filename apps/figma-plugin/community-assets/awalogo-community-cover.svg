@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+  <title id="title">awalogo Figma Community cover</title>
+  <desc id="desc">A cover introducing awalogo as a searchable Nigerian logo library for Figma.</desc>
+  <rect width="1920" height="1080" fill="#151715"/>
+  <path d="M0 80h1920M0 1000h1920" stroke="#2e312e" stroke-width="2"/>
+
+  <g transform="translate(120 140) scale(.32)">
+    <rect width="512" height="512" rx="96" fill="#c9e45d"/>
+    <path fill="#f5f6f2" d="M104 88h108l68 68v64h-32c-18 0-32 14-32 32v8c0 18 14 32 32 32h32v64l-52 68H104c-35 0-64-29-64-64V152c0-35 29-64 64-64Z"/>
+    <path fill="#151715" d="M408 88H300l-68 68v64h32c18 0 32 14 32 32v8c0 18-14 32-32 32h-32v64l52 68h122c35 0 64-29 64-64V152c0-35-29-64-64-64Z"/>
+    <path fill="#151715" fill-rule="evenodd" d="M164 170c-52 0-92 39-92 88s40 88 92 88c20 0 37-6 51-17v17h37v-88c0-49-34-88-88-88Zm1 38c29 0 50 21 50 50s-21 50-50 50-50-21-50-50 21-50 50-50Z"/>
+    <path fill="#c9e45d" d="M272 180h40l27 106 31-82h32l31 82 27-106h40l-47 166h-37l-30-80-31 80h-37l-46-166Z"/>
+  </g>
+
+  <text x="120" y="430" fill="#f5f6f2" font-family="Arial, Helvetica, sans-serif" font-size="154" font-weight="700" letter-spacing="0">
+    <tspan fill="#c9e45d">awa</tspan><tspan>logo</tspan>
+  </text>
+  <text x="126" y="504" fill="#b6bab3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="400" letter-spacing="0">Nigerian logos, ready for Figma.</text>
+  <g transform="translate(126 590)">
+    <rect width="242" height="54" rx="8" fill="none" stroke="#444842" stroke-width="2"/>
+    <circle cx="28" cy="27" r="6" fill="#c9e45d"/>
+    <text x="48" y="35" fill="#d9dcd6" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">OPEN SOURCE</text>
+  </g>
+  <text x="126" y="920" fill="#777c75" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">SEARCH · COPY · INSERT</text>
+  <text x="126" y="956" fill="#777c75" font-family="Arial, Helvetica, sans-serif" font-size="18">Verified assets from official sources</text>
+
+  <g transform="translate(900 104)">
+    <rect width="900" height="872" rx="8" fill="#1d201d" stroke="#484d46" stroke-width="2"/>
+    <g transform="translate(42 38)">
+      <rect width="816" height="72" rx="8" fill="#151715" stroke="#555b53" stroke-width="2"/>
+      <circle cx="36" cy="36" r="11" fill="none" stroke="#aeb3aa" stroke-width="3"/>
+      <path d="m44 44 10 10" stroke="#aeb3aa" stroke-width="3" stroke-linecap="round"/>
+      <text x="72" y="45" fill="#8d928b" font-family="Arial, Helvetica, sans-serif" font-size="22">Search logos</text>
+      <rect x="752" y="14" width="48" height="44" rx="6" fill="#c9e45d"/>
+      <path d="M768 27h7v7h-7zm12 0h7v7h-7zm-12 12h7v7h-7zm12 0h7v7h-7z" fill="#151715"/>
+    </g>
+
+    <g transform="translate(42 144)" fill="none" stroke="#4d524b" stroke-width="2">
+      <rect width="190" height="190" rx="8"/>
+      <rect x="208" width="190" height="190" rx="8"/>
+      <rect x="416" width="190" height="190" rx="8"/>
+      <rect x="624" width="190" height="190" rx="8"/>
+      <rect y="208" width="190" height="190" rx="8"/>
+      <rect x="208" y="208" width="190" height="190" rx="8"/>
+      <rect x="416" y="208" width="190" height="190" rx="8"/>
+      <rect x="624" y="208" width="190" height="190" rx="8"/>
+      <rect y="416" width="190" height="190" rx="8"/>
+      <rect x="208" y="416" width="190" height="190" rx="8"/>
+      <rect x="416" y="416" width="190" height="190" rx="8"/>
+      <rect x="624" y="416" width="190" height="190" rx="8"/>
+    </g>
+
+    <g transform="translate(42 144)">
+      <g transform="translate(47 48)">
+        <circle cx="48" cy="48" r="44" stroke="#f5f6f2" stroke-width="16" fill="none"/>
+        <circle cx="48" cy="48" r="12" fill="#c9e45d"/>
+      </g>
+      <path transform="translate(251 55)" d="M0 0h62l28 38-28 38H0l28-38L0 0Z" fill="#c9e45d"/>
+      <g transform="translate(464 48)" fill="#f5f6f2">
+        <path d="M0 0h44v96H0l30-48L0 0Z"/>
+        <path d="M96 0H52v96h44L66 48 96 0Z"/>
+        <circle cx="48" cy="48" r="13" fill="#c9e45d"/>
+      </g>
+      <path transform="translate(670 56)" d="M0 0h54c30 0 54 24 54 54S84 108 54 108H0V82h54c15 0 28-13 28-28S69 26 54 26H0V0Z" fill="#c9e45d"/>
+
+      <path transform="translate(54 260)" d="M0 0h34v41L76 0h42L67 48l55 54H77L34 59v43H0V0Z" fill="#c9e45d"/>
+      <path transform="translate(259 254)" d="m52 0 52 108H77L65 82H39l-12 26H0L52 0Zm0 41-12 25h24L52 41Z" fill="#f5f6f2"/>
+      <path transform="translate(462 254)" d="M48 0c26 0 48 18 48 42 0 10-4 20-11 27 7 7 11 17 11 27 0 24-22 42-48 42S0 120 0 96c0-10 4-20 11-27C4 62 0 52 0 42 0 18 22 0 48 0Zm0 24c-12 0-22 8-22 18s10 18 22 18 22-8 22-18-10-18-22-18Zm0 60c-12 0-22 8-22 18s10 18 22 18 22-8 22-18-10-18-22-18Z" fill="#c9e45d"/>
+      <path transform="translate(673 266)" d="M0 0h34l48 58V0h32v108H80L32 50v58H0V0Z" fill="#f5f6f2"/>
+
+      <g transform="translate(51 466)">
+        <path d="M48 0a48 48 0 1 0 0 96 48 48 0 1 0 0-96Zm0 26a22 22 0 1 1 0 44 22 22 0 1 1 0-44Z" fill="#f5f6f2"/>
+        <path d="M0 43h96v10H0z" fill="#1d201d"/>
+      </g>
+      <path transform="translate(263 472)" d="M0 0h96v24H32v18h55v23H32v19h64v24H0V0Z" fill="#c9e45d"/>
+      <path transform="translate(467 469)" d="m49 0 49 108H74L63 84H35l-11 24H0L49 0Zm0 38L38 64h22L49 38Z" fill="#f5f6f2"/>
+      <path transform="translate(678 477)" d="M18 0h72l18 31-18 31H18L0 31 18 0Zm13 20-7 11 7 11h46l7-11-7-11H31Z" fill="#c9e45d"/>
+    </g>
+
+    <g transform="translate(42 786)">
+      <text y="34" fill="#8d928b" font-family="Arial, Helvetica, sans-serif" font-size="18">Verified logo library</text>
+      <rect x="594" width="222" height="54" rx="8" fill="#c9e45d"/>
+      <path d="M622 17h20v20h-20zM626 13h20v20" fill="none" stroke="#151715" stroke-width="2"/>
+      <text x="660" y="35" fill="#151715" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Insert logo</text>
+    </g>
+  </g>
+</svg>

@@ -3,23 +3,8 @@ import {
   type LogoEntry,
   type LogoFormat,
   type LogoFormatType
-} from "@nigerian-bank-logos/core";
-
-const svgModules = import.meta.glob("../../../packages/logos/src/assets/*.svg", {
-  eager: true,
-  query: "?raw",
-  import: "default"
-}) as Record<string, string>;
-const rasterModules = import.meta.glob("../../../packages/logos/src/assets/*.{png,webp,jpg}", {
-  eager: true,
-  query: "?url",
-  import: "default"
-}) as Record<string, string>;
-
-function assetByPath(modules: Record<string, string>, path: string) {
-  const fileName = path.split("/").pop();
-  return Object.entries(modules).find(([modulePath]) => modulePath.endsWith(`/${fileName}`))?.[1];
-}
+} from "@awalogo/core";
+import { pluginAssetPayloads, pluginEntryAssets } from "virtual:awalogo-plugin-assets";
 
 export type LogoAsset = {
   name: string;
@@ -38,19 +23,24 @@ export type LogoWithSvg = Omit<LogoEntry, "variations"> & LogoAsset & {
   variations: LogoVariationWithSvg[];
 };
 
-function assetUrls(formats: LogoFormat[]) {
-  return Object.fromEntries(formats
-    .filter((format) => format.type !== "svg")
-    .map((format) => [format.type, assetByPath(rasterModules, format.path)]));
+function assetFor(key: string) {
+  const assetId = pluginEntryAssets[key];
+  return assetId ? pluginAssetPayloads[assetId] : undefined;
+}
+
+function hydrateAsset(key: string) {
+  const asset = assetFor(key);
+  return {
+    svg: asset?.svg ?? "",
+    asset_urls: asset?.raster_url ? { png: asset.raster_url } : {}
+  } satisfies Pick<LogoAsset, "svg" | "asset_urls">;
 }
 
 export const logos: LogoWithSvg[] = logoCatalog.map((logo) => ({
   ...logo,
-  svg: logo.svg_path ? assetByPath(svgModules, logo.svg_path) ?? "" : "",
-  asset_urls: assetUrls(logo.formats),
+  ...hydrateAsset(`logo:${logo.slug}`),
   variations: (logo.variations ?? []).map((variation) => ({
     ...variation,
-    svg: variation.svg_path ? assetByPath(svgModules, variation.svg_path) ?? "" : "",
-    asset_urls: assetUrls(variation.formats)
+    ...hydrateAsset(`variation:${logo.slug}:${variation.id}`)
   }))
 }));

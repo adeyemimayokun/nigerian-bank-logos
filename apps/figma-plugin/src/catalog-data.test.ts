@@ -10,7 +10,7 @@ describe("institution catalog", () => {
     expect(catalogItems.length).toBeLessThan(expectedDirectorySize);
     expect(catalogItems.flatMap((item) => item.institutions)).toHaveLength(expectedDirectorySize);
     expect(institutionCount).toBe(catalogItems.length);
-    expect(canonicalLogoCount).toBe(199);
+    expect(canonicalLogoCount).toBe(205);
   });
 
   it("includes unmatched fintech research as unverified candidates", () => {
@@ -78,23 +78,19 @@ describe("institution catalog", () => {
     expect(logoCatalogItems.every((item) => item.logo !== null)).toBe(true);
   });
 
-  it("hydrates reviewed logo variations with downloadable assets", () => {
+  it("hydrates reviewed SVG logo variations", () => {
     const sycamore = logoCatalogItems.find((item) => item.logo.slug === "sycamore-integrated-solutions");
     const symbol = sycamore?.logo.variations.find((variation) => variation.id === "symbol");
     const busha = logoCatalogItems.find((item) => item.logo.slug === "busha-digital");
     const light = busha?.logo.variations.find((variation) => variation.id === "light");
 
     expect(symbol?.svg).toContain("<svg");
-    expect(symbol?.asset_urls.png).toBeTruthy();
-    expect(symbol?.asset_urls.webp).toBeTruthy();
     expect(light?.svg).toContain("<svg");
-    expect(light?.asset_urls.png).toBeTruthy();
-    expect(light?.asset_urls.webp).toBeTruthy();
   });
 
-  it("bundles an isolated raster preview for every catalog logo", () => {
+  it("bundles one canonical offline asset for every catalog logo", () => {
     for (const logo of logos) {
-      expect(logo.asset_urls.png ?? logo.asset_urls.webp ?? logo.asset_urls.jpeg).toBeTruthy();
+      expect(logo.svg || logo.asset_urls.png).toBeTruthy();
     }
   });
 });

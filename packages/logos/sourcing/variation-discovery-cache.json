@@ -1,0 +1,3117 @@
+{
+  "9-payment-service-bank": {
+    "crawled_at": "2026-07-15T10:57:15.290Z",
+    "website": "https://9psb.com.ng/",
+    "resolved_url": "https://9psb.com.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "ab-microfinance-bank-nigeria": {
+    "crawled_at": "2026-07-15T10:57:42.259Z",
+    "website": "https://ab-mfbnigeria.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "abeg-technologies": {
+    "crawled_at": "2026-07-15T10:57:42.143Z",
+    "website": "https://pocketapp.com/",
+    "resolved_url": "https://pocketapp.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "access-bank": {
+    "crawled_at": "2026-07-15T10:57:29.214Z",
+    "website": "https://www.accessbankplc.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "page HTTP 403"
+  },
+  "accion-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:02.032Z",
+    "website": "https://www.accionmfb.com/",
+    "resolved_url": "https://www.accionmfb.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "aella-financial-solutions": {
+    "crawled_at": "2026-07-15T10:57:23.471Z",
+    "website": "https://aellaapp.com/",
+    "resolved_url": "https://aellaapp.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://aellaapp.com/icons/logo-main.svg",
+        "descriptor": "aella-logo /icons/logo-main.svg /icons/logo-main.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/aella-financial-solutions/01-alternate.svg",
+        "sha256": "8c2539bbf6c945bfc556bfe7dd6ffa45ec8e3afe2364b9db2de99a64c0404c23",
+        "visual_sha256": "1ed68f51372eb13380c96c8146aa37a2a62b8f3390b2666e8a286a2488e7498f",
+        "width": 84,
+        "height": 40,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://aellaapp.com/images/logo-gif.gif",
+        "descriptor": "aella-logo w-[150px] h-auto -ml-[30px] /images/logo-gif.gif /images/logo-gif.gif",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "unsupported image format: gif"
+      }
+    ]
+  },
+  "african-alliance-insurance": {
+    "crawled_at": "2026-07-15T10:57:04.064Z",
+    "website": "https://www.africanallianceplc.com/",
+    "resolved_url": "https://www.africanallianceplc.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.africanallianceplc.com/wp-content/uploads/2019/04/AAI_OnWhite.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/african-alliance-insurance/01-alternate.png",
+        "sha256": "f998bf996b5688c29ab8244336090c5b10bdaa5be5c39bdea7554400c6055887",
+        "visual_sha256": "1a7fefa2de814236d8a2ff3083d817263b6e6f44b434f27e30f6f0e4bc568fa4",
+        "width": 262,
+        "height": 145,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "afrinvest-securities": {
+    "crawled_at": "2026-07-15T10:57:38.124Z",
+    "website": "https://www.afrinvest.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "alliance-and-general-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:07.331Z",
+    "website": "https://aginsuranceplc.com/",
+    "resolved_url": "https://aginsuranceplc.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "arm-securities": {
+    "crawled_at": "2026-07-15T10:57:41.543Z",
+    "website": "https://www.arm.com.ng/securities/",
+    "resolved_url": "https://www.arm.com.ng/securities/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.arm.com.ng/wp-content/uploads/2025/03/Group-logo.-stone-in-square-shape.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/arm-securities/01-symbol.png",
+        "sha256": "69a2aedf979280ac8d7ac90aa0f7ad8756b0d29ef82d596145aaef2584c66440",
+        "visual_sha256": "a224ffeb1a4f7cb2c5a46858dcb580f60a154720ba82e48c1844fcbc8185d742",
+        "width": 1000,
+        "height": 1000,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "axa-mansard-insurance": {
+    "crawled_at": "2026-07-15T10:57:38.691Z",
+    "website": "https://axamansard.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "bamboo-system-technology": {
+    "crawled_at": "2026-07-15T10:57:27.584Z",
+    "website": "https://investbamboo.com/",
+    "resolved_url": "https://investbamboo.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://investbamboo.com/navbar/logo-desktop-dark.svg",
+        "descriptor": "Bamboo logo-dark absolute left-0 top-[-1.71px] svelte-1p8i1gx /navbar/logo-desktop-dark.svg /navbar/logo-desktop-dark.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/bamboo-system-technology/01-dark.svg",
+        "sha256": "c345b3582659eb6df01c91ce5aa9cf2ab33d8375694b62ba5fb984f68ea63f90",
+        "visual_sha256": "2a125fb6f0c18c4bf1479544642c8ea75fa1ec9a9bb5beef85c06df6cd8a33f0",
+        "width": 102,
+        "height": 29,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://investbamboo.com/navbar/logo-desktop-light.svg",
+        "descriptor": "Bamboo logo-light absolute left-0 top-[-1.71px] svelte-1p8i1gx /navbar/logo-desktop-light.svg /navbar/logo-desktop-light.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/bamboo-system-technology/02-light.svg",
+        "sha256": "7ad7fe6320d3d681dac33d31962c5e9e70a9f10947342a5c75b0aef767eaca97",
+        "visual_sha256": "e80a9c7a04c6c52a66dedb195fb0f62e8a1af74eac08f16fcb03443529a463f7",
+        "width": 102,
+        "height": 29,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://investbamboo.com/navbar/logo-mobile-dark.svg",
+        "descriptor": "Bamboo logo-dark absolute left-0 top-[-4px] svelte-jhbz83 /navbar/logo-mobile-dark.svg /navbar/logo-mobile-dark.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/bamboo-system-technology/03-dark.svg",
+        "sha256": "a6a22db749dee163668b79b257bc91e68eec7a64af8a87e57e35e0aaad055871",
+        "visual_sha256": "0a2610dc520b2d90d6dcebcb899b56bda865d980944b151b143948dd58b6cfa7",
+        "width": 90,
+        "height": 25,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://investbamboo.com/navbar/logo-mobile-light.svg",
+        "descriptor": "Bamboo logo-light absolute left-0 top-[-4px] svelte-jhbz83 /navbar/logo-mobile-light.svg /navbar/logo-mobile-light.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/bamboo-system-technology/04-light.svg",
+        "sha256": "d43b35688ccd5f916a9fdae7cbd071b107c3948f01e1a4e2c32104b47daffe5e",
+        "visual_sha256": "37d7cb4693583b389be12e33e2f0c1617f7a8aa8564ffebd164eac7f1999aa7f",
+        "width": 90,
+        "height": 25,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://investbamboo.com/og/bamboo-logo.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/bamboo-system-technology/05-symbol.png",
+        "sha256": "253c04b530f0a7f1a447585f287ed56dd29ff83adee4e47910cdf91c7f7aa09a",
+        "visual_sha256": "443da54e645aa7bb1a72e774f23e875d7d22d31f7c076fc424355953eacb8357",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "bank-of-agriculture": {
+    "crawled_at": "2026-07-15T10:57:15.915Z",
+    "website": "https://boanig.com/",
+    "resolved_url": "https://boanig.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://boanig.com/wp-content/uploads/2025/09/LOGO.png",
+        "descriptor": "Empowering Agri-Business | Bank of Agriculture /wp-content/uploads/2025/09/LOGO.png https://boanig.com/wp-content/uploads/2025/09/LOGO.png",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/bank-of-agriculture/01-alternate.png",
+        "sha256": "98e9bba960ceedd1194cadc0a030b1be133f55e159cafbd5a52d9370790be5a8",
+        "visual_sha256": "73d18ee57d5c4ade62e5fd17f1179fb0ef8bf794b75723f43ff6fd7e4f499777",
+        "width": 1354,
+        "height": 679,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "bank-of-industry": {
+    "crawled_at": "2026-07-15T10:57:26.061Z",
+    "website": "https://www.boi.ng/",
+    "resolved_url": "https://www.boi.ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.boi.ng/wp-content/uploads/2024/10/BOI-Logo-sm.webp",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "webp",
+        "local_path": "variation-candidates/bank-of-industry/01-wordmark.webp",
+        "sha256": "4e8ffd915ee856bf97a70fd9209cbf30cdd6d4edc77339af4deab7a13efd6c6e",
+        "visual_sha256": "e47718b5df312e4b84aae007685e7c9f9fc143424369141c4c91a24e70aa49aa",
+        "width": 600,
+        "height": 149,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://www.boi.ng/wp-content/uploads/2024/10/BOI-White-logo2.webp",
+        "descriptor": "BOI White logo attachment-full size-full wp-image-21678 /wp-content/uploads/2024/10/BOI-White-logo2.webp https://www.boi.ng/wp-content/uploads/2024/10/BOI-White-logo2.webp",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "webp",
+        "local_path": "variation-candidates/bank-of-industry/02-light.webp",
+        "sha256": "399ef75e9a7b627f8bfed900e612c9aa7cbb0d2ca1bb99246e00eb633e9f9671",
+        "visual_sha256": "04be92495467a7fce5cae512df57d580b03028f41d2aec4f60754142687a8a15",
+        "width": 230,
+        "height": 57,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "boff-and-co-insurance-brokers-l-t-d": {
+    "crawled_at": "2026-07-15T10:57:03.006Z",
+    "website": "https://boffbrokers.com/",
+    "resolved_url": "https://boffbrokers.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://boffbrokers.com/media/2021/05/Boff-Favicon.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/boff-and-co-insurance-brokers-l-t-d/01-symbol.png",
+        "sha256": "3ea1925f6a716ca7e40567f192923efdc41f0d40947919e74cbdb3c5e140f523",
+        "visual_sha256": "586bc882bf694652071590c7301163faf6698228d23d1ac9f39818cffbcd3071",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "branch-international-financial": {
+    "crawled_at": "2026-07-15T10:57:23.499Z",
+    "website": "https://branch.co/ng/",
+    "resolved_url": "https://branch.co/ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "busha-digital": {
+    "crawled_at": "2026-07-15T10:57:29.285Z",
+    "website": "https://busha.io/",
+    "resolved_url": "https://busha.io/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+        "descriptor": "c-image image-contain u-ratio-16-9 u-background-transparent /68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68f6bfdf2c42caaf8e14db51_busha-logo-black.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/busha-digital/01-dark.svg",
+        "sha256": "e2f4d20dd96660917fff96d75773a3adbc54be4e16d397e6b609e7b3beb5c04c",
+        "visual_sha256": "8c06119c619979718f72b320cee642ed0da7eaa9991b8ac4f93ec44f32d2979b",
+        "width": 91,
+        "height": 20,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg",
+        "descriptor": "c-image image-contain u-background-transparent u-align-top u-ratio-2-1 /68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg https://cdn.prod.website-files.com/68e5101e31e1b92ad5bfc306/68eff3a0d81856974b057436_busha-logo.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/busha-digital/02-wordmark.svg",
+        "sha256": "a537297872f8499ca86ff233c841b23408d597d173dff056388f2fcc001cc143",
+        "visual_sha256": "ce26fe728dd76b387743701477e2a333b3354e99eb82904e7ab300bdcbd62760",
+        "width": 91,
+        "height": 20,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "capital-express-indemnity-insurance": {
+    "crawled_at": "2026-07-15T10:57:05.507Z",
+    "website": "https://ceiil.ng/",
+    "resolved_url": "https://ceiil.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "carbon-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:15.974Z",
+    "website": "https://www.getcarbon.co/",
+    "resolved_url": "https://www.getcarbon.co/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/6453bf08503f6d73d5ffe98e/6a048610a0dd907c9ee9bb14_Carbon%20Business%20logo.svg",
+        "descriptor": "nav-logo /6453bf08503f6d73d5ffe98e/6a048610a0dd907c9ee9bb14_Carbon%20Business%20logo.svg https://cdn.prod.website-files.com/6453bf08503f6d73d5ffe98e/6a048610a0dd907c9ee9bb14_Carbon%20Business%20logo.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/carbon-microfinance-bank/01-wordmark.svg",
+        "sha256": "f78e74392e8d02ee400bd9c8376ab9b367e46430a46ed3ac62b56ec8021ad397",
+        "visual_sha256": "97e9c73b3fe30df159dcf96033749570ebb2f26d2c754f44f2aea088021f2d9c",
+        "width": 163,
+        "height": 47,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "cardinal-stone-pensions": {
+    "crawled_at": "2026-07-15T10:57:49.537Z",
+    "website": "https://cardinalstonepensions.com/",
+    "resolved_url": "https://cardinalstonepensions.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://cardinalstonepensions.com/wp-content/uploads/2024/10/CardinalStone-Logo.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/cardinal-stone-pensions/01-wordmark.svg",
+        "sha256": "840528995098c3b6e4be7f471f22cb34dec34ad1c7da1a6b796926271b8cc106",
+        "visual_sha256": "f1a348df63727ab2e4135eaea041ae5627367cd35a40d306dddd0b128ab03680",
+        "width": 160,
+        "height": 55,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "cardinalstone-securities": {
+    "crawled_at": "2026-07-15T10:57:41.621Z",
+    "website": "https://cardinalstonesecurities.com/",
+    "resolved_url": "https://cardinalstonesecurities.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-4-e1764690224524.png",
+        "descriptor": "CardinalStone Securities Limited header-logo-dark /wp-content/uploads/2025/12/Coming-Soon-4-e1764690224524.png https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-4-e1764690224524.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/cardinalstone-securities/01-dark.png",
+        "sha256": "f3896ca19e514dc70193135e0fe2859a62a6d35603129d62d5b3620f7af64cb3",
+        "visual_sha256": "ebf22fad9907174189e943c29d126759d876897b6f49379fde887fb5e77bf6f3",
+        "width": 1648,
+        "height": 453,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-2-e1764690393958.png",
+        "descriptor": "CardinalStone Securities Limited header_logo header-logo /wp-content/uploads/2025/12/Coming-Soon-2-e1764690393958.png https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-2-e1764690393958.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/cardinalstone-securities/02-wordmark.png",
+        "sha256": "91bc29c40ee68cda0f755345d7474f0cb16c3aeb21f4ecf060e5d033cb35d7eb",
+        "visual_sha256": "30d51722d843369ad5a2247cc5e3bdcf98397363714d163409687b1f982c258d",
+        "width": 1735,
+        "height": 526,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "central-bank-of-nigeria": {
+    "crawled_at": "2026-07-15T10:57:34.151Z",
+    "website": "https://www.cbn.gov.ng/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "chaka-technologies": {
+    "crawled_at": "2026-07-15T10:57:44.900Z",
+    "website": "https://hisa.co/",
+    "resolved_url": "https://hisa.co/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://hisa.co/_astro/hero-img.B2oHhKOl_COpQv.png",
+        "descriptor": "A classical stone pillar revealing a gold bar engraved with the Hisa logo absolute top-0 left-1/2 h-137.5 w-108.25 max-w-none -translate-x-1/2 /_astro/hero-img.B2oHhKOl_COpQv.png /_astro/hero-img.B2oHhKOl_COpQv.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/chaka-technologies/01-symbol.png",
+        "sha256": "dbd35df0c800b0bd6a22932c9ae48b772cd3ad37b44ad5eef244223a653669e4",
+        "visual_sha256": "7db9610ad348fffe9461fd1e90b4fe1bb580c02c770b49915e9ca1adf3191bd2",
+        "width": 433,
+        "height": 550,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "chapel-hill-denham": {
+    "crawled_at": "2026-07-15T10:57:37.867Z",
+    "website": "https://chapelhilldenham.com/",
+    "resolved_url": "https://chapelhilldenham.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://chapelhilldenham.com/wp-content/uploads/2024/04/chapel-hill-denham-logo-retina-white-version.png",
+        "descriptor": "Chapel Hill Denham Logo scale-with-grid /wp-content/uploads/2024/04/chapel-hill-denham-logo-retina-white-version.png https://chapelhilldenham.com/wp-content/uploads/2024/04/chapel-hill-denham-logo-retina-white-version.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/chapel-hill-denham/01-light.png",
+        "sha256": "f8901857e6bc725df8021861d2dff1316a5decea25cae1e4e8c5dbe3b4f2034f",
+        "visual_sha256": "874038674156325c45a978bfb03f56446406d80da38cb0d60a9daa1616ca865e",
+        "width": 450,
+        "height": 139,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "citibank": {
+    "crawled_at": "2026-07-15T10:57:19.009Z",
+    "website": "https://www.citigroup.com/global/about-us/global-presence/nigeria",
+    "resolved_url": "https://www.citigroup.com/global/about-us/global-presence/nigeria",
+    "status": "none",
+    "candidates": []
+  },
+  "citizens-pensions": {
+    "crawled_at": "2026-07-15T10:57:42.990Z",
+    "website": "https://citizenspensions.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "ckk-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:27.565Z",
+    "website": "https://ckkcapital.com.ng/",
+    "resolved_url": "https://ckkcapital.com.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "confiance-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:06.016Z",
+    "website": "https://confianceib.com/",
+    "resolved_url": "https://confianceib.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://confianceib.com/confianceLogo.png",
+        "descriptor": "Confiance Insurance Brokers Ltd /confianceLogo.png confianceLogo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/confiance-insurance-brokers/01-symbol.png",
+        "sha256": "bbcbfaf948ca9ad9ac845c3f01a3eeeceb9a328504776826c918e3c7b04a755a",
+        "visual_sha256": "6776993df1be02e46c587f3dc50d9fdf7988ccd0bf9acaa2c4f624479221fd69",
+        "width": 206,
+        "height": 185,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "connectpoint-technology-solutions": {
+    "crawled_at": "2026-07-15T10:57:49.030Z",
+    "website": "https://connectpoint.com.ng/",
+    "resolved_url": "https://connectpoint.com.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://connectpoint.com.ng/wp-content/uploads/2025/07/ConnectPoint-favicon-1.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/connectpoint-technology-solutions/01-symbol.png",
+        "sha256": "a14d3bb73cf9ffee72839a93205d8b0d1df1280a769aa19836a94c29cc5ac344",
+        "visual_sha256": "95ed8b8ef079f25c21665e40e9ae56c053f7a4ce7c2cabf2527446937fa3e846",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "consolidated-hallmark-insurance": {
+    "crawled_at": "2026-07-15T10:57:04.706Z",
+    "website": "https://www.ch-insure.com/",
+    "resolved_url": "https://www.ch-insure.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.ch-insure.com/wp-content/uploads/2026/04/cropped-CHI-Logo-1.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/consolidated-hallmark-insurance/01-alternate.png",
+        "sha256": "56d843fc5b9defdb16a95d1f609da0f82de37aaba395992ede168af92ea9c81b",
+        "visual_sha256": "d29aecea0903b42aa24a3b012eeedad8fdca46f3608f19fe7572911a106d2a52",
+        "width": 1085,
+        "height": 772,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "cordros-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:28.003Z",
+    "website": "https://cordros.com/",
+    "resolved_url": "https://cordros.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "cordros-securities": {
+    "crawled_at": "2026-07-15T10:57:41.340Z",
+    "website": "https://cordros.com/",
+    "resolved_url": "https://cordros.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cordros.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapital-logo.1ezr-1cy8xqkf.png&w=640&q=75",
+        "descriptor": "cordros logo h-[38px] tablet:h-[45px] w-fit /_next/image /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapital-logo.1ezr-1cy8xqkf.png&w=640&q=75",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "webp",
+        "local_path": "variation-candidates/cordros-securities/01-wordmark.webp",
+        "sha256": "34dca1e4e9f579b43c516f8d172e97605a8b7ab76c6e2d62f40f515bd9a8ed4b",
+        "visual_sha256": "e0c3687346e9f49882e921ee9e72d0806a02751298f678b8143f28ffd2c3d8e2",
+        "width": 315,
+        "height": 87,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "cornerstone-insurance": {
+    "crawled_at": "2026-07-15T10:57:03.284Z",
+    "website": "https://cornerstone.com.ng/",
+    "resolved_url": "https://cornerstone.com.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cornerstone.com.ng/assets/images/my-img/logo.png",
+        "descriptor": "Cornerstone logo-dark /assets/images/my-img/logo.png https://cornerstone.com.ng/assets/images/my-img/logo.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/cornerstone-insurance/01-dark.png",
+        "sha256": "8c2f9e9c705ca792769c327716c7eca1dcb3ede3bf53f0839771a30674a49ac5",
+        "visual_sha256": "960ecc140ee5a16bbeb87c52e1784e4869f839cf055b22c1700b772b7835923b",
+        "width": 117,
+        "height": 52,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "coronation-merchant-bank": {
+    "crawled_at": "2026-07-15T10:57:18.561Z",
+    "website": "https://www.coronationmb.com/",
+    "resolved_url": "https://www.coronationmb.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.coronationmb.com/wp-content/uploads/2020/01/CMB_logo.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/coronation-merchant-bank/01-alternate.svg",
+        "sha256": "8025ae80be61978f634c4fc53ac51814ec3bd71becacbf2a8a6fc3eb73200db1",
+        "visual_sha256": "770245fe5f017a4a6c4b33ad6fe7d2849b46bc7ed6ec8112ed1cf7fb3e737cca",
+        "width": 200,
+        "height": 87,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://www.coronationmb.com/wp-content/uploads/2019/08/Logo-White.png",
+        "descriptor": "attachment-full size-full /wp-content/uploads/2019/08/Logo-White.png https://www.coronationmb.com/wp-content/uploads/2019/08/Logo-White.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/coronation-merchant-bank/02-light.png",
+        "sha256": "11478129ca1c66ceb9fc82f14d537324cf00ff1ae03888ed5a0ae4aa6308d793",
+        "visual_sha256": "008bbff894b3fbcfa0fc52347f141e5c1df82f7ba43dd19e6eaffced4e4ce420",
+        "width": 2763,
+        "height": 287,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "cowrywise-financial-technology": {
+    "crawled_at": "2026-07-15T10:57:27.003Z",
+    "website": "https://cowrywise.com/",
+    "resolved_url": "https://cowrywise.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "creditstar-microinsurance": {
+    "crawled_at": "2026-07-15T10:57:05.062Z",
+    "website": "https://www.mycreditstar.com/",
+    "resolved_url": "https://www.mycreditstar.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "crednet-technologies": {
+    "crawled_at": "2026-07-15T10:57:25.839Z",
+    "website": "http://credpal.com/",
+    "resolved_url": "http://credpal.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "crown-takaful-insurance": {
+    "crawled_at": "2026-07-15T10:57:04.728Z",
+    "website": "https://crowntakaful.com/",
+    "resolved_url": "https://crowntakaful.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "custodian-and-allied-insurance": {
+    "crawled_at": "2026-07-15T10:57:07.492Z",
+    "website": "https://custodianinsurance.com/",
+    "resolved_url": "https://custodianinsurance.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://custodianinsurance.com/wp-content/uploads/2025/08/cropped-Favicon.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/custodian-and-allied-insurance/01-symbol.png",
+        "sha256": "cc4cfbc4c970353aca92270b1e1af88d60b3719c2fbe590d4d18cd32379e499f",
+        "visual_sha256": "fb974d42bf4bf948e21f8ad92a18089278fa1d87db653bbf8667f6a8a893a8f6",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "development-bank-of": {
+    "crawled_at": "2026-07-15T10:57:17.316Z",
+    "website": "https://www.devbankng.com/",
+    "resolved_url": "https://www.devbankng.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "dunbell-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:16.022Z",
+    "website": "https://insurance.dunbellinvestmentgroup.com/",
+    "resolved_url": "https://insurance.dunbellinvestmentgroup.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "ecobank": {
+    "crawled_at": "2026-07-15T10:57:38.860Z",
+    "website": "https://www.ecobank.com/ng/personal-banking",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "emple-general-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:09.173Z",
+    "website": "https://www.emple.group/",
+    "resolved_url": "https://www.emple.group/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.emple.group/wp-content/uploads/2024/06/emPLE-Main-Logo-1.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/emple-general-insurance-company/01-wordmark.svg",
+        "sha256": "47e16f2c892cfeeecca8225d6deb83b13321a6d29b093cddf4f9f6a593145950",
+        "visual_sha256": "07c69c3e1371d26ef3bb662ed130e7e6ecab3a65d39dfaaad50860b1d72f40fe",
+        "width": 93,
+        "height": 36,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "emple-life-assurance-company": {
+    "crawled_at": "2026-07-15T10:57:08.104Z",
+    "website": "https://www.emple.group/",
+    "resolved_url": "https://www.emple.group/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.emple.group/wp-content/uploads/2024/06/emPLE-Main-Logo-1.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/emple-life-assurance-company/01-wordmark.svg",
+        "sha256": "47e16f2c892cfeeecca8225d6deb83b13321a6d29b093cddf4f9f6a593145950",
+        "visual_sha256": "07c69c3e1371d26ef3bb662ed130e7e6ecab3a65d39dfaaad50860b1d72f40fe",
+        "width": 93,
+        "height": 36,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "errandpay": {
+    "crawled_at": "2026-07-15T10:57:47.592Z",
+    "website": "https://errandpay.com/",
+    "resolved_url": "https://errandpay.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://errandpay.com/errandpaylogo.svg",
+        "descriptor": "Erandpay h-8 w-auto /errandpaylogo.svg /errandpaylogo.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/errandpay/01-wordmark.svg",
+        "sha256": "7e1d6a686b429e8741c05881381739ded428f1eea2828c4405533b1fd152ad6b",
+        "visual_sha256": "438fe3485dfd90a75ce8d501f3365fe35d530fdd1b62334539052d2b9aa6e2c2",
+        "width": 131,
+        "height": 32,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://errandpay.com/errandpay.svg",
+        "descriptor": "errandpay-logo rounded-full object-cover /errandpay.svg /errandpay.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/errandpay/02-wordmark.svg",
+        "sha256": "c0ccfcdf9ae11b20ce62924518947f112660b2686dcb9171d4b9ac83502974b4",
+        "visual_sha256": "fa124e0d17c1c6dab5ba43d79e59ffeecaa1183d5ed299d3b8cf2c99bd6c66d9",
+        "width": 218,
+        "height": 54,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "fairmoney-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:33.286Z",
+    "website": "https://fairmoney.io/",
+    "resolved_url": "https://fairmoney.io/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://fairmoney.io/logo.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "asset HTTP 403"
+      }
+    ]
+  },
+  "fcmb-group": {
+    "crawled_at": "2026-07-15T10:57:18.292Z",
+    "website": "https://www.fcmbgroup.com/",
+    "resolved_url": "https://www.fcmbgroup.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "fcmb-pensions": {
+    "crawled_at": "2026-07-15T10:57:45.245Z",
+    "website": "https://fcmbpensions.com/",
+    "resolved_url": "https://fcmbpensions.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://fcmbpensions.com/img/FCMBPensions-New-Logo-i.png",
+        "descriptor": "FCMB Pensions Logo logo-light /img/FCMBPensions-New-Logo-i.png img/FCMBPensions-New-Logo-i.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/fcmb-pensions/01-light.png",
+        "sha256": "c17e1d9bfdb115bb73de185f5333034a81060fc08ecf9a050fb3c9514137fc9f",
+        "visual_sha256": "93cc8aea9f4e9a5e8950f5f120e2e2537afbeef7f671d4e53347e36f1f2b6f1a",
+        "width": 250,
+        "height": 120,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://fcmbpensions.com/img/FCMBPensions-New-Logo-white-i.png",
+        "descriptor": "FCMB Pensions Logo /img/FCMBPensions-New-Logo-white-i.png img/FCMBPensions-New-Logo-white-i.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/fcmb-pensions/02-light.png",
+        "sha256": "4644942f501bdb028c79a1340da485c2de70689e48d5c157cef1f08268f2aa44",
+        "visual_sha256": "9679a46fd67f2e0f2fa808232608c0945b189fcd4e2a90185e9cabf516f06dea",
+        "width": 250,
+        "height": 120,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "federal-competition-and-consumer-protection-commission": {
+    "crawled_at": "2026-07-15T10:57:35.935Z",
+    "website": "https://fccpc.gov.ng/",
+    "resolved_url": "https://fccpc.gov.ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://fccpc.gov.ng/wp-content/uploads/2022/07/cropped-Artboard-%E2%80%93-10-1.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/federal-competition-and-consumer-protection-commission/01-symbol.png",
+        "sha256": "c180a7d2d77368ed0814acd04556ca653a375ea0a4b12506bdde2a7ded6d9568",
+        "visual_sha256": "501a46413b39763789f827d2337d5001bac49a06e9187551682d6dcf505bc40b",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "federal-mortgage-bank-of-nigeria": {
+    "crawled_at": "2026-07-15T10:57:17.721Z",
+    "website": "https://fmbn.gov.ng/",
+    "resolved_url": "https://fmbn.gov.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "fidelity-bank": {
+    "crawled_at": "2026-07-15T10:57:17.694Z",
+    "website": "https://www.fidelitybank.ng/",
+    "resolved_url": "https://www.fidelitybank.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.fidelitybank.ng/wp-content/uploads/2020/07/Fidelity_Bank_Plc_Main_Logo.svg",
+        "descriptor": "attachment-full size-full wp-image-37562 /wp-content/uploads/2020/07/Fidelity_Bank_Plc_Main_Logo.svg /wp-content/uploads/2020/07/Fidelity_Bank_Plc_Main_Logo.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/fidelity-bank/01-wordmark.svg",
+        "sha256": "e644edd4ba4fa2f91b8817032bc3c73259ab264dea1060b87f2a41bfe6edbeae",
+        "visual_sha256": "07e86cef2b7d45863fe1ba43573ceff13ad0453138c8c97e8bc6b28e61258ccb",
+        "width": 130,
+        "height": 32,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "fin-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:05.980Z",
+    "website": "https://finsurance.com.ng/",
+    "resolved_url": "https://finsurance.com.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "fincra-technologies": {
+    "crawled_at": "2026-07-15T10:57:33.090Z",
+    "website": "https://fincra.com/",
+    "resolved_url": "https://fincra.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://fincra.com/wp-content/uploads/2022/10/cropped-Favicon.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/fincra-technologies/01-symbol.png",
+        "sha256": "e84bb9f6c13a89fcaf29baea4a11fb044c076b370eaae0580f3042ba7716af29",
+        "visual_sha256": "7078c534fc3f56fe3d9b17889b4caaa9fe5e4765b711d015ca2b105098f91a84",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://fincra.com/wp-content/uploads/2022/10/fincra-website-logo-colored.png",
+        "descriptor": "Fincra stnd skip-lazy default-logo dark-version /wp-content/uploads/2022/10/fincra-website-logo-colored.png https://fincra.com/wp-content/uploads/2022/10/fincra-website-logo-colored.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/fincra-technologies/02-dark.png",
+        "sha256": "1cec5203b5a53341909692c84264bee18c8c852d83149cb05671c8afc19d2f44",
+        "visual_sha256": "e7bdf9a82327e631b06fdaf920f0e29adb88b1b2763111e26497d4d4ece0bb67",
+        "width": 640,
+        "height": 200,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "first-adequate-benefit-insurance-brokers-l-t-d": {
+    "crawled_at": "2026-07-15T10:57:06.912Z",
+    "website": "https://firstadequatebrokers.com/",
+    "resolved_url": "https://firstadequatebrokers.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://firstadequatebrokers.com/wp-content/uploads/2022/06/download.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/first-adequate-benefit-insurance-brokers-l-t-d/01-alternate.png",
+        "sha256": "d5ed1739fe71ffdc301bf1f6aaed884a8cf4afda6d3e6866b6df31d81b748402",
+        "visual_sha256": "b1efa1068e4c0f08a24c7576bef1a05883b955785fcd3f165f0f4806043c6435",
+        "width": 250,
+        "height": 158,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "first-bank-of": {
+    "crawled_at": "2026-07-15T10:57:17.801Z",
+    "website": "https://www.firstbanknigeria.com/",
+    "resolved_url": "https://www.firstbanknigeria.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.firstbanknigeria.com/wp-content/uploads/2020/01/First-Bank.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/first-bank-of/01-wordmark.svg",
+        "sha256": "6ab6abea723c5e650cbb19349f54626386d753769dc3e2987e56abcf251d59c7",
+        "visual_sha256": "47d6eab25c4c54880fb2d5c55b18037c9e2b3a0b32ab0805f801a00f7c53809c",
+        "width": 904,
+        "height": 243,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "first-city-monument-bank": {
+    "crawled_at": "2026-07-15T10:57:31.231Z",
+    "website": "https://www.fcmb.com/",
+    "resolved_url": "https://www.fcmb.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "flex-financial-technologies": {
+    "crawled_at": "2026-07-15T10:57:47.219Z",
+    "website": "https://useflexfinance.com/",
+    "resolved_url": "https://useflexfinance.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://useflexfinance.com/assets/img/favicons/ms-icon-310x310.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/flex-financial-technologies/01-symbol.png",
+        "sha256": "7027cea14bf527ded7a6b939944b0163ad05225c459e255055bd4efd79f84a36",
+        "visual_sha256": "983fcb17887609d0ba5c96ce6f9c5594cad9a1aa4c9d0e679205da3742f903f8",
+        "width": 310,
+        "height": 310,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "flutterwave": {
+    "crawled_at": "2026-07-15T10:57:02.650Z",
+    "website": "https://flutterwave.com/ng/",
+    "resolved_url": "https://flutterwave.com/ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://flutterwave.com/images/logo/full.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/flutterwave/01-wordmark.svg",
+        "sha256": "dc148ac05999ecd45e17177b7894395267c2c2b34dbdd2376652c3ba8fb934e9",
+        "visual_sha256": "0c187774b7b42543c40d2af619dcf3df6c42132943d1897d170a338081148fc9",
+        "width": 1013,
+        "height": 241,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "fsdh-holding-company": {
+    "crawled_at": "2026-07-15T10:57:18.994Z",
+    "website": "https://fsdhgroup.com/",
+    "resolved_url": "https://fsdhgroup.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://fsdhgroup.com/wp-content/uploads/2021/05/holdcotrall.png",
+        "descriptor": "FSDH GROUP logo logo-light /wp-content/uploads/2021/05/holdcotrall.png https://fsdhgroup.com/wp-content/uploads/2021/05/holdcotrall.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/fsdh-holding-company/01-light.png",
+        "sha256": "6049bc7daca9b2ee75c35b2d247e58555b8776ce23d8e9678612975e0c9020c8",
+        "visual_sha256": "7f2d5077a6b38803b8a3bdbc51aa445056cb2694ce148dc085faa0372195d5aa",
+        "width": 321,
+        "height": 207,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://fsdhgroup.com/wp-content/uploads/2021/05/FSDH-hOLDCO-Logo.png",
+        "descriptor": "FSDH GROUP logo logo-dark /wp-content/uploads/2021/05/FSDH-hOLDCO-Logo.png https://fsdhgroup.com/wp-content/uploads/2021/05/FSDH-hOLDCO-Logo.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/fsdh-holding-company/02-dark.png",
+        "sha256": "15959b9e34d5fa4fc98541523e80e17dc0da56264ba922f1ab4e73aec223b99f",
+        "visual_sha256": "c92fe4e7dabe769e64519a5f7393e16074a6b8f52d2cc3dd3450c761451c8328",
+        "width": 1559,
+        "height": 1156,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "fsdh-merchant-bank": {
+    "crawled_at": "2026-07-15T10:57:19.567Z",
+    "website": "https://fsdhmerchantbank.com/",
+    "resolved_url": "https://fsdhmerchantbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "getequity": {
+    "crawled_at": "2026-07-15T10:57:42.540Z",
+    "website": "https://www.getequity.io/",
+    "resolved_url": "https://www.getequity.io/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.getequity.io/_nuxt/img/logo-dark.1fe2717.svg",
+        "descriptor": "GetEquity h-8 /_nuxt/img/logo-dark.1fe2717.svg /_nuxt/img/logo-dark.1fe2717.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/getequity/01-dark.svg",
+        "sha256": "f327a427b3c2d6529f8b5bf5e6c284b7f57c0153ae7e277ca31f306c6ef21cc7",
+        "visual_sha256": "7a10554ab2125af6beed8b8093c49e2171308b407dbe647cc61e3f0f0a655b1f",
+        "width": 127,
+        "height": 26,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "globus-bank": {
+    "crawled_at": "2026-07-15T10:57:18.351Z",
+    "website": "https://www.globusbank.com/",
+    "resolved_url": "https://www.globusbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "goxi-microinsurance-company": {
+    "crawled_at": "2026-07-15T10:57:06.615Z",
+    "website": "https://goximicroinsurance.com/",
+    "resolved_url": "https://goximicroinsurance.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "great-nigeria-insurance": {
+    "crawled_at": "2026-07-15T10:57:06.751Z",
+    "website": "https://greatnigeriaplc.com/",
+    "resolved_url": "https://greatnigeriaplc.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "green-leaf-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:09.372Z",
+    "website": "https://www.greenleafib.com/",
+    "resolved_url": "https://www.greenleafib.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://greenleafib.com/wp-content/uploads/2021/09/gl3.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/green-leaf-insurance-brokers/01-wordmark.png",
+        "sha256": "1423744e865294bfa89907fb23658381906b13e6c8c613e5ee4e9a2015c9fdc2",
+        "visual_sha256": "f9ca14c6acc364535b98d8e3c5c9f44644622c081ad05668cad683b33901255c",
+        "width": 3952,
+        "height": 858,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://www.greenleafib.com/wp-content/uploads/2021/09/gl3-188x41.png",
+        "descriptor": "Greenleaf Insurance Brokers custom-logo /wp-content/uploads/2021/09/gl3-188x41.png https://www.greenleafib.com/wp-content/uploads/2021/09/gl3-188x41.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/green-leaf-insurance-brokers/02-wordmark.png",
+        "sha256": "187c23618b3f1f486248c6989176cebc642f7f5c1671c0b556c53405b0394f83",
+        "visual_sha256": "480da5235ab815f4dfedba302dc80efa3a2b996d2e3b0925515fac59f5fecee8",
+        "width": 188,
+        "height": 41,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "greenwich-merchant-bank": {
+    "crawled_at": "2026-07-15T10:57:19.055Z",
+    "website": "https://www.greenwichbankgroup.com/",
+    "resolved_url": "https://www.greenwichbankgroup.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.greenwichbankgroup.com/wp-content/uploads/2025/02/GMB.png",
+        "descriptor": "Greenwich Merchant Bank custom-logo /wp-content/uploads/2025/02/GMB.png https://www.greenwichbankgroup.com/wp-content/uploads/2025/02/GMB.png",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/greenwich-merchant-bank/01-alternate.png",
+        "sha256": "b80c82566ee93eeaf1c397ad82e4c45268846be97f3b5885b39a4f3e4d95ef30",
+        "visual_sha256": "9804d2be6ba05f33d67b929d5858bcb9e57651c8c6e74d8172f1ac0c98880a7c",
+        "width": 2481,
+        "height": 1184,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://www.greenwichbankgroup.com/wp-content/uploads/2023/05/main-logo.jpg",
+        "descriptor": "Greenwich Merchant Bank sticky-logo /wp-content/uploads/2023/05/main-logo.jpg https://www.greenwichbankgroup.com/wp-content/uploads/2023/05/main-logo.jpg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "jpeg",
+        "local_path": "variation-candidates/greenwich-merchant-bank/02-wordmark.jpg",
+        "sha256": "7b6bcdbc6d69725bc350c13f937b5a4df720e0362ed1af9568020639f37a567a",
+        "visual_sha256": "97ea7e7aabedbf20f617011a99c491308ff2419ba40fc642d6c68b33f3218726",
+        "width": 374,
+        "height": 100,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "grey": {
+    "crawled_at": "2026-07-15T10:57:46.395Z",
+    "website": "https://grey.co/",
+    "resolved_url": "https://grey.co/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
+        "descriptor": "Grey Lockup in White greylockup /6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/grey/01-light.svg",
+        "sha256": "ee78685a66d74c81ea917886941ff8838477b86f3ecc8d363dc6067765d6f6cf",
+        "visual_sha256": "3f7e6f023e28681427f69a30899070f00de50b11b058fad4f25ffec49d4ca64d",
+        "width": 93,
+        "height": 28,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "guaranty-trust-bank": {
+    "crawled_at": "2026-07-15T10:57:43.052Z",
+    "website": "https://www.gtbank.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "guaranty-trust-holding-company": {
+    "crawled_at": "2026-07-15T10:57:19.149Z",
+    "website": "https://www.gtcoplc.com/",
+    "resolved_url": "https://www.gtcoplc.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "guaranty-trust-pension-managers": {
+    "crawled_at": "2026-07-15T10:57:46.878Z",
+    "website": "https://www.gtpensionmanagers.com/",
+    "resolved_url": "https://www.gtpensionmanagers.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "guinea-insurance": {
+    "crawled_at": "2026-07-15T10:57:07.092Z",
+    "website": "https://guineainsurance.com/",
+    "resolved_url": "https://guineainsurance.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://guineainsurance.com/public/media-assets//file1706788434.png",
+        "descriptor": "Guinea Insurance PLC mobilelogo /public/media-assets//file1706788434.png public/media-assets//file1706788434.png",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/guinea-insurance/01-alternate.png",
+        "sha256": "9573fc726c54cea37819b50a0a9d9427d2deb23b831e876ff6dda177341f78a8",
+        "visual_sha256": "a66e0ae99fc189e0e8cf626b6272e267f3ef1fdfb6a80e9c2e369e052e7e9614",
+        "width": 250,
+        "height": 130,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "heirs-general-insurance": {
+    "crawled_at": "2026-07-15T10:57:06.923Z",
+    "website": "https://heirsinsurancegroup.com/",
+    "resolved_url": "https://heirsinsurancegroup.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://heirsinsurancegroup.com/wp-content/uploads/2023/11/Heirs-Insurance-Group-%E2%80%94-Logo-Red-150x150.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/heirs-general-insurance/01-symbol.png",
+        "sha256": "9cbee171337de667a44b07fc24ad8ff47ca87b1ae6d00b07cb3b92f2d277c5c9",
+        "visual_sha256": "a4f0a090fad7828d08d778ca67e29df7e8a9acefa6299c9dbc1e280418889358",
+        "width": 150,
+        "height": 150,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "heirs-life-assurance": {
+    "crawled_at": "2026-07-15T10:57:07.405Z",
+    "website": "https://heirsinsurancegroup.com/",
+    "resolved_url": "https://heirsinsurancegroup.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://heirsinsurancegroup.com/wp-content/uploads/2023/11/Heirs-Insurance-Group-%E2%80%94-Logo-Red-150x150.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/heirs-life-assurance/01-symbol.png",
+        "sha256": "9cbee171337de667a44b07fc24ad8ff47ca87b1ae6d00b07cb3b92f2d277c5c9",
+        "visual_sha256": "a4f0a090fad7828d08d778ca67e29df7e8a9acefa6299c9dbc1e280418889358",
+        "width": 150,
+        "height": 150,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "hervest-for-women": {
+    "crawled_at": "2026-07-15T10:57:31.634Z",
+    "website": "https://hervest.ng/",
+    "resolved_url": "https://hervest.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "hilal-takaful": {
+    "crawled_at": "2026-07-15T10:57:46.165Z",
+    "website": "https://hilaltakaful.com.ng/",
+    "resolved_url": "https://hilaltakaful.com.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://hilaltakaful.com.ng/web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd?unique=31eac42",
+        "descriptor": "Hilal Takaful Nig. Ltd img img-fluid /web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd /web/image/website/1/logo/Hilal%20Takaful%20Nig.%20Ltd?unique=31eac42",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/hilal-takaful/01-alternate.png",
+        "sha256": "053b37d9fa88030c56d815e94bd909efa951bd0e149a4d3c87468f83b99270c0",
+        "visual_sha256": "9fffdd0c4e2f6778313ab7cfe07514a22ef95000afd3326370b21356ba0fe0a8",
+        "width": 228,
+        "height": 114,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "hope-payment-service-bank": {
+    "crawled_at": "2026-07-15T10:57:19.679Z",
+    "website": "https://hopepsbank.com/",
+    "resolved_url": "https://hopepsbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "i-invest": {
+    "crawled_at": "2026-07-15T10:57:43.008Z",
+    "website": "https://www.i-investng.com/",
+    "resolved_url": "https://www.i-investng.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.i-investng.com/brand/i-invest-logo.svg",
+        "descriptor": "w-auto shrink-0 object-contain h-10.5 xl:h-[51.599px] /brand/i-invest-logo.svg /brand/i-invest-logo.svg",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "svg",
+        "local_path": "variation-candidates/i-invest/01-symbol.svg",
+        "sha256": "b85e149227e527984a4393c1669d05fd32b4a873421201ed29a5ff820f69c933",
+        "visual_sha256": "27cf051198acb24bc1dd5d2eb858daf4c974fd9c9dc3cdb61adb89e8cc989f81",
+        "width": 45,
+        "height": 52,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "industrial-and-general-insurance": {
+    "crawled_at": "2026-07-15T10:57:10.154Z",
+    "website": "https://www.iginigeria.com/",
+    "resolved_url": "https://www.iginigeria.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "interswitch": {
+    "crawled_at": "2026-07-15T10:57:28.343Z",
+    "website": "https://interswitchgroup.com/",
+    "resolved_url": "https://interswitchgroup.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://interswitchgroup.com/build-assets/white-og-logo.DerhIWr2_1ka5xi.svg",
+        "descriptor": "/build-assets/white-og-logo.DerhIWr2_1ka5xi.svg /build-assets/white-og-logo.DerhIWr2_1ka5xi.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/interswitch/01-light.svg",
+        "sha256": "a9704d6dcd44870d30529e474f078a5bb92e03e0c08f579358280887032ae36b",
+        "visual_sha256": "826d7f7409b358920fffd195da29b74f4917962a6311c0f43a0fa4a8073b2580",
+        "width": 120,
+        "height": 30,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://interswitchgroup.com/build-assets/interswitch-logo.B9PxYkQW_29LYiJ.svg",
+        "descriptor": "interswitch footer__logo /build-assets/interswitch-logo.B9PxYkQW_29LYiJ.svg /build-assets/interswitch-logo.B9PxYkQW_29LYiJ.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/interswitch/02-wordmark.svg",
+        "sha256": "0681938307fd687d26c0ee9cf265ebb1e48e02662e01b8f71484e25d62cbc049",
+        "visual_sha256": "c1b8725b9d0ba40c7496942313a1458c7de522aa4945f7097043823ddbc98bb8",
+        "width": 132,
+        "height": 34,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "inline:interswitch:3",
+        "descriptor": "brand-logo main-nav-logo interswitch brand logo inline-0",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/interswitch/03-wordmark.svg",
+        "sha256": "0fec6ff606528d73b77e1406a8f57485309cab02fbe3a24d90a594521e04ca19",
+        "visual_sha256": "8c4a8e17fc8022ec0dedcdb21582249c5a6c73affbdf2cdda0aa96668037689b",
+        "width": 132,
+        "height": 33,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "investnaija": {
+    "crawled_at": "2026-07-15T10:57:45.110Z",
+    "website": "https://investnaija.com/",
+    "resolved_url": "https://investnaija.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://investnaija.com/assets/logowhite-D39P74iH.svg",
+        "descriptor": "InvestNaija Logo w-32 /assets/logowhite-D39P74iH.svg assets/logowhite-D39P74iH.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/investnaija/01-light.svg",
+        "sha256": "7369ddb7ec40e6eb91548569baf55fe5a13e06d23a74d4e43347be0afd791fb3",
+        "visual_sha256": "35b64e9b6c86050195da335d9d88ddc3538f8f6cab817864fb823cd4ca8ebbe3",
+        "width": 198,
+        "height": 63,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "investnow": {
+    "crawled_at": "2026-07-15T10:57:36.100Z",
+    "website": "https://www.investnow.ng/",
+    "resolved_url": "https://www.investnow.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "jaiz-bank": {
+    "crawled_at": "2026-07-15T10:57:19.507Z",
+    "website": "https://jaizbankplc.com/",
+    "resolved_url": "https://jaizbankplc.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "jaiz-takaful": {
+    "crawled_at": "2026-07-15T10:57:08.092Z",
+    "website": "https://jaiztakafulinsurance.com/",
+    "resolved_url": "https://jaiztakafulinsurance.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "keystone-bank": {
+    "crawled_at": "2026-07-15T10:57:21.510Z",
+    "website": "https://www.keystonebankng.com/",
+    "resolved_url": "https://www.keystonebankng.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.keystonebankng.com/wp-content/uploads/2020/11/cropped-keystone-bank-logo.png",
+        "descriptor": "Keystone Bank Nigeria /wp-content/uploads/2020/11/cropped-keystone-bank-logo.png https://www.keystonebankng.com/wp-content/uploads/2020/11/cropped-keystone-bank-logo.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/keystone-bank/01-wordmark.png",
+        "sha256": "236ba5d205a1fbf53099d5438e9cdf89d3b7d10dded25e69cd1b2ec65254cdec",
+        "visual_sha256": "ced0cf68d60cb3c43d15067b9f25bdf9e13cd2f76928330cb9b73b8d6e64b166",
+        "width": 348,
+        "height": 108,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "kiakia-bits": {
+    "crawled_at": "2026-07-15T10:57:27.786Z",
+    "website": "https://kiakia.co/",
+    "resolved_url": "https://kiakia.co/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://kiakia.co/_next/static/media/logout.b6299bec.svg",
+        "descriptor": "Sign out invert dark:invert-0 /_next/static/media/logout.b6299bec.svg /_next/static/media/logout.b6299bec.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/kiakia-bits/01-dark.svg",
+        "sha256": "d381bdb2c888bdc1bb6e9d2c3d1bf4722491a52aeee20a96078f8e7e657ef00a",
+        "visual_sha256": "f005521d1d15cfb25e5d1884dae086d3bd893240ce97e506e6610366df54732b",
+        "width": 24,
+        "height": 24,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://kiakia.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.5079cf7e.png&w=640&q=75",
+        "descriptor": "Logo /_next/image /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.5079cf7e.png&w=640&q=75",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/kiakia-bits/02-light.png",
+        "sha256": "9de2b870440585a92f923ee91cb92c31c241c30233c31e549c72aae78bf514db",
+        "visual_sha256": "88bd456276623fd11b2f03a2b0b4c82cb2c285497a744e3f1077c76819400205",
+        "width": 218,
+        "height": 60,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "kuda-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:18.182Z",
+    "website": "https://www.kuda.com/",
+    "resolved_url": "https://www.kuda.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "lapo-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:07.678Z",
+    "website": "https://www.lapo-nigeria.org/",
+    "resolved_url": "https://www.lapo-nigeria.org/",
+    "status": "none",
+    "candidates": []
+  },
+  "lasaco-assurance": {
+    "crawled_at": "2026-07-15T10:57:08.439Z",
+    "website": "https://lasacoassurance.com/",
+    "resolved_url": "https://lasacoassurance.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://lasacoassurance.com/assets/uploads/logo.png",
+        "descriptor": "Logo logo-light /assets/uploads/logo.png https://lasacoassurance.com/assets/uploads/logo.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/lasaco-assurance/01-light.png",
+        "sha256": "ff9db060585161e0ddd4def649f243b73a706959d68f63cee5b16ae2c8e2b445",
+        "visual_sha256": "97739bec38a6e35f9d9b87eae424bb0afc25ffa876340cc11de631e5d06bd7ad",
+        "width": 200,
+        "height": 73,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://lasacoassurance.com/assets/img/freelogo.png",
+        "descriptor": "Logo logo-dark /assets/img/freelogo.png https://lasacoassurance.com/assets/img/freelogo.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/lasaco-assurance/02-dark.png",
+        "sha256": "0fd40196fbfcd6ca3895e0711b6be58032c8e83cb08fb4fe0dc5e6d0a907637d",
+        "visual_sha256": "62788cd7e3a02a79678b209ae4c408ee8fff3e24e697a592dfe3a095370e9403",
+        "width": 140,
+        "height": 42,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "lead-fort-insurance-brokers-l-t-d": {
+    "crawled_at": "2026-07-15T10:57:08.714Z",
+    "website": "https://leadfortbrokers.com/",
+    "resolved_url": "https://leadfortbrokers.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "leadway-assurance-company": {
+    "crawled_at": "2026-07-15T10:57:15.293Z",
+    "website": "https://www.leadway.com/",
+    "resolved_url": "https://www.leadway.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.leadway.com/wp-content/uploads/2025/03/leadway_logo.webp",
+        "descriptor": "Leadway Assurance Company Limited lazyload img-responsive wp-image-41 /wp-content/uploads/2025/03/leadway_logo.webp https://www.leadway.com/wp-content/uploads/2025/03/leadway_logo.webp",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "webp",
+        "local_path": "variation-candidates/leadway-assurance-company/01-symbol.webp",
+        "sha256": "5ed1282a65776fc6f91364ce9879ab516905219d9e7eda9aa7beb72c37b40720",
+        "visual_sha256": "0b64261722a76c8a0d9eac46965ce4693db6d8e7693595810d99c210e04d53d0",
+        "width": 432,
+        "height": 544,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://www.leadway.com/wp-content/uploads/2021/09/New-Leadway-Logo.png",
+        "descriptor": "Leadway Assurance Company Limited attachment-cmplz_banner_image size-cmplz_banner_image lazyload /wp-content/uploads/2021/09/New-Leadway-Logo.png https://www.leadway.com/wp-content/uploads/2021/09/New-Leadway-Logo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/leadway-assurance-company/02-symbol.png",
+        "sha256": "1f9718fe607b9a8194f4fa56ff051c520329bed40502aa668bcb95bcfdaf3300",
+        "visual_sha256": "f0c335f03fca4e29b6d34f239904c0206fd6de413331e419f111707d8a1e7c46",
+        "width": 1284,
+        "height": 1605,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "lotus-bank": {
+    "crawled_at": "2026-07-15T10:57:20.115Z",
+    "website": "https://www.lotusbank.com/",
+    "resolved_url": "https://www.lotusbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "meristem-securities": {
+    "crawled_at": "2026-07-15T10:57:39.796Z",
+    "website": "https://stockbroking.meristemng.com/",
+    "resolved_url": "https://stockbroking.meristemng.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://stockbroking.meristemng.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmeristem%20logos%202.a03e6543.png&w=384&q=75",
+        "descriptor": "Meristem Logo object-contain w-auto h-auto /_next/image /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmeristem%20logos%202.a03e6543.png&w=384&q=75",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/meristem-securities/01-wordmark.png",
+        "sha256": "692df5150845cb4853e5b8cf2dcc1b3552b89afc34934476ac88072480faeb36",
+        "visual_sha256": "88cdc846554eaf5c0951d8d4ea10122b55987cd4091268d922d05cb035cf9e8a",
+        "width": 384,
+        "height": 95,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://stockbroking.meristemng.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmeristem%20logos%202.a03e6543.png&w=3840&q=75",
+        "descriptor": "Meristem Logo w-full h-full object-contain /_next/image /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmeristem%20logos%202.a03e6543.png&w=3840&q=75",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/meristem-securities/02-wordmark.png",
+        "sha256": "beed03835e7c7155d3f74f04e007f36db6f7c0f39827cd47d730126b5802bc2c",
+        "visual_sha256": "1e8c35f8ae7d3ebc46447b42621ff461f7fef36abada7b069f29e57cc8df6d37",
+        "width": 2676,
+        "height": 664,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "mint-finex-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:09.520Z",
+    "website": "https://mintyn.com/",
+    "resolved_url": "https://mintyn.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://mintyn.com/wp-content/uploads/2024/08/Frame-9.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/mint-finex-microfinance-bank/01-wordmark.svg",
+        "sha256": "f4cf19a5d472817c8abc69062a71f0008cd56c254ff6766cc2e6cbea8718425e",
+        "visual_sha256": "afe7eecd40e3ecd9857b08897b5b04b75057cc2d2c21a0eec2449755307c88fd",
+        "width": 135,
+        "height": 54,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "momo-payment-service-bank": {
+    "crawled_at": "2026-07-15T10:57:19.390Z",
+    "website": "https://www.momoagent.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "moniepoint": {
+    "crawled_at": "2026-07-15T10:57:05.530Z",
+    "website": "https://moniepoint.com/",
+    "resolved_url": "https://moniepoint.com/ng/business",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://moniepoint.com/logo-mfb-white.png",
+        "descriptor": "moniepoint Image_img__GXm1C /logo-mfb-white.png /logo-mfb-white.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/moniepoint/01-light.png",
+        "sha256": "8cd9e366929114ba7dad8ec78d12f2498bcc7a3746417ed4ea4268cc89fdea1a",
+        "visual_sha256": "c176a40cf911c3df903d111f74294aee406385e98185e73b980b08f94bc47dd1",
+        "width": 4096,
+        "height": 1012,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://moniepoint.com/logo-mfb.png",
+        "descriptor": "moniepoint Image_img__GXm1C /logo-mfb.png /logo-mfb.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/moniepoint/02-wordmark.png",
+        "sha256": "34d1b271f8b292b979be2d642153652929e3ad6c9eb88fa4e8bbb8cf4237e37d",
+        "visual_sha256": "a0406cf58fb1b8f62387d61f79ed8053c0b3ca9b72cec7e7d849bc9e13e26f28",
+        "width": 4096,
+        "height": 1012,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "mutual-aid-microsinsurance": {
+    "crawled_at": "2026-07-15T10:57:30.867Z",
+    "website": "https://mutualspecialists.com/",
+    "resolved_url": "https://mutualspecialists.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "mutual-benefit-assurance": {
+    "crawled_at": "2026-07-15T10:57:09.418Z",
+    "website": "https://mutualng.com/",
+    "resolved_url": "https://mutualng.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "mutual-benefit-life-assurance": {
+    "crawled_at": "2026-07-15T10:57:09.418Z",
+    "website": "https://mutualng.com/",
+    "resolved_url": "https://mutualng.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "national-insurance-commission": {
+    "crawled_at": "2026-07-15T10:57:42.185Z",
+    "website": "https://naicom.gov.ng/",
+    "resolved_url": "https://naicom.gov.ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+        "descriptor": "NAICOM /wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/national-insurance-commission/01-symbol.png",
+        "sha256": "052f4bb19e6b92deea30a8eb20557db817e27780c3297ca0819b9965a641d63b",
+        "visual_sha256": "d5da39dd20f26bc428588d6f9e7bad20f17e2370df34e14a48b9bd19152281d7",
+        "width": 152,
+        "height": 145,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png",
+        "descriptor": "NAICOM logo-fixed /wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/national-insurance-commission/02-symbol.png",
+        "sha256": "6961db324e64b7d81eef7b42b7b455fa451a1e7826f44205b1dbb2072713907c",
+        "visual_sha256": "6e55868d444cfc0d201e7c4e6cb8357e864de2da7c5817c9fc34e0cf8ad3310b",
+        "width": 320,
+        "height": 318,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://naicom.gov.ng/wp-content/uploads/2025/07/NAICOM-Logo-Handshake.jpg",
+        "descriptor": "NAICOM Logo Handshake attachment-large size-large wp-image-9406 /wp-content/uploads/2025/07/NAICOM-Logo-Handshake.jpg https://naicom.gov.ng/wp-content/uploads/2025/07/NAICOM-Logo-Handshake.jpg",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/national-insurance-commission/03-symbol.jpg",
+        "sha256": "64ae11864ef900a9ff2ae0650a413528c479923e21f75c292ecb1615dceebd50",
+        "visual_sha256": "d6ebf6c7128329790bdd9770aa8a95c3fcdc0ebf5c030d5222b8ab3de21d011e",
+        "width": 600,
+        "height": 600,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo-150x145.png",
+        "descriptor": "attachment-thumbnail size-thumbnail wp-image-5911 /wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo-150x145.png https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-SmallX3-Size-Logo-150x145.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/national-insurance-commission/04-symbol.png",
+        "sha256": "b8299b418927ccad4761362f9f701015e7601f31c0782452461d68527e7a7d77",
+        "visual_sha256": "e9be95c262ba48f6e0c714e19c7d7b105652ea6648945c4fdc5d4dce89503acf",
+        "width": 150,
+        "height": 145,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "nem-insurance": {
+    "crawled_at": "2026-07-15T10:57:09.372Z",
+    "website": "https://nem-insurance.com/",
+    "resolved_url": "https://nem-insurance.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://nem-insurance.com/assets/uploads/logo.jpg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/nem-insurance/01-symbol.jpg",
+        "sha256": "bafbdf911ee5e6deed12e7411476aeb0e73277293dcdf29f98c9aeba2351fd1c",
+        "visual_sha256": "1fe99227fd51a4058e906b752407e3393e6df606011fae9b7591d6b0459289b4",
+        "width": 113,
+        "height": 152,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "nigeria-deposit-insurance-corporation": {
+    "crawled_at": "2026-07-15T10:57:36.062Z",
+    "website": "https://ndic.gov.ng/",
+    "resolved_url": "https://ndic.gov.ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://ndic.gov.ng/wp-content/plugins/accessibility-light/assets/img/accessibility-light-logolight80.png",
+        "descriptor": "Accessibility Light hover-off /wp-content/plugins/accessibility-light/assets/img/accessibility-light-logolight80.png https://ndic.gov.ng/wp-content/plugins/accessibility-light/assets/img/accessibility-light-logolight80.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/nigeria-deposit-insurance-corporation/01-light.png",
+        "sha256": "055f25265344d79f6d821987291f3ba3661bde81e83fa5d2cb59edc4a43fe0f2",
+        "visual_sha256": "865a07f378e4ab1b9d6960d75b2d9bcf62d0d30274803998260ba8b853593909",
+        "width": 80,
+        "height": 21,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo-1.png",
+        "descriptor": "NDIC preload-me /wp-content/uploads/2020/08/ndic_small_logo-1.png https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo-1.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/nigeria-deposit-insurance-corporation/02-wordmark.png",
+        "sha256": "219662e23b367cf205da0271e689c4572976a6a2b4d6e4e42dadc9d78338273d",
+        "visual_sha256": "f799d09232af9c76defee1b7320ed6e0d8d228fe2398f0f82263750f4af05347",
+        "width": 198,
+        "height": 77,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo_v2.png",
+        "descriptor": "NDIC mobile-logo preload-me /wp-content/uploads/2020/08/ndic_small_logo_v2.png https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo_v2.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/nigeria-deposit-insurance-corporation/03-wordmark.png",
+        "sha256": "924384853cf25254268fe2ceeeec937cd67f21eec5620db1efb518822b10a98e",
+        "visual_sha256": "8407ade10d6db3cc6c14d005777e21de85d428b1f1d8363441399a97bf3a1caf",
+        "width": 129,
+        "height": 50,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "nigeria-mortgage-refinance-company": {
+    "crawled_at": "2026-07-15T10:57:21.678Z",
+    "website": "https://nmrc.com.ng/",
+    "resolved_url": "https://nmrc.com.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://nmrc.com.ng/update/wp-content/uploads/2025/05/new-LOGO-1.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/nigeria-mortgage-refinance-company/01-alternate.svg",
+        "sha256": "b99ed590c9268aa7d57a7745573a7b9fe28528390afe6e298779859b8f339323",
+        "visual_sha256": "23db33107d54b3c9924728dc4b5da15944f57092994444d511bc17efe9c9a079",
+        "width": 145,
+        "height": 82,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "noor-takaful": {
+    "crawled_at": "2026-07-15T10:57:22.725Z",
+    "website": "https://noortakaful.ng/",
+    "resolved_url": "https://noortakaful.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://noortakaful.ng/noor_takaful_logo.svg",
+        "descriptor": "NOOR Logo h-10 lg:mb-8 /noor_takaful_logo.svg /noor_takaful_logo.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/noor-takaful/01-alternate.svg",
+        "sha256": "c9ac051d02c1fdf49c023a610cd2c91b1bc3b901b234925385d8453d6e206b00",
+        "visual_sha256": "562b30c09c8fcf701360e0609d45439b11c6e48597dff1bf06157b81ae2f83fa",
+        "width": 242,
+        "height": 123,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "nova-bank": {
+    "crawled_at": "2026-07-15T10:57:27.771Z",
+    "website": "https://www.novabank.ng/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "npf-pension-managers": {
+    "crawled_at": "2026-07-15T10:57:42.614Z",
+    "website": "https://npfpensions.com.ng/",
+    "resolved_url": "https://npfpensions.com.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "nsia-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:14.324Z",
+    "website": "https://nsiainsurance.com/",
+    "resolved_url": "https://nsiainsurance.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://nsiainsurance.com/wp-content/uploads/2025/07/NSIA-Insurance-Transparent-blue.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/nsia-insurance-company/01-alternate.png",
+        "sha256": "86b207bdc3c05a3045bba7b869fc22776ddc43079a0108b8ecc10d129714e0a8",
+        "visual_sha256": "451532bb36531e8529952b927d5fd0fd2ecbe9acc88b2fdfa23e6073c5f47ab7",
+        "width": 1763,
+        "height": 775,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://nsiainsurance.com/",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "Input buffer contains unsupported image format"
+      },
+      {
+        "source_url": "https://nsiainsurance.com.ng/wp-content/uploads/2022/07/Logo-NSIA-Insurance-2-White-background-1.png",
+        "descriptor": "NSIA Insurance /wp-content/uploads/2022/07/Logo-NSIA-Insurance-2-White-background-1.png https://nsiainsurance.com.ng/wp-content/uploads/2022/07/Logo-NSIA-Insurance-2-White-background-1.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/nsia-insurance-company/03-light.png",
+        "sha256": "dfe89411c1eae603dcf28f41184acdc6fd298f97a519b1c0a5c2a621d67b4374",
+        "visual_sha256": "5ad12793f841c1bea7c9941714061ae9c943e1227f3f22aedf90a4ed43b7a9dc",
+        "width": 876,
+        "height": 383,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "onafriq": {
+    "crawled_at": "2026-07-15T10:57:47.299Z",
+    "website": "https://onafriq.com/",
+    "resolved_url": "https://onafriq.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://onafriq.com/assets/images/onafriq-logo-white.webp",
+        "descriptor": "onafriq - onafriq img-responsive /assets/images/onafriq-logo-white.webp https://onafriq.com/assets/images/onafriq-logo-white.webp",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "webp",
+        "local_path": "variation-candidates/onafriq/01-light.webp",
+        "sha256": "694d4e8319ffad991883cdb7672674ad3ec025044f9f3d33df4eca2ede835a24",
+        "visual_sha256": "ff2de28d7fe9373537bd5bc7dd17ca0cddabad5f6de1eeaf6404b0f09e6f99b4",
+        "width": 1000,
+        "height": 308,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://onafriq.com/assets/images/onafriq-logo-black.webp",
+        "descriptor": "onafriq - onafriq img-responsive logo /assets/images/onafriq-logo-black.webp https://onafriq.com/assets/images/onafriq-logo-black.webp",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "webp",
+        "local_path": "variation-candidates/onafriq/02-dark.webp",
+        "sha256": "2e49651b082e5ac7d99b3c726231e2e6d516b7bd49a7326c4c830a34238f4e88",
+        "visual_sha256": "c447753ae0358f841c37fbc399ffc28b59b29f3e90b1cfc2f026f1b4200fe464",
+        "width": 1000,
+        "height": 308,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "onepipe-io-services": {
+    "crawled_at": "2026-07-15T10:57:34.012Z",
+    "website": "https://www.onepipe.io/",
+    "resolved_url": "https://www.onepipe.io/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://cdn.onepipe.io/assets/jsui/o.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/onepipe-io-services/01-symbol.png",
+        "sha256": "3129605513b12a6a8a98a915856878a5e5128f0e7c7d2d54cec8fba60989cf66",
+        "visual_sha256": "2928f470ecdfa995fb7946df1c15c5ddc876b252bcdb8966f85bb3d7b1b2d06f",
+        "width": 450,
+        "height": 450,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://www.onepipe.io/img/logo-light.png",
+        "descriptor": "/img/logo-light.png ./img/logo-light.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/onepipe-io-services/02-light.png",
+        "sha256": "fd51534a46712e6094b5e6152ec7116c28ca47262f82f62c262f145ad9562b5c",
+        "visual_sha256": "1238170c557a49223283da71f598f3020081503e1a30ef7a1c670b8d66ecf530",
+        "width": 320,
+        "height": 90,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "opay": {
+    "crawled_at": "2026-07-15T10:57:02.661Z",
+    "website": "https://www.opayweb.com/",
+    "resolved_url": "https://www.opayweb.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://gstatic.opayweb.com/website-ng/img/opay-logo.684aa98.svg",
+        "descriptor": "OPay Logo footer-logo /website-ng/img/opay-logo.684aa98.svg https://gstatic.opayweb.com/website-ng/img/opay-logo.684aa98.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/opay/01-alternate.svg",
+        "sha256": "e5504767be2b862a5e19207e54b0403e041dfeac4791416c2a30ab2687bac5c1",
+        "visual_sha256": "4e47e93dc536524eefdf861d696e0bc4fe83441ae94b9f33a10aaeea12327b77",
+        "width": 85,
+        "height": 40,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "inline:opay:2",
+        "descriptor": "OPay Logo image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAnUExURUdwTBTMoxjJmBvPnxzOnR3OnRvMnxrNnx4PYSELYB0QXh3PnyEPYClCTOQAAAALdFJOUwAZ5UDHaaaGIt5eqipwPgAAASZJREFUOMtjYCAfmKZo71ZJFUAXZizaDQZbAtHEvXfDQCKKe",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/opay/02-symbol.png",
+        "sha256": "dcec6d772f11295d10551d8361de256424e23d5630ef6bae3eb433cba30d526e",
+        "visual_sha256": "800a5bc30c3eb36c15947fafa8d2e3543c97ccf0e89aaacbc12559be1106921a",
+        "width": 48,
+        "height": 48,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "optimus-bank": {
+    "crawled_at": "2026-07-15T10:57:20.825Z",
+    "website": "https://www.optimusbank.com/",
+    "resolved_url": "https://www.optimusbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "pagatech": {
+    "crawled_at": "2026-07-15T10:57:27.203Z",
+    "website": "https://www.mypaga.com/",
+    "resolved_url": "https://www.mypaga.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "palmpay": {
+    "crawled_at": "2026-07-15T10:57:32.979Z",
+    "website": "https://www.palmpay.com/",
+    "resolved_url": "https://www.palmpay.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "parallex-bank": {
+    "crawled_at": "2026-07-15T10:57:21.732Z",
+    "website": "https://parallexbank.com/",
+    "resolved_url": "https://parallexbank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "parthian-pensions": {
+    "crawled_at": "2026-07-15T10:57:53.228Z",
+    "website": "https://parthianpensions.com/",
+    "resolved_url": "https://parthianpensions.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://parthianpensions.com/wp-content/uploads/2025/06/Favicon2-PP-min.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/parthian-pensions/01-symbol.png",
+        "sha256": "35dfdb891d967f80c559d1f0487097ea1a6088f7733514c09b31b4275b1becc9",
+        "visual_sha256": "0fd83cc2189d97d51eaeee11ec34b95367eb27c4707297832f919d6cb89aa8e4",
+        "width": 230,
+        "height": 230,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "pawapay": {
+    "crawled_at": "2026-07-15T10:57:46.397Z",
+    "website": "https://www.pawapay.io/",
+    "resolved_url": "https://www.pawapay.io/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/62824591015aa314fd308df1/698b52078dc51e0ef339b55c_pawapay_logo_black.svg",
+        "descriptor": "Pawapay logotype in purple. logoimg /62824591015aa314fd308df1/698b52078dc51e0ef339b55c_pawapay_logo_black.svg https://cdn.prod.website-files.com/62824591015aa314fd308df1/698b52078dc51e0ef339b55c_pawapay_logo_black.svg",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "svg",
+        "local_path": "variation-candidates/pawapay/01-dark.svg",
+        "sha256": "e068cddbc069d56c56730849db834974e92480f9dbfe994dab8657240f80bdc5",
+        "visual_sha256": "fe98c52f464004139c3fb7e6724073fcd39f1b6632ee5b7fbd565f1a5f9f9c8a",
+        "width": 714,
+        "height": 153,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "payfixy": {
+    "crawled_at": "2026-07-15T10:57:48.431Z",
+    "website": "https://stage.payfixy.com/",
+    "resolved_url": "https://stage.payfixy.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://stage.payfixy.com/wp-content/uploads/2022/09/cropped-Payfixy_3@2400x-e1664296465560.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/payfixy/01-wordmark.png",
+        "sha256": "b5c264f923fc0bc9da813cbda153da30a5aaf068e4b7d7b60924fe435939d32f",
+        "visual_sha256": "4f176bd2b2f32be6f54236f19230f435ffc64b992a645df139a396dee039a78a",
+        "width": 806,
+        "height": 250,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "paystack-payment": {
+    "crawled_at": "2026-07-15T10:57:31.092Z",
+    "website": "https://paystack.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "page HTTP 403"
+  },
+  "piggyvest": {
+    "crawled_at": "2026-07-15T10:57:35.889Z",
+    "website": "https://www.piggyvest.com/",
+    "resolved_url": "https://www.piggyvest.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
+        "descriptor": "Piggyvest Logo /piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/piggyvest/01-wordmark.svg",
+        "sha256": "42d98f5727d86b0e0a7a7680ecfee2261af1e23d363aa900a1fd185c6cd273dd",
+        "visual_sha256": "074298c0e4f580a1b3c32a67cd3402d574bb6e320c55f7c0caa60d81880b8215",
+        "width": 192,
+        "height": 37,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://storage.googleapis.com/new-abeg-avatar-dev/piggyvest-cms-staging/white_Apple_Logo_768cf7ce21/white_Apple_Logo_768cf7ce21.svg",
+        "descriptor": "download-apple /new-abeg-avatar-dev/piggyvest-cms-staging/white_Apple_Logo_768cf7ce21/white_Apple_Logo_768cf7ce21.svg https://storage.googleapis.com/new-abeg-avatar-dev/piggyvest-cms-staging/white_Apple_Logo_768cf7ce21/white_Apple_Logo_768cf7ce21.svg",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "svg",
+        "local_path": "variation-candidates/piggyvest/02-light.svg",
+        "sha256": "2eec5fb5f34e0069f8d6287d917d3c410f3730cf21063d1cfdb2e9e4ba96ebb7",
+        "visual_sha256": "212b1a7f73ad6c85dfe2d6d2f146350fec5c7b29f8ff07660700f17bf8208719",
+        "width": 37,
+        "height": 46,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "polaris-bank": {
+    "crawled_at": "2026-07-15T10:57:30.278Z",
+    "website": "https://www.polarisbanklimited.com/",
+    "resolved_url": "https://www.polarisbanklimited.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://www.polarisbanklimited.com/wp-content/uploads/2022/12/logo-new-small.png",
+        "descriptor": "Retail | Polaris Bank Limited custom-logo /wp-content/uploads/2022/12/logo-new-small.png https://www.polarisbanklimited.com/wp-content/uploads/2022/12/logo-new-small.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/polaris-bank/01-symbol.png",
+        "sha256": "8a30830c29681f4c6319f5dcca4c1895e1d4000119702aa688346cfff5be2204",
+        "visual_sha256": "dc980066d4c3296bb6aadf642f43eab6cb630e77a49ac353c2c865d7cf8bf0ac",
+        "width": 105,
+        "height": 105,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "premium-pension": {
+    "crawled_at": "2026-07-15T10:57:45.208Z",
+    "website": "https://premiumpension.com/",
+    "resolved_url": "https://premiumpension.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://premiumpension.com/favicon.png",
+        "descriptor": "Premium Pension Logo /favicon.png /favicon.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/premium-pension/01-symbol.png",
+        "sha256": "34775023b25bc76ab94322af309d3a8c29d4798e44621a01b314add900c8e80d",
+        "visual_sha256": "fe31f3d0071e14f58bae31db76d3e9ee49d4d7ddfac54e3d15273cff10a8f159",
+        "width": 85,
+        "height": 87,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "premiumtrust-bank": {
+    "crawled_at": "2026-07-15T10:57:50.838Z",
+    "website": "https://premiumtrustbank.com/",
+    "resolved_url": "https://premiumtrustbank.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/logo-premiumtrustbank.a98b0a68.svg",
+        "descriptor": "Blayz insure logo mb-4 logo /_next/static/media/logo-premiumtrustbank.a98b0a68.svg /_next/static/media/logo-premiumtrustbank.a98b0a68.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/premiumtrust-bank/01-wordmark.svg",
+        "sha256": "fe009860dd6fabf76f75b550ea108046dcb4360b8c27c05c14c381e7d83ec941",
+        "visual_sha256": "2e42974cd749254fc01dfea160c47b757308522fa75512d88d4e335534789e94",
+        "width": 252,
+        "height": 50,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/imgprecards.63edf00b.png",
+        "descriptor": "Premiumtrust bank logo object-contain position-absolute md:tw-bottom-0 tw-right-0 tw-bottom-[-70px] /_next/static/media/imgprecards.63edf00b.png /_next/static/media/imgprecards.63edf00b.png",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/02-alternate.png",
+        "sha256": "c215bdc01236ae6b4860b2cd94836683496e5d79ecabbd3219c60852e25b0ad9",
+        "visual_sha256": "98304d8cbb44d06e786bfd590a3de03a1dcbac27dc51a276f059f8e251263905",
+        "width": 834,
+        "height": 496,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/imgtradeservices.f409bc5c.png",
+        "descriptor": "Premiumtrust bank logo object-contain position-absolute bottom-0 tw-right-0 /_next/static/media/imgtradeservices.f409bc5c.png /_next/static/media/imgtradeservices.f409bc5c.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/03-wordmark.png",
+        "sha256": "4a713535fee6a1f20b8c3d7505b5a3996d26d013c1578f309aba5477274cca98",
+        "visual_sha256": "cdea643126b1f44b7e2c7eec8bd6eba75000b5b757318201c8f5703fc10add5a",
+        "width": 1778,
+        "height": 620,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-excerptmd.544a4dc7.png",
+        "descriptor": "Premiumtrust bank logo w-100 h-100 /_next/static/media/img-excerptmd.544a4dc7.png /_next/static/media/img-excerptmd.544a4dc7.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/04-symbol.png",
+        "sha256": "d4c45be3e4006915288ae81ce973ff10f6ebb89b180d5b05e4a6aa581112b1de",
+        "visual_sha256": "375bc1967043d37835a58c851b364d3d28bb97c85ad617bb31f9f70f5aa33a8d",
+        "width": 892,
+        "height": 1104,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-1re.e83012fd.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-1re.e83012fd.png /_next/static/media/img-recapitalize-1re.e83012fd.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/05-symbol.png",
+        "sha256": "d2e05d341586f5378b7b6727108a9345c40bec58c4e85c7cbc9808fed2d0cece",
+        "visual_sha256": "85a0d93f250f62e24c953096a4fc4649502fd6e97e0535e6d8a517e0c20352bb",
+        "width": 800,
+        "height": 1200,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-1.35c967cc.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-1.35c967cc.png /_next/static/media/img-recapitalize-1.35c967cc.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/06-symbol.jpg",
+        "sha256": "ac4f53b3a26a75a0346f1859e51cfdac5b473dac47ab5d954f6dfdfa37352e40",
+        "visual_sha256": "8a544767ac382404298a26eab97fa009428f14e7cd22eecde4536e0b21cfa553",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-2.30215132.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-2.30215132.png /_next/static/media/img-recapitalize-2.30215132.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/07-symbol.jpg",
+        "sha256": "906ab8a9edf49dd44b9dd6174218b5ec8719bc709783776202eea0badb879861",
+        "visual_sha256": "8007dc45417b59dce4aea36edaef4a0a463333f01b1da85cc7ad8045afc1797f",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-3.c0b2c2f8.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-3.c0b2c2f8.png /_next/static/media/img-recapitalize-3.c0b2c2f8.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/08-symbol.jpg",
+        "sha256": "30a9d81370c6ceb9e7b7bf77ce6562cab5c8bef310a5e186871fc1c901304492",
+        "visual_sha256": "590983172b003611e89221a69e16b32bfd7a1218f1a3321c9aed12b25a1dca7a",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-4.9fb03dea.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-4.9fb03dea.png /_next/static/media/img-recapitalize-4.9fb03dea.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/09-symbol.jpg",
+        "sha256": "473c2478e0ec3daad7f0f5a96faf7933b51767cc7248cb9331f378012f8d682c",
+        "visual_sha256": "3e537c7d05bb2c4e0e50959f34724e16ddb4107ca3a7551c3f157faac700418b",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-5.2b54a28c.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-5.2b54a28c.png /_next/static/media/img-recapitalize-5.2b54a28c.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/10-symbol.jpg",
+        "sha256": "920b06a210e29fe0a8fa50d62abcaf058f70eea35e3095f4abd4095605bf3606",
+        "visual_sha256": "f725eecf2dc2fa934bd1fed6265db4241b280bef0117ca7b3e163c8a043ca171",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-6.b910b172.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-6.b910b172.png /_next/static/media/img-recapitalize-6.b910b172.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/11-symbol.jpg",
+        "sha256": "dab0983001c1d1789a2ee4172f159e8b16f06b0f1aa9380be0c44ae8fc09fd5e",
+        "visual_sha256": "0af1dab8f1046ede72bdc7d0e208723ba1d1d83c535a49757d500dd53523bd73",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-7.35350f3a.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-7.35350f3a.png /_next/static/media/img-recapitalize-7.35350f3a.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/12-symbol.jpg",
+        "sha256": "82976dbbb82a0bc91dd14e3b657804ca399b6f6d326aed2604dac5833be71e23",
+        "visual_sha256": "7a5f92b921b678f65a126b60283abfee67d0c8491f15ba8f3ccff708ee8b61bb",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://storage.premiumtrustbank.com/Storage/Website/assets/img-snapshot-2.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 /Storage/Website/assets/img-snapshot-2.png https://storage.premiumtrustbank.com/Storage/Website/assets/img-snapshot-2.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/13-symbol.png",
+        "sha256": "544dd90ea92f0cb310f9243db8edce45e2e86cd1045ae2ceb47e1f161c6f98ef",
+        "visual_sha256": "beb83199f5e058ff2710995647a96718af2e6adaddbefb9b9e27a1446c3acaa5",
+        "width": 988,
+        "height": 980,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://storage.premiumtrustbank.com/Storage/Website/assets/img-snapshot-3.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /Storage/Website/assets/img-snapshot-3.png https://storage.premiumtrustbank.com/Storage/Website/assets/img-snapshot-3.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/premiumtrust-bank/14-symbol.png",
+        "sha256": "a9c9075018814e1900d4304f94b6440762318243ff2e9cd516478818a20c59a3",
+        "visual_sha256": "5f562eda915988baa32a89a951aca91a0c01df4f8358393b2d17cacade677df1",
+        "width": 988,
+        "height": 980,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize-8.5ff37653.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-cover w-100 h-100 /_next/static/media/img-recapitalize-8.5ff37653.png /_next/static/media/img-recapitalize-8.5ff37653.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/15-symbol.jpg",
+        "sha256": "be5043a549eeabbdac60d844ef41b9d17c04f234d17f701ac6dc57eed72b3e80",
+        "visual_sha256": "cd0b03544f3e5fc77c6ee582ca7cf325d06b1365eb1d4289cc451ea15a025d61",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://premiumtrustbank.com/_next/static/media/img-recapitalize.a0aa32c9.png",
+        "descriptor": "Premiumtrust bank logo img-slide-h-contain object-contain w-100 h-100 /_next/static/media/img-recapitalize.a0aa32c9.png /_next/static/media/img-recapitalize.a0aa32c9.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/premiumtrust-bank/16-symbol.jpg",
+        "sha256": "066d586e61aa0bbee6596ccdf5dbf0c0211cfc4a081c7d8691d3f71c86bf0454",
+        "visual_sha256": "4459a58b6ba1d3ae986a8c5095c8f01c940e4fc24bf8e185af2a35b9c15ac842",
+        "width": 1024,
+        "height": 1280,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "prestige-assurance": {
+    "crawled_at": "2026-07-15T10:57:10.723Z",
+    "website": "https://prestigeassuranceplc.com/",
+    "resolved_url": "https://prestigeassuranceplc.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://prestigeassuranceplc.com/media-assets//file1709101331.png",
+        "descriptor": "Prestige Assurance PLC logo /media-assets//file1709101331.png media-assets//file1709101331.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/prestige-assurance/01-wordmark.png",
+        "sha256": "69ceb69f513e919cf31b9256b47004eb63e325f684eb826a3e87523d8552f2ac",
+        "visual_sha256": "16e8671c9543bdd1767259b1c90ae62268edde10d098392540e55defc1cca71b",
+        "width": 369,
+        "height": 90,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "providus-bank": {
+    "crawled_at": "2026-07-15T10:57:21.012Z",
+    "website": "https://www.providusbank.com/home",
+    "resolved_url": "https://www.providusbank.com/home",
+    "status": "none",
+    "candidates": []
+  },
+  "prudential-zenith-life-assurance-company": {
+    "crawled_at": "2026-07-15T10:57:20.396Z",
+    "website": "https://prudentialzenith.com/",
+    "resolved_url": "https://prudentialzenith.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "quidax-technologies": {
+    "crawled_at": "2026-07-15T10:57:28.273Z",
+    "website": "https://www.quidax.io/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "page HTTP 403"
+  },
+  "rand-merchant-bank": {
+    "crawled_at": "2026-07-15T10:57:21.369Z",
+    "website": "https://www.rmb.com.ng/",
+    "resolved_url": "https://www.rmb.com.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://assets.rmb.co.za/images/logos/horizontal-logo.svg",
+        "descriptor": "menu-logo /images/logos/horizontal-logo.svg https://assets.rmb.co.za/images/logos/horizontal-logo.svg",
+        "suggested_id": "horizontal",
+        "suggested_name": "Horizontal",
+        "format": "svg",
+        "local_path": "variation-candidates/rand-merchant-bank/01-horizontal.svg",
+        "sha256": "bf9b16efbf710c1504ac63b1d052353faaa74609fd54fdaab3096e2bd7f4e587",
+        "visual_sha256": "f27837374e074e9c1ffedeefa1ee4eb6af4385690a3cc71374b2c94beeb53333",
+        "width": 894,
+        "height": 364,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "regency-alliance-insurance": {
+    "crawled_at": "2026-07-15T10:57:19.406Z",
+    "website": "https://regencyalliance.com/",
+    "resolved_url": "https://regencyalliance.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://regencyalliance.com/wp-content/uploads/2018/04/regency-logo.png",
+        "descriptor": "Regency Alliance Insurance PLC /wp-content/uploads/2018/04/regency-logo.png https://regencyalliance.com/wp-content/uploads/2018/04/regency-logo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/regency-alliance-insurance/01-symbol.png",
+        "sha256": "ee0dc320d0b59a2046df518bbed65005996d26701fd39df663ef93651adc89a0",
+        "visual_sha256": "9d27db6e5b7ae2136b7f3a3b5ef06ce393104b36d5127353c67884301015953e",
+        "width": 153,
+        "height": 120,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://regencyalliance.com/wp-content/uploads/2018/04/footer-logo.png",
+        "descriptor": "Regency Alliance Insurance PLC /wp-content/uploads/2018/04/footer-logo.png https://regencyalliance.com/wp-content/uploads/2018/04/footer-logo.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/regency-alliance-insurance/02-symbol.png",
+        "sha256": "1ffc6db0b00dec29af3c480002e2708cf927f96d8a92fdc3abf8fa2be333c88b",
+        "visual_sha256": "fae9ac0b454e810e6579cd92e531b3b0ea9c798307369809da359e516e5acbbb",
+        "width": 77,
+        "height": 60,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "reliance-hmo": {
+    "crawled_at": "2026-07-15T10:57:47.975Z",
+    "website": "https://getreliancehealth.com/nigeria/",
+    "resolved_url": "https://getreliancehealth.com/nigeria/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://getreliancehealth.com/nigeria/wp-content/uploads/sites/3/2023/12/header_reliance-health_mono-dark-1.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/reliance-hmo/01-wordmark.svg",
+        "sha256": "b17034df940e7607a566811c6b4ca7de86e17e50cba3b3edd6c09cd45548692a",
+        "visual_sha256": "0c94cbf9d53478d6cb3fc76846ef405205708bb5ffe5d37c51a3eb3f7ce01302",
+        "width": 178,
+        "height": 42,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "remita-payment-service": {
+    "crawled_at": "2026-07-15T10:57:25.951Z",
+    "website": "https://www.remita.net/",
+    "resolved_url": "https://www.remita.net/",
+    "status": "none",
+    "candidates": []
+  },
+  "renmoney-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:27.253Z",
+    "website": "https://renmoney.com/",
+    "resolved_url": "https://renmoney.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://renmoney.com/wp-content/uploads/2023/04/blossom.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/renmoney-microfinance-bank/01-symbol.png",
+        "sha256": "a4ef93588ca04edd8d248c73ee4ecf94e5681a78b36b41c5d5e5779650d067d5",
+        "visual_sha256": "57572532e7d05282556da88daec678bedc3114b907293ff2ff7a79bc2086f08d",
+        "width": 242,
+        "height": 242,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "rex-insurance": {
+    "crawled_at": "2026-07-15T10:57:15.291Z",
+    "website": "https://rexinsure.com/",
+    "resolved_url": "https://rexinsure.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://rexinsure.com/wp-content/uploads/2023/06/Rex-Insurance-Limited.png",
+        "descriptor": "Rex Insurance Limited logo_sticky /wp-content/uploads/2023/06/Rex-Insurance-Limited.png https://rexinsure.com/wp-content/uploads/2023/06/Rex-Insurance-Limited.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/rex-insurance/01-wordmark.png",
+        "sha256": "4c435770f22302e3a3dbbb9be705b87bbe5b07f2f124f45a2247cea00004f140",
+        "visual_sha256": "a50576709e678b4153139b280e5fead77e4cb60cdcd555dcd8c61e2287e5d7ea",
+        "width": 391,
+        "height": 80,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://rexinsure.com/wp-content/uploads/2023/06/Rex-Gretscale-logo.png",
+        "descriptor": "Rex Insurance Limited logo_sticky /wp-content/uploads/2023/06/Rex-Gretscale-logo.png https://rexinsure.com/wp-content/uploads/2023/06/Rex-Gretscale-logo.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/rex-insurance/02-wordmark.png",
+        "sha256": "2b0d9dfb0cf9037fd74a430c364099bc4a5d854a76e46259c84316d63b071715",
+        "visual_sha256": "91364876588deca725fb3f3f9fde29ab9c36d29b224a8d8f70228839755599cc",
+        "width": 224,
+        "height": 84,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "risevest": {
+    "crawled_at": "2026-07-15T10:57:36.604Z",
+    "website": "https://www.risevest.com/",
+    "resolved_url": "https://www.risevest.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "royal-exchange-prudential-life": {
+    "crawled_at": "2026-07-15T10:57:11.758Z",
+    "website": "https://royalexchangelife.com/",
+    "resolved_url": "https://royalexchangelife.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://royalexchangelife.com/wp-content/uploads/2019/09/logo-prudential.png",
+        "descriptor": "Royal Exchange Prudential Life Logo fusion-standard-logo /wp-content/uploads/2019/09/logo-prudential.png https://royalexchangelife.com/wp-content/uploads/2019/09/logo-prudential.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/royal-exchange-prudential-life/01-wordmark.png",
+        "sha256": "3ac75b8b0ce69dbe1bbb3c2f55c4137a347cc7a096cfc2ad5632a8020384cd54",
+        "visual_sha256": "e9db5df9d895f6cad7507966810988e8d5b1ececa9c57b57158640b6d02a3c41",
+        "width": 295,
+        "height": 64,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "salam-takaful": {
+    "crawled_at": "2026-07-15T10:57:30.692Z",
+    "website": "https://www.salamtakaful.online/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "securities-and-exchange-commission-nigeria": {
+    "crawled_at": "2026-07-15T10:57:34.085Z",
+    "website": "https://sec.gov.ng/",
+    "resolved_url": "https://sec.gov.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "signature-bank": {
+    "crawled_at": "2026-07-15T10:57:36.540Z",
+    "website": "https://signaturebankng.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "smartcash-payment-service-bank": {
+    "crawled_at": "2026-07-15T10:57:21.393Z",
+    "website": "https://smartcashpsb.ng/",
+    "resolved_url": "https://smartcashpsb.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "sovereign-trust-insurance": {
+    "crawled_at": "2026-07-15T10:57:09.939Z",
+    "website": "https://stiplc.com/",
+    "resolved_url": "https://stiplc.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "sparkle-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:11.774Z",
+    "website": "https://sparkle.ng/",
+    "resolved_url": "https://sparkle.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://sparkle.ng/static/sparkle-footer-logo-mark-134ea17c6ab8373466954464cadaa38e.png",
+        "descriptor": "Sparkle Nigeria img-fluid /static/sparkle-footer-logo-mark-134ea17c6ab8373466954464cadaa38e.png /static/sparkle-footer-logo-mark-134ea17c6ab8373466954464cadaa38e.png",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/sparkle-microfinance-bank/01-symbol.png",
+        "sha256": "f03b9bccaaa1eaecb57dbdb7764ccb2ca12a6b366a2a17ca6811944728a38e50",
+        "visual_sha256": "66c49c82627114797a1137ab18d1fea501ecf81f7f533a057f26dd3b1d3b1af9",
+        "width": 160,
+        "height": 159,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "stanbic-ibtc-bank": {
+    "crawled_at": "2026-07-15T10:57:29.242Z",
+    "website": "https://www.stanbicibtcbank.com/nigeriabank/personal",
+    "resolved_url": "https://www.stanbicibtcbank.com/nigeriabank/personal",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.stanbicibtcbank.com/static_file/assets/favicons/favicon.ico",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "Input buffer contains unsupported image format"
+      },
+      {
+        "source_url": "https://www.stanbicibtc.com/static_file/SBG/Assets/Img/SA/Copy%20of%20SB_129634610-DetailT.jpg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/stanbic-ibtc-bank/02-symbol.jpg",
+        "sha256": "86a3dc58cb8da34bc3f8a34732499c0428cc1978b945a8e86c0946a102e2b1f4",
+        "visual_sha256": "cad5ac1883c1d6449711f1633c6c3c5dbf7f2cccf14824e3969ed074a7b60f22",
+        "width": 400,
+        "height": 472,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "stanbic-ibtc-holdings": {
+    "crawled_at": "2026-07-15T10:57:28.916Z",
+    "website": "https://www.stanbicibtc.com/nigeriaholdings/Stanbic-IBTC-Holdings",
+    "resolved_url": "https://www.stanbicibtc.com/nigeriaholdings/Stanbic-IBTC-Holdings",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://www.stanbicibtc.com/static_file/assets/favicons/favicon.ico",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "Input buffer contains unsupported image format"
+      },
+      {
+        "source_url": "https://www.stanbicibtc.com/static_file/SBG/Assets/Img/SA/Copy%20of%20SB_129634610-DetailT.jpg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "jpeg",
+        "local_path": "variation-candidates/stanbic-ibtc-holdings/02-symbol.jpg",
+        "sha256": "86a3dc58cb8da34bc3f8a34732499c0428cc1978b945a8e86c0946a102e2b1f4",
+        "visual_sha256": "cad5ac1883c1d6449711f1633c6c3c5dbf7f2cccf14824e3969ed074a7b60f22",
+        "width": 400,
+        "height": 472,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "standard-chartered-bank": {
+    "crawled_at": "2026-07-15T10:57:23.263Z",
+    "website": "https://www.sc.com/ng/",
+    "resolved_url": "https://www.sc.com/ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://av.sc.com/assets/global/images/components/header/logo-sc.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/standard-chartered-bank/01-wordmark.svg",
+        "sha256": "75f45303a558f48d99512cc4bb53d66e76663b112802b58a29122ccf315a30d4",
+        "visual_sha256": "266c660ba4e1288a132446301b4905c992c696ac4965bb61334db3c764e358a1",
+        "width": 280,
+        "height": 110,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://av.sc.com/assets/global/images/components/header/logo.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "svg",
+        "local_path": "variation-candidates/standard-chartered-bank/02-symbol.svg",
+        "sha256": "36e7560536919f24613862836509ab64d7db836c656125702c47de49b1071e40",
+        "visual_sha256": "b7707f921ec01032aa72d3fc55ac469e7c85b43e3b37b08372a6b281b22909c4",
+        "width": 26,
+        "height": 42,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "sterling-assurance": {
+    "crawled_at": "2026-07-15T10:57:11.536Z",
+    "website": "https://sterlingassure.com/",
+    "resolved_url": "https://sterlingassure.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "sterling-bank": {
+    "crawled_at": "2026-07-15T10:57:22.126Z",
+    "website": "https://sterling.ng/",
+    "resolved_url": "https://sterling.ng/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://sterling.ng/wp-content/uploads/2020/04/sterling-logo-balanced.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "webp",
+        "local_path": "variation-candidates/sterling-bank/01-alternate.webp",
+        "sha256": "f42c690059072c00c27aefd9d33c38e6781e8f87fc986339101956505eb69910",
+        "visual_sha256": "36794ecc6fbe1f966c1453e0bd04f9f08c0652dbd896ae7a3bf01d040aab31ba",
+        "width": 1624,
+        "height": 801,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "sterling-financial-holdings-company": {
+    "crawled_at": "2026-07-15T10:57:24.173Z",
+    "website": "https://sterlingholdco.ng/",
+    "resolved_url": "https://sterlingholdco.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "suntrust-bank": {
+    "crawled_at": "2026-07-15T10:57:22.507Z",
+    "website": "https://suntrustng.com/",
+    "resolved_url": "https://suntrustng.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "sunu-assurances": {
+    "crawled_at": "2026-07-15T10:57:10.851Z",
+    "website": "https://sunu-group.com/",
+    "resolved_url": "https://sunu-group.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "sycamore-integrated-solutions": {
+    "crawled_at": "2026-07-15T10:57:36.248Z",
+    "website": "https://www.sycamore.ng/",
+    "resolved_url": "https://www.sycamore.ng/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://storage.googleapis.com/sycamore-assets/website/assets/proof2_hnfunh.svg",
+        "descriptor": "NDPC logo block /sycamore-assets/website/assets/proof2_hnfunh.svg https://storage.googleapis.com/sycamore-assets/website/assets/proof2_hnfunh.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/sycamore-integrated-solutions/01-wordmark.svg",
+        "sha256": "8432b3ae79e60ac06254429eeb9ee0277aaefff18642b292b334b753c242a628",
+        "visual_sha256": "42b6f4b6b70dd67a16b1035db3d8931d973b04df995a2e2ab84c3fa7592c1128",
+        "width": 134,
+        "height": 48,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://storage.googleapis.com/sycamore-assets/website/assets/proof3_c6n8xa.svg",
+        "descriptor": "FCCPC logo block /sycamore-assets/website/assets/proof3_c6n8xa.svg https://storage.googleapis.com/sycamore-assets/website/assets/proof3_c6n8xa.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "svg",
+        "local_path": "variation-candidates/sycamore-integrated-solutions/02-alternate.svg",
+        "sha256": "22482de8b9b279ca6a3467b8091cce08431951125104017fc2b330825a08fd7d",
+        "visual_sha256": "7ce1827ec9266c6a93f07f51112001e4aa7aefe71678bb0b793d6052db782fad",
+        "width": 77,
+        "height": 48,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://storage.googleapis.com/sycamore-assets/website/new-assets/logo-white_kq0btl.png",
+        "descriptor": "company logo size-14 lg:size-[90px] /sycamore-assets/website/new-assets/logo-white_kq0btl.png https://storage.googleapis.com/sycamore-assets/website/new-assets/logo-white_kq0btl.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/sycamore-integrated-solutions/03-light.png",
+        "sha256": "2514a62c4f2e9125fb88d0cb718388c0ac9a1f99d3b44d2e78d49ae1068ea750",
+        "visual_sha256": "54d3db279600781338f91788e26436b9b82b1d8dd28c7763bc3967e2aa9296dc",
+        "width": 136,
+        "height": 136,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "tajbank": {
+    "crawled_at": "2026-07-15T10:57:27.241Z",
+    "website": "https://tajbank.com/",
+    "resolved_url": "https://tajbank.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://tajbank.com/wp-content/uploads/2022/07/logo-white.png",
+        "descriptor": "Logo /wp-content/uploads/2022/07/logo-white.png https://tajbank.com/wp-content/uploads/2022/07/logo-white.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/tajbank/01-light.png",
+        "sha256": "0e40501e0fb0159c6e7e6ba809e1616ce9892014e838a0704b37c0c2865cbe42",
+        "visual_sha256": "c71d191f5623b5e503cf351731bbcd0d8d109399382a5039a3dcf1db57ffea4c",
+        "width": 144,
+        "height": 70,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://tajbank.com/wp-content/uploads/2022/07/logo.png",
+        "descriptor": "TAJBank Official Website mobile-logo preload-me /wp-content/uploads/2022/07/logo.png https://tajbank.com/wp-content/uploads/2022/07/logo.png",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/tajbank/02-alternate.png",
+        "sha256": "ebd7854784fe59087957a3ebb9a615489ff1d241afc550b10257e16b498002e0",
+        "visual_sha256": "a144c143c51d99779c7de16cff2a9ea2cec7d9b5ef1a111d0c293ec9ae726e3a",
+        "width": 144,
+        "height": 70,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "tangerine-general-insurance": {
+    "crawled_at": "2026-07-15T10:57:11.536Z",
+    "website": "https://tangerine.africa/",
+    "resolved_url": "https://tangerine.africa/",
+    "status": "none",
+    "candidates": []
+  },
+  "tangerine-life-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:11.560Z",
+    "website": "https://tangerine.africa/",
+    "resolved_url": "https://tangerine.africa/",
+    "status": "none",
+    "candidates": []
+  },
+  "the-alternative-bank": {
+    "crawled_at": "2026-07-15T10:57:22.740Z",
+    "website": "https://altbank.ng/",
+    "resolved_url": "https://altbank.ng/",
+    "status": "none",
+    "candidates": []
+  },
+  "trove-finance": {
+    "crawled_at": "2026-07-15T10:57:41.959Z",
+    "website": "https://www.trovefinance.com/",
+    "resolved_url": "https://www.trovefinance.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "union-bank-of": {
+    "crawled_at": "2026-07-15T10:57:48.562Z",
+    "website": "https://www.unionbankng.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "united-bank-for-africa": {
+    "crawled_at": "2026-07-15T10:57:32.408Z",
+    "website": "https://www.ubagroup.com/",
+    "resolved_url": "https://www.ubagroup.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "unitrust-insurance-company": {
+    "crawled_at": "2026-07-15T10:57:12.698Z",
+    "website": "https://www.unitrustinsurance.com/",
+    "resolved_url": "https://www.unitrustinsurance.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "unity-bank": {
+    "crawled_at": "2026-07-15T10:57:23.975Z",
+    "website": "https://www.unitybankng.com/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "fetch failed"
+  },
+  "universal-insurance": {
+    "crawled_at": "2026-07-15T10:57:16.035Z",
+    "website": "https://universalinsuranceplc.com/",
+    "resolved_url": "https://universalinsuranceplc.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://universalinsuranceplc.com/wp-content/uploads/2024/08/univ-insure-login_logo-512.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "symbol",
+        "suggested_name": "Symbol",
+        "format": "png",
+        "local_path": "variation-candidates/universal-insurance/01-symbol.png",
+        "sha256": "d3fb3df3d3e624fabc9121b2342686863d108fcc34e701e5d7efdac5e179f1e9",
+        "visual_sha256": "44304b5860e71e1c88396546c4eb3b471daaa271c0d19a898416baea8aecfacf",
+        "width": 512,
+        "height": 512,
+        "distinct_from_primary": true
+      },
+      {
+        "source_url": "https://universalinsuranceplc.com//wp-content/uploads/2024/08/univinsure-logo.png",
+        "descriptor": "Universal Insurance Plc logo img-responsive wp-image-2530 //wp-content/uploads/2024/08/univinsure-logo.png https://universalinsuranceplc.com//wp-content/uploads/2024/08/univinsure-logo.png",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "png",
+        "local_path": "variation-candidates/universal-insurance/02-wordmark.png",
+        "sha256": "3fc5d98c48edb44f92457d141e3b6dc231894a2dfabc8a87a0d842060d5b5874",
+        "visual_sha256": "370ea3000607a76e63332ab5f036da1174f03fd542b4e800c60ad599b7a095cb",
+        "width": 672,
+        "height": 122,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "veritas-glanvills-pensions": {
+    "crawled_at": "2026-07-15T10:57:47.973Z",
+    "website": "https://vgpensions.com/",
+    "resolved_url": "https://vgpensions.com/",
+    "status": "candidates",
+    "candidates": [
+      {
+        "source_url": "https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-PNG-300x137-1.png",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "format": "png",
+        "local_path": "variation-candidates/veritas-glanvills-pensions/01-alternate.png",
+        "sha256": "fbf8bff3fb6113b2e3009bc1a4397344bcb1283eebef161d0274fb25ebf11030",
+        "visual_sha256": "addebffbcb8a72d34abf40c5201f210db2ec1f373cad6308fe218a6a04b781a1",
+        "width": 300,
+        "height": 137,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-white.png",
+        "descriptor": "/wp-content/uploads/2022/03/Veritas-Pensions-Logo-white.png https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-white.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "format": "png",
+        "local_path": "variation-candidates/veritas-glanvills-pensions/02-light.png",
+        "sha256": "aaed0004c8d336dffa1da8216439f95bcadbdd0a0a8f954d68636a35f384256f",
+        "visual_sha256": "30b77e2d10d2b1ec84072424e1e4f7026925ee3e2c03e6f3c5b5930a3f9df635",
+        "width": 228,
+        "height": 100,
+        "distinct_from_primary": true
+      }
+    ]
+  },
+  "vfd-microfinance-bank": {
+    "crawled_at": "2026-07-15T10:57:32.923Z",
+    "website": "https://vbank.ng/",
+    "resolved_url": null,
+    "status": "unavailable",
+    "candidates": [],
+    "error": "page HTTP 403"
+  },
+  "wahed": {
+    "crawled_at": "2026-07-15T10:57:44.592Z",
+    "website": "https://www.wahed.com/nga/",
+    "resolved_url": "https://www.wahed.com/nga",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/6258aa32b493a205485f0800/62dfaab6938b2d03f0f43316_wahed-color-logo.svg",
+        "descriptor": "structured data primary logo",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "fetch failed"
+      },
+      {
+        "source_url": "https://cdn.prod.website-files.com/692951a60766e54470be6c6e/692951a70766e54470be6e0d_wahed-color-logo.svg",
+        "descriptor": "navbar2_logo medium-size /692951a60766e54470be6c6e/692951a70766e54470be6e0d_wahed-color-logo.svg https://cdn.prod.website-files.com/692951a60766e54470be6c6e/692951a70766e54470be6e0d_wahed-color-logo.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "fetch failed"
+      },
+      {
+        "source_url": "https://cdn.prod.website-files.com/692951a60766e54470be6c6e/692951a60766e54470be6c7d_wahed-logo-2022.svg",
+        "descriptor": "Wahed Logo image-125 /692951a60766e54470be6c6e/692951a60766e54470be6c7d_wahed-logo-2022.svg https://cdn.prod.website-files.com/692951a60766e54470be6c6e/692951a60766e54470be6c7d_wahed-logo-2022.svg",
+        "suggested_id": "alternate",
+        "suggested_name": "Alternate",
+        "error": "fetch failed"
+      }
+    ]
+  },
+  "wema-bank": {
+    "crawled_at": "2026-07-15T10:57:23.500Z",
+    "website": "https://wemabank.com/",
+    "resolved_url": "https://wemabank.com/",
+    "status": "none",
+    "candidates": []
+  },
+  "xca-insurance-brokers": {
+    "crawled_at": "2026-07-15T10:57:47.265Z",
+    "website": "https://xcelloncapital.com/",
+    "resolved_url": "https://xcelloncapital.com/",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+        "descriptor": "logo dark-n /wp-content/uploads/2023/08/XCA_Main_Logo.png https://xcelloncapital.com/wp-content/uploads/2023/08/XCA_Main_Logo.png",
+        "suggested_id": "dark",
+        "suggested_name": "Dark",
+        "format": "png",
+        "local_path": "variation-candidates/xca-insurance-brokers/01-dark.png",
+        "sha256": "a5c212e8057117ad3e7f34d39f09953c9198e4a409a9d74b38c27f6f3ec5cdf7",
+        "visual_sha256": "e34e211c454b80157dcef745972ac8ceca35afb3c2eb068635d81d5124a87076",
+        "width": 800,
+        "height": 202,
+        "distinct_from_primary": false
+      },
+      {
+        "source_url": "http://wpuidemos.com/wp-content/themes/conbix/assets/img/logo-7.png",
+        "descriptor": "logo light-n /wp-content/themes/conbix/assets/img/logo-7.png http://wpuidemos.com/wp-content/themes/conbix/assets/img/logo-7.png",
+        "suggested_id": "light",
+        "suggested_name": "Light",
+        "error": "fetch failed"
+      }
+    ]
+  },
+  "youverify": {
+    "crawled_at": "2026-07-15T10:57:48.529Z",
+    "website": "https://youverify.co/en",
+    "resolved_url": "https://youverify.co/en",
+    "status": "none",
+    "candidates": [
+      {
+        "source_url": "https://youverify.co/assets/logos/logo.svg",
+        "descriptor": "youverify-logo /assets/logos/logo.svg /assets/logos/logo.svg",
+        "suggested_id": "wordmark",
+        "suggested_name": "Wordmark",
+        "format": "svg",
+        "local_path": "variation-candidates/youverify/01-wordmark.svg",
+        "sha256": "6f9dc1e3b124067d5bf90a59102e77d5e2a48c52ec7921fef1e5d978887e0625",
+        "visual_sha256": "2adb2073b7e14e275f3235396eaf348c3f5fb19d9a4a277a603ed633bdf04f0d",
+        "width": 75,
+        "height": 24,
+        "distinct_from_primary": false
+      }
+    ]
+  },
+  "zenith-bank": {
+    "crawled_at": "2026-07-15T10:57:32.449Z",
+    "website": "https://www.zenithbank.com/",
+    "resolved_url": "https://www.zenithbank.com/",
+    "status": "none",
+    "candidates": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-07-15T10:16:52.816Z",
+  "policy": "Staged web discoveries remain needs-review until a maintainer visually confirms the official artwork.",
+  "summary": {
+    "staged": 6,
+    "linked_institutions": 6,
+    "rejected": 13
+  },
+  "rejected": [
+    {
+      "card_slug": "aiico-insurance",
+      "reason": "no explicit high-confidence logo markup"
+    },
+    {
+      "card_slug": "cashxpress",
+      "reason": "no downloadable logo candidate"
+    },
+    {
+      "card_slug": "credit365",
+      "reason": "website score below staging threshold"
+    },
+    {
+      "card_slug": "newedge-finance",
+      "reason": "no downloadable logo candidate"
+    },
+    {
+      "card_slug": "kongapay-technologies",
+      "reason": "page identity score below staging threshold"
+    },
+    {
+      "card_slug": "kredi-money-microfinance-bank",
+      "reason": "website score below staging threshold"
+    },
+    {
+      "card_slug": "luno",
+      "reason": "no downloadable logo candidate"
+    },
+    {
+      "card_slug": "migo",
+      "reason": "page identity score below staging threshold"
+    },
+    {
+      "card_slug": "electronic-fox",
+      "reason": "website score below staging threshold"
+    },
+    {
+      "card_slug": "naira-gram-llc-ngn-gram",
+      "reason": "website score below staging threshold"
+    },
+    {
+      "card_slug": "nasd-otc-securities-exchange",
+      "reason": "website score below staging threshold"
+    },
+    {
+      "card_slug": "page-financials",
+      "reason": "no explicit high-confidence logo markup"
+    },
+    {
+      "card_slug": "suregifts",
+      "reason": "no downloadable logo candidate"
+    }
+  ]
+}

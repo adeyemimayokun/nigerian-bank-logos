@@ -24,7 +24,7 @@ const paymentHeadings: Array<[RegExp, InstitutionCategory, string]> = [
 ];
 
 async function fetchHtml(url: string): Promise<string> {
-  const response = await fetch(url, { headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source data refresh)" } });
+  const response = await fetch(url, { headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source data refresh)" } });
   if (!response.ok) throw new Error(`${url} returned HTTP ${response.status}`);
   return response.text();
 }
@@ -170,7 +170,7 @@ async function refreshPencom(url: string, category: "pension-fund-administrator"
 }
 
 async function refreshNaicom(url: string, source: string, broker: boolean): Promise<RefreshResult> {
-  const response = await fetch(url, { headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source data refresh)" } });
+  const response = await fetch(url, { headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source data refresh)" } });
   if (!response.ok) throw new Error(`${url} returned HTTP ${response.status}`);
   const workbook = XLSX.read(await response.arrayBuffer());
   const sheet = workbook.Sheets[workbook.SheetNames[0]];

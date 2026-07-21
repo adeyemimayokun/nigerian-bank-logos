@@ -1,10 +1,12 @@
 {
-  "name": "Nigerian Bank Logos",
-  "id": "nigerian-bank-logos",
+  "name": "awalogo",
+  "id": "1661356348996631383",
   "api": "1.0.0",
-  "main": "dist/main.js",
-  "ui": "dist/index.html",
-  "editorType": ["figma"],
+  "main": "figma-dist/main.js",
+  "ui": "figma-dist/index.html",
+  "editorType": [
+    "figma"
+  ],
   "documentAccess": "dynamic-page",
   "networkAccess": {
     "allowedDomains": ["none"]

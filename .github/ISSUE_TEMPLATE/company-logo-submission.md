@@ -9,6 +9,8 @@ labels: logo-request
 
 ## Official website
 
+## Work email (public)
+
 ## Category
 
 ## Submitter role

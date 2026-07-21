@@ -16,7 +16,7 @@
 
 ## 0.3 Developer Packages
 
-- Publish `@nigerian-bank-logos/core`.
+- Publish `@awalogo/core`.
 - Add raw SVG string exports.
 - Add React helpers.
 - Add plain HTML and Next.js examples.

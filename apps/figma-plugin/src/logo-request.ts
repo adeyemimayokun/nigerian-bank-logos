@@ -18,7 +18,7 @@ export type CompanyLogoSubmission = {
   rightsConfirmed: boolean;
 };
 
-const requestEndpoint = "https://github.com/adeyemimayokun/nigerian-bank-logos/issues/new";
+const requestEndpoint = "https://github.com/adeyemimayokun/awalogo/issues/new";
 
 export function buildLogoRequestUrl(request: LogoRequest): string {
   const title = `Logo request: ${request.institutionName.trim()}`;

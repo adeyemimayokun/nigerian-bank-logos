@@ -1,4 +1,134 @@
 {
+  "arm-securities": [
+    {
+      "id": "group-wordmark",
+      "name": "Group wordmark",
+      "source_url": "https://www.arm.com.ng/wp-content/uploads/2025/03/Group-logo.-stone-in-square-shape.png",
+      "source_path": "sources/arm-securities-group-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/arm-securities-group-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/arm-securities-group-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "bamboo-system-technology": [
+    {
+      "id": "dark",
+      "name": "Dark",
+      "source_url": "https://investbamboo.com/navbar/logo-desktop-dark.svg",
+      "source_path": "sources/bamboo-system-technology-dark.svg",
+      "svg_path": "assets/bamboo-system-technology-dark.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/bamboo-system-technology-dark.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/bamboo-system-technology-dark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/bamboo-system-technology-dark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    },
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://investbamboo.com/og/bamboo-logo.png",
+      "source_path": "sources/bamboo-system-technology-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/bamboo-system-technology-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/bamboo-system-technology-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "bank-of-industry": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://www.boi.ng/wp-content/uploads/2024/10/BOI-White-logo2.webp",
+      "source_path": "sources/bank-of-industry-light.webp",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/bank-of-industry-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/bank-of-industry-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "boff-and-co-insurance-brokers-l-t-d": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://boffbrokers.com/media/2021/05/Boff-Favicon.png",
+      "source_path": "sources/boff-and-co-insurance-brokers-l-t-d-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/boff-and-co-insurance-brokers-l-t-d-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/boff-and-co-insurance-brokers-l-t-d-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
   "busha-digital": [
     {
       "id": "light",
@@ -31,7 +161,791 @@
       ]
     }
   ],
+  "cardinalstone-securities": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-4-e1764690224524.png",
+      "source_path": "sources/cardinalstone-securities-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/cardinalstone-securities-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/cardinalstone-securities-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    },
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://cardinalstonesecurities.com/wp-content/uploads/2025/12/Coming-Soon-2-e1764690393958.png",
+      "source_path": "sources/cardinalstone-securities-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/cardinalstone-securities-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/cardinalstone-securities-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "confiance-insurance-brokers": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://confianceib.com/confianceLogo.png",
+      "source_path": "sources/confiance-insurance-brokers-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/confiance-insurance-brokers-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/confiance-insurance-brokers-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "coronation-merchant-bank": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://www.coronationmb.com/wp-content/uploads/2019/08/Logo-White.png",
+      "source_path": "sources/coronation-merchant-bank-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/coronation-merchant-bank-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/coronation-merchant-bank-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "custodian-and-allied-insurance": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://custodianinsurance.com/wp-content/uploads/2025/08/cropped-Favicon.png",
+      "source_path": "sources/custodian-and-allied-insurance-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/custodian-and-allied-insurance-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/custodian-and-allied-insurance-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "errandpay": [
+    {
+      "id": "light-wordmark",
+      "name": "Light wordmark",
+      "source_url": "https://errandpay.com/errandpay.svg",
+      "source_path": "sources/errandpay-light-wordmark.svg",
+      "svg_path": "assets/errandpay-light-wordmark.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/errandpay-light-wordmark.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/errandpay-light-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/errandpay-light-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "fcmb-pensions": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://fcmbpensions.com/img/FCMBPensions-New-Logo-white-i.png",
+      "source_path": "sources/fcmb-pensions-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/fcmb-pensions-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/fcmb-pensions-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "federal-competition-and-consumer-protection-commission": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://fccpc.gov.ng/wp-content/uploads/2022/07/cropped-Artboard-%E2%80%93-10-1.png",
+      "source_path": "sources/federal-competition-and-consumer-protection-commission-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/federal-competition-and-consumer-protection-commission-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/federal-competition-and-consumer-protection-commission-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "fincra-technologies": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://fincra.com/wp-content/uploads/2022/10/cropped-Favicon.png",
+      "source_path": "sources/fincra-technologies-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/fincra-technologies-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/fincra-technologies-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    },
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://fincra.com/wp-content/uploads/2022/10/fincra-website-logo-colored.png",
+      "source_path": "sources/fincra-technologies-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/fincra-technologies-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/fincra-technologies-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "first-bank-of": [
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://www.firstbanknigeria.com/wp-content/uploads/2020/01/First-Bank.svg",
+      "source_path": "sources/first-bank-of-wordmark.svg",
+      "svg_path": "assets/first-bank-of-wordmark.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/first-bank-of-wordmark.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/first-bank-of-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/first-bank-of-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "flex-financial-technologies": [
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://useflexfinance.com/assets/img/favicons/ms-icon-310x310.png",
+      "source_path": "sources/flex-financial-technologies-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/flex-financial-technologies-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/flex-financial-technologies-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "fsdh-holding-company": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://fsdhgroup.com/wp-content/uploads/2021/05/holdcotrall.png",
+      "source_path": "sources/fsdh-holding-company-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/fsdh-holding-company-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/fsdh-holding-company-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "greenwich-merchant-bank": [
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://www.greenwichbankgroup.com/wp-content/uploads/2023/05/main-logo.jpg",
+      "source_path": "sources/greenwich-merchant-bank-wordmark.jpg",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/greenwich-merchant-bank-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/greenwich-merchant-bank-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "jpeg",
+          "path": "assets/greenwich-merchant-bank-wordmark.jpg",
+          "mime_type": "image/jpeg",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "interswitch": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://interswitchgroup.com/build-assets/white-og-logo.DerhIWr2_1ka5xi.svg",
+      "source_path": "sources/interswitch-light.svg",
+      "svg_path": "assets/interswitch-light.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/interswitch-light.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/interswitch-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/interswitch-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "kiakia-bits": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://kiakia.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.5079cf7e.png&w=640&q=75",
+      "source_path": "sources/kiakia-bits-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/kiakia-bits-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/kiakia-bits-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "lasaco-assurance": [
+    {
+      "id": "dark",
+      "name": "Dark",
+      "source_url": "https://lasacoassurance.com/assets/img/freelogo.png",
+      "source_path": "sources/lasaco-assurance-dark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/lasaco-assurance-dark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/lasaco-assurance-dark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "moniepoint": [
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://moniepoint.com/logo-mfb.png",
+      "source_path": "sources/moniepoint-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/moniepoint-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/moniepoint-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "national-insurance-commission": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://naicom.gov.ng/wp-content/uploads/2020/07/NAICOM-Small-Size-Logo.png",
+      "source_path": "sources/national-insurance-commission-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/national-insurance-commission-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/national-insurance-commission-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "nigeria-deposit-insurance-corporation": [
+    {
+      "id": "wordmark",
+      "name": "Wordmark",
+      "source_url": "https://ndic.gov.ng/wp-content/uploads/2020/08/ndic_small_logo-1.png",
+      "source_path": "sources/nigeria-deposit-insurance-corporation-wordmark.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/nigeria-deposit-insurance-corporation-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/nigeria-deposit-insurance-corporation-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "nsia-insurance-company": [
+    {
+      "id": "alternate",
+      "name": "Alternate",
+      "source_url": "https://nsiainsurance.com/wp-content/uploads/2025/07/NSIA-Insurance-Transparent-blue.png",
+      "source_path": "sources/nsia-insurance-company-alternate.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/nsia-insurance-company-alternate.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/nsia-insurance-company-alternate.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "onafriq": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://onafriq.com/assets/images/onafriq-logo-white.webp",
+      "source_path": "sources/onafriq-light.webp",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/onafriq-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/onafriq-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "onepipe-io-services": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://www.onepipe.io/img/logo-light.png",
+      "source_path": "sources/onepipe-io-services-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/onepipe-io-services-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/onepipe-io-services-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    },
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://cdn.onepipe.io/assets/jsui/o.png",
+      "source_path": "sources/onepipe-io-services-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/onepipe-io-services-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/onepipe-io-services-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "opay": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://www.opayweb.com/",
+      "source_path": "sources/opay-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/opay-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/opay-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "parthian-pensions": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://parthianpensions.com/wp-content/uploads/2025/06/Favicon2-PP-min.png",
+      "source_path": "sources/parthian-pensions-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/parthian-pensions-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/parthian-pensions-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "regency-alliance-insurance": [
+    {
+      "id": "alternate",
+      "name": "Alternate",
+      "source_url": "https://regencyalliance.com/wp-content/uploads/2018/04/footer-logo.png",
+      "source_path": "sources/regency-alliance-insurance-alternate.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/regency-alliance-insurance-alternate.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/regency-alliance-insurance-alternate.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "reliance-hmo": [
+    {
+      "id": "group-wordmark",
+      "name": "Group wordmark",
+      "source_url": "https://getreliancehealth.com/nigeria/wp-content/uploads/sites/3/2023/12/header_reliance-health_mono-dark-1.svg",
+      "source_path": "sources/reliance-hmo-group-wordmark.svg",
+      "svg_path": "assets/reliance-hmo-group-wordmark.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/reliance-hmo-group-wordmark.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/reliance-hmo-group-wordmark.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/reliance-hmo-group-wordmark.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "standard-chartered-bank": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://av.sc.com/assets/global/images/components/header/logo.svg",
+      "source_path": "sources/standard-chartered-bank-symbol.svg",
+      "svg_path": "assets/standard-chartered-bank-symbol.svg",
+      "formats": [
+        {
+          "type": "svg",
+          "path": "assets/standard-chartered-bank-symbol.svg",
+          "mime_type": "image/svg+xml",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "png",
+          "path": "assets/standard-chartered-bank-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/standard-chartered-bank-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
   "sycamore-integrated-solutions": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://storage.googleapis.com/sycamore-assets/website/new-assets/logo-white_kq0btl.png",
+      "source_path": "sources/sycamore-integrated-solutions-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/sycamore-integrated-solutions-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/sycamore-integrated-solutions-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    },
     {
       "id": "symbol",
       "name": "Symbol",
@@ -56,6 +970,81 @@
         {
           "type": "webp",
           "path": "assets/sycamore-integrated-solutions-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "tajbank": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://tajbank.com/wp-content/uploads/2022/07/logo-white.png",
+      "source_path": "sources/tajbank-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/tajbank-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/tajbank-light.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "universal-insurance": [
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "source_url": "https://universalinsuranceplc.com/wp-content/uploads/2024/08/univ-insure-login_logo-512.png",
+      "source_path": "sources/universal-insurance-symbol.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/universal-insurance-symbol.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/universal-insurance-symbol.webp",
+          "mime_type": "image/webp",
+          "width": null,
+          "height": null
+        }
+      ]
+    }
+  ],
+  "veritas-glanvills-pensions": [
+    {
+      "id": "light",
+      "name": "Light",
+      "source_url": "https://vgpensions.com/wp-content/uploads/2022/03/Veritas-Pensions-Logo-white.png",
+      "source_path": "sources/veritas-glanvills-pensions-light.png",
+      "svg_path": null,
+      "formats": [
+        {
+          "type": "png",
+          "path": "assets/veritas-glanvills-pensions-light.png",
+          "mime_type": "image/png",
+          "width": null,
+          "height": null
+        },
+        {
+          "type": "webp",
+          "path": "assets/veritas-glanvills-pensions-light.webp",
           "mime_type": "image/webp",
           "width": null,
           "height": null

@@ -2,6 +2,12 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite",
   "installCommand": "pnpm install --frozen-lockfile",
-  "buildCommand": "pnpm build:plugin",
-  "outputDirectory": "apps/figma-plugin/dist"
+  "buildCommand": "pnpm build:web",
+  "outputDirectory": "apps/web/dist",
+  "rewrites": [
+    { "source": "/docs", "destination": "/index.html" },
+    { "source": "/docs/:path*", "destination": "/index.html" },
+    { "source": "/admin", "destination": "/index.html" },
+    { "source": "/admin/:path*", "destination": "/index.html" }
+  ]
 }

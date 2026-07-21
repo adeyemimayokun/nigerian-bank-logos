@@ -1,4 +1,4 @@
-import type { Institution, InstitutionCategory } from "@nigerian-bank-logos/institutions";
+import type { Institution, InstitutionCategory } from "@awalogo/institutions";
 import communityCandidatesJson from "../../../packages/institutions/data/community-candidates.json";
 import institutionsJson from "../../../packages/institutions/exports/institutions-ng.json";
 import { institutionLogoLinks } from "../../../packages/logos/src/institution-links";

@@ -1,4 +1,4 @@
-# @nigerian-bank-logos/core
+# @awalogo/core
 
 Typed metadata and downloadable assets for Nigerian financial institution logos.
 
@@ -22,7 +22,7 @@ pnpm logos:sync-links     # link matching institution rows to canonical logos
 pnpm logos:promote        # rebuild reviewed promotions and their formats
 ```
 
-`logos:source` visits official websites recorded in `@nigerian-bank-logos/institutions`
+`logos:source` visits official websites recorded in `@awalogo/institutions`
 and writes candidates to `sourcing/queue.json`. Candidates are never accepted
 automatically. A maintainer must confirm that an asset is the current canonical
 logo and comes from an official source.

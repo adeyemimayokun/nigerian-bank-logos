@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">awalogo logo</title>
+  <desc id="desc">An interlocking a and w monogram representing a shared logo library.</desc>
+  <defs>
+    <linearGradient id="dark-tile" x1="110" y1="130" x2="610" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111411"/>
+      <stop offset="1" stop-color="#242925"/>
+    </linearGradient>
+    <linearGradient id="lime-tile" x1="660" y1="210" x2="1080" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8ef55"/>
+      <stop offset="1" stop-color="#b8d93d"/>
+    </linearGradient>
+    <linearGradient id="lime-letter" x1="180" y1="250" x2="470" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d9f15a"/>
+      <stop offset="1" stop-color="#badb40"/>
+    </linearGradient>
+    <filter id="soft-depth" x="-8%" y="-8%" width="116%" height="116%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#111411" flood-opacity=".14"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#soft-depth)">
+    <path fill="url(#dark-tile)" d="M128 116h360c19 0 38 8 52 22l111 111c16 16 16 42 0 58l-61 61c-10 10-15 22-15 36v72c0 15 6 28 16 38l54 54c17 17 17 44 0 61l-72 72c-14 14-32 21-52 21H128c-47 0-85-38-85-85V201c0-47 38-85 85-85Z"/>
+    <path fill="url(#lime-tile)" d="M701 210h356c55 0 100 45 100 100v310c0 55-45 100-100 100H731c-19 0-37-7-51-21l-94-94c-16-16-16-42 0-58l62-62c10-10 15-23 15-37v-64c0-14-5-27-15-37l-27-27c-16-16-16-42 0-58l57-57c6-6 14-13 23-15Z"/>
+
+    <path fill="url(#lime-letter)" fill-rule="evenodd" d="M330 250c-91 0-160 66-160 151s69 151 160 151c34 0 63-10 87-29v29h64V401c0-85-59-151-151-151Zm2 65c50 0 86 36 86 86s-36 86-86 86-86-36-86-86 36-86 86-86Z"/>
+    <path fill="#151715" d="M671 337h71l49 184 54-142h55l54 142 48-184h70l-83 287h-63l-53-138-53 138h-64l-85-287Z"/>
+  </g>
+</svg>

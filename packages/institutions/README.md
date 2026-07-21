@@ -1,4 +1,4 @@
-# @nigerian-bank-logos/institutions
+# @awalogo/institutions
 
 Typed, source-aware data for Nigerian financial institutions and foreign operators authorized to serve Nigeria.
 
@@ -28,7 +28,7 @@ import {
   findInstitution,
   getInstitutionsByCategory,
   institutions
-} from "@nigerian-bank-logos/institutions";
+} from "@awalogo/institutions";
 
 const banks = getInstitutionsByCategory("commercial-bank");
 const opay = findInstitution("opay-digital-services");

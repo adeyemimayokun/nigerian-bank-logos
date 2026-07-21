@@ -191,7 +191,7 @@ async function downloadMatch(match: { source: NigeriaLogosEntry; institution: In
     const sourceUrl = `${sourceBaseUrl}/logos/${source.filename}/${source.filename}.${format}`;
     try {
       const response = await fetch(sourceUrl, {
-        headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source candidate review)" },
+        headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source candidate review)" },
         signal: AbortSignal.timeout(15_000)
       });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -248,7 +248,7 @@ function validateAsset(bytes: Buffer, format: "svg" | "png") {
 
 async function fetchJson<T>(url: string): Promise<T> {
   const response = await fetch(url, {
-    headers: { "user-agent": "nigerian-bank-logos/0.1 (+open-source candidate review)" },
+    headers: { "user-agent": "awalogo/0.1 (+https://awalogo.com; open-source candidate review)" },
     signal: AbortSignal.timeout(15_000)
   });
   if (!response.ok) throw new Error(`Failed to fetch ${url}: HTTP ${response.status}`);
