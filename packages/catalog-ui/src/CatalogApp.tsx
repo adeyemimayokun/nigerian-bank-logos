@@ -737,15 +737,18 @@ export function CatalogApp({
             <div className="pager-summary">
               <label className="pager-page-size">
                 <span>Show</span>
-                <select
-                  aria-label="Logos per page"
-                  value={pageSize}
-                  onChange={(event) => setPageSize(Number(event.target.value))}
-                >
-                  {PAGE_SIZE_OPTIONS.map((option) => (
-                    <option key={option} value={option}>{option}</option>
-                  ))}
-                </select>
+                <span className="pager-select-control">
+                  <select
+                    aria-label="Logos per page"
+                    value={pageSize}
+                    onChange={(event) => setPageSize(Number(event.target.value))}
+                  >
+                    {PAGE_SIZE_OPTIONS.map((option) => (
+                      <option key={option} value={option}>{option}</option>
+                    ))}
+                  </select>
+                  <ChevronDown aria-hidden="true" size={15} strokeWidth={1.75} />
+                </span>
                 <span>per page</span>
               </label>
               <span className="pager-separator" aria-hidden="true">·</span>
